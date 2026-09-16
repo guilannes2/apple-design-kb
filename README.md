@@ -10,14 +10,14 @@ Você instala a skill no modelo de linguagem com que trabalha e passa a construi
 
 1. Só o design system da Apple. Componentes, navegação, tipografia, cor, materiais, espaçamento, movimento, escrita e acessibilidade vêm da base. Nada de outro design system, tema padrão de biblioteca ou estética própria.
 2. Proibido inventar. Sem resposta na base, o modelo pesquisa nas páginas da própria Apple e cita a URL. Sem resultado, ele diz que a Apple não publica regra sobre aquilo e marca a proposta como inferência.
-3. Nunca quebrar uma regra da Apple. Antes de entregar, toda tela passa por um checklist de 38 perguntas e por uma lista de 37 anti-padrões que a Apple condena. Pedido que viola uma regra não é implementado: o modelo mostra a regra, cita a fonte e oferece a alternativa da Apple.
+3. Nunca quebrar uma regra da Apple. Antes de entregar, toda tela passa por um checklist de 38 perguntas e por uma lista de 37 anti-padrões que a Apple condena. O modelo não implementa pedido que viola uma regra: mostra a regra, cita a fonte e oferece a alternativa da Apple.
 4. Toda decisão tem fonte. Cada componente, valor e comportamento vem com a página das diretrizes ou a sessão que o sustenta, e a entrega termina com uma tabela de conformidade.
 
 ## Instalar
 
 Clone o repositório e escolha o seu ambiente.
 
-**Claude Code.** Copie a pasta da skill para as suas skills e ajuste o caminho da base no início do arquivo:
+Claude Code. Copie a pasta da skill para as suas skills e ajuste o caminho da base no início do arquivo:
 
 ```bash
 git clone https://github.com/guilannes2/apple-design-kb.git
@@ -26,9 +26,9 @@ cp -r apple-design-kb/skills/apple-design ~/.claude/skills/apple-design
 
 A skill dispara sozinha quando a conversa trata de interface, tela, app, iOS, macOS, SwiftUI, HIG ou padrão Apple. Você também pode chamar `/apple-design`.
 
-**Codex, Cursor, Windsurf e outros com arquivo de regras.** Copie o conteúdo de `skills/apple-design/PROMPT_SISTEMA.md` para o arquivo de regras do projeto, como `AGENTS.md` ou `.cursor/rules`, e mantenha a pasta `kb/` acessível ao modelo.
+Codex, Cursor, Windsurf e outros com arquivo de regras. Copie o conteúdo de `skills/apple-design/PROMPT_SISTEMA.md` para o arquivo de regras do projeto, como `AGENTS.md` ou `.cursor/rules`, e mantenha a pasta `kb/` acessível ao modelo.
 
-**ChatGPT, Gemini, Claude no navegador ou qualquer modelo sem acesso a arquivos.** Cole `skills/apple-design/PROMPT_SISTEMA.md` como instrução de sistema ou no início da conversa. Ele funciona sozinho, com os pisos numéricos e as proibições. Para o material completo, anexe `kb/00_ESSENCIA_APPLE.md`.
+ChatGPT, Gemini, Claude no navegador ou qualquer modelo sem acesso a arquivos. Cole `skills/apple-design/PROMPT_SISTEMA.md` como instrução de sistema ou no início da conversa. Ele funciona sozinho, com os pisos numéricos e as proibições. Para o material completo, anexe `kb/00_ESSENCIA_APPLE.md`.
 
 ## Por onde começar a ler
 
@@ -39,17 +39,17 @@ A skill dispara sozinha quando a conversa trata de interface, tela, app, iOS, ma
 
 ## O que a Apple ensina, em resumo
 
-**Treze princípios de primeira ordem.** Propósito antes de tudo. O conteúdo em primeiro lugar, com a interface e a marca cedendo. Familiaridade e consistência, com o componente do sistema como padrão e o customizado como exceção justificada. Clareza e simplicidade, que não são minimalismo. Agência, perdão e controle nas mãos da pessoa. Feedback imediato e causal. Responsabilidade com privacidade e dados mínimos. Flexibilidade e inclusão desde o primeiro rascunho. O corpo, o contexto e o dispositivo como régua. Craft, no sentido de que nada é aleatório. Deleite como soma, não como decoração. Moderação, porque interrupção, cor, efeito e som são créditos escassos. Honestidade de estado e de linguagem.
+Treze princípios de primeira ordem. Propósito antes de tudo. O conteúdo em primeiro lugar, com a interface e a marca cedendo. Familiaridade e consistência, com o componente do sistema como padrão e o customizado como exceção justificada. Clareza e simplicidade, que não são minimalismo. Agência, perdão e controle nas mãos da pessoa. Feedback imediato e causal. Responsabilidade com privacidade e dados mínimos. Flexibilidade e inclusão desde o primeiro rascunho. O corpo, o contexto e o dispositivo como régua. Craft, ou seja, nada é aleatório. Deleite como soma, não como decoração. Moderação, porque interrupção, cor, efeito e som são créditos escassos. Honestidade de estado e de linguagem.
 
-**Um processo em treze etapas**, do problema à tela: perguntar por que a coisa deve existir, definir para quem, listar tudo o que o app poderia fazer e depois cortar, estruturar navegação e conteúdo, começar pelo que já se sabe, gerar muitas alternativas antes de criticar, prototipar subindo a fidelidade aos poucos, mostrar a pessoas reais no dispositivo, e só então o design visual, a escrita, o som e a háptica, a acessibilidade atravessando tudo e a comunicação do trabalho.
+Um processo em treze etapas, do problema à tela: perguntar por que a coisa deve existir, definir para quem, listar tudo o que o app poderia fazer e depois cortar, estruturar navegação e conteúdo, começar pelo que já se sabe, gerar muitas alternativas antes de criticar, prototipar subindo a fidelidade aos poucos, mostrar a pessoas reais no dispositivo, e só então o design visual, a escrita, o som e a háptica, a acessibilidade atravessando tudo e a comunicação do trabalho.
 
-**O sistema**: tipografia, cor, materiais, layout e espaçamento, ícones e símbolos, movimento, háptica e som, escrita e acessibilidade, com os valores que a Apple publica e com a indicação de quando um número vem de uma fala e não das diretrizes.
+O sistema: tipografia, cor, materiais, layout e espaçamento, ícones e símbolos, movimento, háptica e som, escrita e acessibilidade, com os valores que a Apple publica e com a indicação de quando um número vem de uma fala e não das diretrizes.
 
-**As plataformas**: o que muda de decisão entre iPhone, iPad, Mac, Apple TV, Vision Pro, Apple Watch, iPhone Duo e CarPlay.
+As plataformas: o que muda de decisão entre iPhone, iPad, Mac, Apple TV, Vision Pro, Apple Watch, iPhone Duo e CarPlay.
 
-**A evolução** do pensamento de design da Apple por período, de 2014 a 2026, 37 anti-padrões que a Apple condena com todas as letras e um checklist de 38 perguntas para revisar uma tela.
+A evolução do pensamento de design da Apple por período, de 2014 a 2026, 37 anti-padrões que a Apple condena com todas as letras e um checklist de 38 perguntas para revisar uma tela.
 
-**O que só as imagens mostram.** Este capítulo saiu de uma leitura que os textos não tinham: 3.072 folhas de quadros dos vídeos e 552 folhas de ilustrações das diretrizes, vistas uma a uma. São 60 itens em oito seções, cada um com a imagem ou o quadro que o sustenta. Alguns exemplos:
+O que só as imagens mostram. Este capítulo saiu de uma leitura que os textos não tinham: 3.072 folhas de quadros dos vídeos e 552 folhas de ilustrações das diretrizes, vistas uma a uma. São 60 itens em oito seções, cada um com a imagem ou o quadro que o sustenta. Alguns exemplos:
 
 - Medida de componente é ensinada como relação, com setas duplas cotando largura, altura e respiro, e o número só aparece onde existe contrato com o sistema ou com terceiros, como nas máscaras do Game Center e nos botões do Apple Pay.
 - O alvo de toque é maior que o desenho pintado, e a folga dobra quando o botão não tem moldura própria: 12 pontos de cada lado no botão com bezel, 24 no símbolo pequeno e no botão só de texto.

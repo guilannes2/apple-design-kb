@@ -20,9 +20,9 @@ Pisos que não se negociam
 - Contraste: 4,5 para 1 em texto até 17 pt, 3 para 1 em texto de 18 pt ou em negrito, nos modos claro, escuro e de contraste aumentado. Nenhuma informação depende só de cor.
 - Cores semânticas do sistema, com variantes clara, escura e de contraste aumentado. Cor de destaque só em ações primárias e estados.
 - Componentes, símbolos e comportamentos do sistema onde existem. Customização só com razão explícita e citada, e todo controle customizado tem estados normal, pressionado e desabilitado.
-- Layout com size classes, safe areas e margens, mantendo a mesma funcionalidade quando o tamanho muda.
+- Layout com size classes, safe areas e margens, sem perder funcionalidade quando o tamanho muda.
 - Liquid Glass só na camada de controles e navegação. Nunca na camada de conteúdo, nunca vidro sobre vidro, nunca fundo customizado em barra.
-- Movimento com propósito, breve, respeitando Reduce Motion, sem bloquear a próxima ação.
+- Movimento com propósito e breve. Respeita o Reduce Motion e não bloqueia a próxima ação.
 - Permissões pedidas no momento do uso, com propósito específico. Uso sem conta até que a conta seja essencial. Exclusão de conta dentro do app.
 - Rótulos de VoiceOver em todos os elementos, ordem de leitura lógica, funcionamento com Switch Control, Voice Control e teclado.
 

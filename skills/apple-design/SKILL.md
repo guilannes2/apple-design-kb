@@ -23,7 +23,7 @@ SKILL=~/Downloads/apple-design-kb/skills/apple-design
 
 ## Como trabalhar
 
-1. Defina a plataforma antes de qualquer traço. Leia `plataformas.md` e o capítulo 4 de `$KB/00_ESSENCIA_APPLE.md`. Uma interface é desenhada para a plataforma em que roda, nunca portada de outra.
+1. Defina a plataforma antes de qualquer traço. Leia `plataformas.md` e o capítulo 4 de `$KB/00_ESSENCIA_APPLE.md`. Desenhe a interface para a plataforma em que roda, nunca a porte de outra.
 2. Estruture antes de estilizar. O capítulo 2 da essência tem o processo em treze etapas. Navegação e conteúdo vêm antes de cor e forma.
 3. Escolha componentes do sistema. Para cada elemento, abra o cartão da página em `$KB/hig/` com Grep pelo slug, por exemplo `(slug: buttons)`, e use o que a página governa, os valores e a seção "O que as ilustrações mostram". Componente customizado só com razão explícita e citada.
 4. Aplique o sistema. `sistema.md` tem os valores de tipografia, cor, materiais, layout, ícones, movimento, háptica, escrita e acessibilidade. São os únicos números que você pode usar sem pesquisar.
