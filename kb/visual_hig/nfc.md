@@ -1,0 +1,14 @@
+# HIG, página nfc: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_nfc: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_nfc · folha 0001 · código EDAF5
+- img 0807 (clara), seção NFC, sem legenda: sketch estilizado tingido de azul, com a mesma grade geométrica de linhas e círculo-guia das outras páginas. Mostra três arcos curvos concêntricos crescentes, no formato clássico do ícone de NFC/contactless (como o símbolo de "ondas" visto também na página nearby-interactions, mas aqui simétrico e maior, ocupando boa parte do quadro). Confirma a descrição oficial de "linhas curvas progressivamente maiores estendendo-se para a direita".
+- img 0808 (clara), seção In-app tag reading, sem legenda: ilustração de uma folha (sheet) de digitalização no iPhone, com título "Ready to Scan", um ícone circular azul com um smartphone estilizado dentro, o texto "Hold your device near the NFC tag." e um botão "Cancel" em cinza claro ocupando toda a largura na parte inferior. O ícone do telefone dentro do círculo tem um leve brilho ou reflexo na borda esquerda, sugerindo a superfície de vidro do aparelho.
+- img 0809 (clara), seção Background tag reading, sem legenda: screenshot da Tela de Início do iPhone (papel de parede abstrato marrom/dourado), com uma notificação no topo "Item Detected · Open in App" às "9:41 AM" com um ícone preto de ondas de NFC à esquerda, sobreposta aos ícones da primeira fileira de apps (FaceTime, Calendar, Photos, Camera) e parcialmente cobrindo-os. Abaixo aparecem mais fileiras de apps (Mail, Notes, Reminders, Clock, News, TV, Games, App Store, e mais uma fileira cortada na base com Maps, Health, Wallet, Settings). Mostra concretamente que a notificação de leitura em segundo plano aparece como um banner padrão do sistema no topo da tela de início, sem precisar abrir nenhum app antes.
+
+## Síntese visual da página nfc
+- O ícone de abertura da página (img 0807) reaproveita a mesma forma de "ondas curvas crescentes" vista na página nearby-interactions (img 0806), mas de forma simétrica e sem o círculo de "pessoa/sensor", reforçando que o mesmo motivo visual de ondas é usado pela Apple tanto para comunicação de proximidade genérica quanto para NFC especificamente, variando a composição ao redor dele.
+- A leitura de tag dentro do app usa uma folha modal centrada com ícone, instrução textual direta ("Hold your device near the NFC tag") e botão de cancelar, seguindo o padrão comum de sheets de ação do iOS (img 0808).
+- A leitura de tag em segundo plano dispensa completamente a interface do app: o primeiro contato do usuário com o recurso é uma notificação padrão do sistema sobreposta à própria Tela de Início, com a ação de abrir o app específico embutida na notificação (img 0809).

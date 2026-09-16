@@ -1,0 +1,10 @@
+# HIG, página steppers: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_steppers: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_steppers · folha 0001 · código 7C82C
+- img 1107 (clara), seção Steppers: ilustração de abertura em gradiente laranja para vermelho, mostrando um stepper isolado: um botão em pílula vertical dividido ao meio por uma linha horizontal fina, com uma seta apontando para cima na metade superior e uma seta apontando para baixo na metade inferior. Ao redor, cotas de medição: uma chave horizontal no topo indicando a largura do controle, uma chave vertical à direita indicando a altura total, e à esquerda duas notações em estilo de pseudocódigo, "i++" ligada por uma linha à metade superior (botão de incrementar) e "i--" ligada à metade inferior (botão de decrementar). É uma peça conceitual, não uma captura de app real, e o único lugar do conjunto que expressa o comportamento do controle em notação de código em vez de texto descritivo.
+
+## Síntese visual da página steppers
+- Diferente de outras páginas de abertura do HIG que só mostram a aparência do controle, aqui a ilustração de abertura já embute a lógica de incremento e decremento diretamente como rótulos de pseudocódigo ("i++", "i--") ligados a cada metade do botão, além das cotas de largura e altura do componente (img 1107).

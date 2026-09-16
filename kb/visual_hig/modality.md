@@ -1,0 +1,11 @@
+# HIG, página modality: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_modality: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_modality · folha 0001 · código E6B94
+- img 0799 (clara), seção Modality, sem legenda: sketch estilizado de duas janelas sobrepostas, tingido de laranja (remetendo ao logo histórico da Apple). Uma janela retangular arredondada mais atrás e à esquerda, e outra janela na frente e à direita, maior, com uma barra de título com três pontos no topo (referência à barra de semáforo de janela do macOS) e um corpo retangular abaixo. Uma grade de linhas pontilhadas (verticais, horizontais, diagonais radiais e um círculo-guia) cobre toda a composição, mostrando os eixos usados para desenhar e alinhar as duas janelas. As duas formas usam o mesmo tom de vermelho translúcido sobreposto ao fundo laranja, sem diferença de opacidade entre a janela da frente e a de trás. Acrescenta ao texto e à descrição oficial a evidência de que, apesar da legenda dizer que a composição "sugere foco na janela da frente", a imagem em si não usa opacidade nem cor diferenciada entre as duas janelas para indicar esse foco: a hierarquia visual vem só da posição de sobreposição (a da frente cobre parte da de trás) e do detalhe extra da barra de três pontos só na janela frontal, não de contraste de luminosidade ou cor entre ativa e inativa.
+
+## Síntese visual da página modality
+- A construção da forma segue o mesmo método visto na página materials: grade geométrica explícita (linhas e círculo-guia) por trás do desenho final, reforçando que os sketches de abertura de cada página do HIG nascem de uma mesma grade de proporção, não de composição livre (img 0799).
+- Diferente do que a legenda descreve ("sugerindo foco na janela da frente"), a imagem não usa opacidade ou escurecimento na janela de trás para indicar que ela está inativa: a única pista visual de hierarquia é a sobreposição física e a barra de título com três pontos presente somente na janela da frente (img 0799).

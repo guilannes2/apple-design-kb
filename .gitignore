@@ -1,0 +1,13 @@
+# Conteúdo integral da Apple (HIG e transcrições) e mídia: ficam fora do repositório
+raw/
+text/
+media/
+media_hig/
+sheets/
+sheets_hig/
+frames/
+# Logs de execução e temporários
+*.log
+*.out
+__pycache__/
+.DS_Store

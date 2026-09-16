@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__022 · folha 0001 · código 0C443
+- Quadros: em q001 (t=0.0s), guia vertical pontilhada com bolinhas nas pontas na margem esquerda e faixa clara tracejada ao lado, sem barra sólida. Em q002 (t=0.5s), guia na margem direita e uma única barra verde sólida no centro-direita, a mais alta entre as três variações de impacto observadas (020, 021, 022), ocupando quase toda a distância entre a linha de base e o topo útil do quadro.
+- Construção de interface: mesma estrutura de linha do tempo; a altura máxima da barra entre as três variações de impacto reforça visualmente a ideia de "heavy" como a intensidade mais forte da série.
+- Com a descrição oficial ("um único pulso háptico representando um impacto pesado"): confere; a barra é a mais alta entre 020, 021 e 022, alinhado com a gradação leve/médio/pesado.

@@ -1,0 +1,7 @@
+### O que as ilustrações mostram
+Base: 2 folhas de ilustrações vistas (7 imagens, em aparência clara), códigos conferidos; sem vídeos.
+- A abertura desenha o ícone AirPlay, um retângulo arredondado de tela com um triângulo encaixado na base, em azul escuro sobre degradê azul, com grade retangular e circular pontilhada; é a mesma construção das páginas accessibility e action-button, agora tingida de azul (img 0039).
+- O player padrão do sistema, em pausa, sobrepõe controles translúcidos ao vídeo: no topo fechar, picture in picture, AirPlay e compartilhar; ao centro retroceder 10 segundos, pausar e avançar 10 segundos; embaixo a barra de progresso com tempo decorrido e restante; legendas e áudio no canto inferior direito (img 0040).
+- Os ícones AirPlay aparecem como par fixo: áudio à esquerda, um triângulo sob três arcos concêntricos, e vídeo à direita, um triângulo sob um retângulo arredondado de tela (img 0041).
+- O mesmo par é repetido três vezes na mesma disposição e só a cor muda com o fundo: preto sobre branco, branco dentro de um retângulo preto sólido e azul vibrante sobre branco, formando um guia de cor por contexto (img 0041, img 0042, img 0043).
+- Na parte de nomenclatura, certo e errado usam selos isolados, check verde em círculo verde e X cinza em círculo cinza, cada um em sua própria célula, sem estarem emparelhados na mesma imagem como em outras páginas (img 0044, img 0045).

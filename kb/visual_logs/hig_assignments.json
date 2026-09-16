@@ -1,0 +1,2116 @@
+[
+ {
+  "label": "hig-001",
+  "items": [
+   {
+    "unit_id": "hig-img_accessibility",
+    "kind": "hig-imagens",
+    "page": "accessibility",
+    "title": "Ilustrações do HIG: accessibility",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-vid_accessibility__000",
+    "kind": "hig-video",
+    "page": "accessibility",
+    "title": "Vídeo do HIG: accessibility (visionos-accessibility-hand-pointer.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_accessibility__001",
+    "kind": "hig-video",
+    "page": "accessibility",
+    "title": "Vídeo do HIG: accessibility (visionos-accessibility-head-pointer.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_action-button",
+    "kind": "hig-imagens",
+    "page": "action-button",
+    "title": "Ilustrações do HIG: action-button",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_action-sheets",
+    "kind": "hig-imagens",
+    "page": "action-sheets",
+    "title": "Ilustrações do HIG: action-sheets",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_activity-rings",
+    "kind": "hig-imagens",
+    "page": "activity-rings",
+    "title": "Ilustrações do HIG: activity-rings",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_activity-views",
+    "kind": "hig-imagens",
+    "page": "activity-views",
+    "title": "Ilustrações do HIG: activity-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_airplay",
+    "kind": "hig-imagens",
+    "page": "airplay",
+    "title": "Ilustrações do HIG: airplay",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_alerts",
+    "kind": "hig-imagens",
+    "page": "alerts",
+    "title": "Ilustrações do HIG: alerts",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_alerts__002",
+    "kind": "hig-video",
+    "page": "alerts",
+    "title": "Vídeo do HIG: alerts (alerts-freeform-delete-warning.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_alerts__003",
+    "kind": "hig-video",
+    "page": "alerts",
+    "title": "Vídeo do HIG: alerts (alerts-shared-space-pinning-to-window.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_always-on",
+    "kind": "hig-imagens",
+    "page": "always-on",
+    "title": "Ilustrações do HIG: always-on",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-002",
+  "items": [
+   {
+    "unit_id": "hig-img_app-clips",
+    "kind": "hig-imagens",
+    "page": "app-clips",
+    "title": "Ilustrações do HIG: app-clips",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-img_app-icons",
+    "kind": "hig-imagens",
+    "page": "app-icons",
+    "title": "Ilustrações do HIG: app-icons",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-vid_app-icons__004",
+    "kind": "hig-video",
+    "page": "app-icons",
+    "title": "Vídeo do HIG: app-icons (visionos-app-icon-showcase.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_app-shortcuts",
+    "kind": "hig-imagens",
+    "page": "app-shortcuts",
+    "title": "Ilustrações do HIG: app-shortcuts",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-003",
+  "items": [
+   {
+    "unit_id": "hig-img_apple-pay",
+    "kind": "hig-imagens",
+    "page": "apple-pay",
+    "title": "Ilustrações do HIG: apple-pay",
+    "from": 1,
+    "to": 14,
+    "total": 14
+   },
+   {
+    "unit_id": "hig-img_apple-pencil-and-scribble",
+    "kind": "hig-imagens",
+    "page": "apple-pencil-and-scribble",
+    "title": "Ilustrações do HIG: apple-pencil-and-scribble",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_augmented-reality",
+    "kind": "hig-imagens",
+    "page": "augmented-reality",
+    "title": "Ilustrações do HIG: augmented-reality",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-vid_augmented-reality__005",
+    "kind": "hig-video",
+    "page": "augmented-reality",
+    "title": "Vídeo do HIG: augmented-reality (visionos-augmented-reality-meteor.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-004",
+  "items": [
+   {
+    "unit_id": "hig-img_boxes",
+    "kind": "hig-imagens",
+    "page": "boxes",
+    "title": "Ilustrações do HIG: boxes",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_branding",
+    "kind": "hig-imagens",
+    "page": "branding",
+    "title": "Ilustrações do HIG: branding",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_buttons",
+    "kind": "hig-imagens",
+    "page": "buttons",
+    "title": "Ilustrações do HIG: buttons",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-vid_buttons__006",
+    "kind": "hig-video",
+    "page": "buttons",
+    "title": "Vídeo do HIG: buttons (visionos-button-styles-animation.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_buttons__007",
+    "kind": "hig-video",
+    "page": "buttons",
+    "title": "Vídeo do HIG: buttons (visionos-button-dwell-tooltip.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_camera-control",
+    "kind": "hig-imagens",
+    "page": "camera-control",
+    "title": "Ilustrações do HIG: camera-control",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_carekit",
+    "kind": "hig-imagens",
+    "page": "carekit",
+    "title": "Ilustrações do HIG: carekit",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_carplay",
+    "kind": "hig-imagens",
+    "page": "carplay",
+    "title": "Ilustrações do HIG: carplay",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_charting-data",
+    "kind": "hig-imagens",
+    "page": "charting-data",
+    "title": "Ilustrações do HIG: charting-data",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_charts",
+    "kind": "hig-imagens",
+    "page": "charts",
+    "title": "Ilustrações do HIG: charts",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_collaboration-and-sharing",
+    "kind": "hig-imagens",
+    "page": "collaboration-and-sharing",
+    "title": "Ilustrações do HIG: collaboration-and-sharing",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_collections",
+    "kind": "hig-imagens",
+    "page": "collections",
+    "title": "Ilustrações do HIG: collections",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-005",
+  "items": [
+   {
+    "unit_id": "hig-img_color",
+    "kind": "hig-imagens",
+    "page": "color",
+    "title": "Ilustrações do HIG: color",
+    "from": 1,
+    "to": 21,
+    "total": 42
+   }
+  ]
+ },
+ {
+  "label": "hig-006",
+  "items": [
+   {
+    "unit_id": "hig-img_color",
+    "kind": "hig-imagens",
+    "page": "color",
+    "title": "Ilustrações do HIG: color",
+    "from": 22,
+    "to": 42,
+    "total": 42
+   },
+   {
+    "unit_id": "hig-img_color-wells",
+    "kind": "hig-imagens",
+    "page": "color-wells",
+    "title": "Ilustrações do HIG: color-wells",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_column-views",
+    "kind": "hig-imagens",
+    "page": "column-views",
+    "title": "Ilustrações do HIG: column-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_combo-boxes",
+    "kind": "hig-imagens",
+    "page": "combo-boxes",
+    "title": "Ilustrações do HIG: combo-boxes",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-007",
+  "items": [
+   {
+    "unit_id": "hig-img_complications",
+    "kind": "hig-imagens",
+    "page": "complications",
+    "title": "Ilustrações do HIG: complications",
+    "from": 1,
+    "to": 14,
+    "total": 14
+   },
+   {
+    "unit_id": "hig-img_context-menus",
+    "kind": "hig-imagens",
+    "page": "context-menus",
+    "title": "Ilustrações do HIG: context-menus",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_controls",
+    "kind": "hig-imagens",
+    "page": "controls",
+    "title": "Ilustrações do HIG: controls",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_dark-mode",
+    "kind": "hig-imagens",
+    "page": "dark-mode",
+    "title": "Ilustrações do HIG: dark-mode",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_design-principles",
+    "kind": "hig-imagens",
+    "page": "design-principles",
+    "title": "Ilustrações do HIG: design-principles",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_designing-for-games",
+    "kind": "hig-imagens",
+    "page": "designing-for-games",
+    "title": "Ilustrações do HIG: designing-for-games",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-008",
+  "items": [
+   {
+    "unit_id": "hig-img_designing-for-ios",
+    "kind": "hig-imagens",
+    "page": "designing-for-ios",
+    "title": "Ilustrações do HIG: designing-for-ios",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_designing-for-ipados",
+    "kind": "hig-imagens",
+    "page": "designing-for-ipados",
+    "title": "Ilustrações do HIG: designing-for-ipados",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_designing-for-iphone-duo",
+    "kind": "hig-imagens",
+    "page": "designing-for-iphone-duo",
+    "title": "Ilustrações do HIG: designing-for-iphone-duo",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-img_designing-for-macos",
+    "kind": "hig-imagens",
+    "page": "designing-for-macos",
+    "title": "Ilustrações do HIG: designing-for-macos",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_designing-for-tvos",
+    "kind": "hig-imagens",
+    "page": "designing-for-tvos",
+    "title": "Ilustrações do HIG: designing-for-tvos",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_designing-for-visionos",
+    "kind": "hig-imagens",
+    "page": "designing-for-visionos",
+    "title": "Ilustrações do HIG: designing-for-visionos",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_designing-for-watchos",
+    "kind": "hig-imagens",
+    "page": "designing-for-watchos",
+    "title": "Ilustrações do HIG: designing-for-watchos",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_digit-entry-views",
+    "kind": "hig-imagens",
+    "page": "digit-entry-views",
+    "title": "Ilustrações do HIG: digit-entry-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_digital-crown",
+    "kind": "hig-imagens",
+    "page": "digital-crown",
+    "title": "Ilustrações do HIG: digital-crown",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_disclosure-controls",
+    "kind": "hig-imagens",
+    "page": "disclosure-controls",
+    "title": "Ilustrações do HIG: disclosure-controls",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_dock-menus",
+    "kind": "hig-imagens",
+    "page": "dock-menus",
+    "title": "Ilustrações do HIG: dock-menus",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_drag-and-drop",
+    "kind": "hig-imagens",
+    "page": "drag-and-drop",
+    "title": "Ilustrações do HIG: drag-and-drop",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_drag-and-drop__008",
+    "kind": "hig-video",
+    "page": "drag-and-drop",
+    "title": "Vídeo do HIG: drag-and-drop (drag-and-drop-volume-file.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_edit-menus",
+    "kind": "hig-imagens",
+    "page": "edit-menus",
+    "title": "Ilustrações do HIG: edit-menus",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_entering-data",
+    "kind": "hig-imagens",
+    "page": "entering-data",
+    "title": "Ilustrações do HIG: entering-data",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_eyes",
+    "kind": "hig-imagens",
+    "page": "eyes",
+    "title": "Ilustrações do HIG: eyes",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   }
+  ]
+ },
+ {
+  "label": "hig-009",
+  "items": [
+   {
+    "unit_id": "hig-vid_eyes__009",
+    "kind": "hig-video",
+    "page": "eyes",
+    "title": "Vídeo do HIG: eyes (visionos-focus-and-selection-settings.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_feedback",
+    "kind": "hig-imagens",
+    "page": "feedback",
+    "title": "Ilustrações do HIG: feedback",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_file-management",
+    "kind": "hig-imagens",
+    "page": "file-management",
+    "title": "Ilustrações do HIG: file-management",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_focus-and-selection",
+    "kind": "hig-imagens",
+    "page": "focus-and-selection",
+    "title": "Ilustrações do HIG: focus-and-selection",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_game-center",
+    "kind": "hig-imagens",
+    "page": "game-center",
+    "title": "Ilustrações do HIG: game-center",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-img_game-controls",
+    "kind": "hig-imagens",
+    "page": "game-controls",
+    "title": "Ilustrações do HIG: game-controls",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_gauges",
+    "kind": "hig-imagens",
+    "page": "gauges",
+    "title": "Ilustrações do HIG: gauges",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_generative-ai",
+    "kind": "hig-imagens",
+    "page": "generative-ai",
+    "title": "Ilustrações do HIG: generative-ai",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_gestures",
+    "kind": "hig-imagens",
+    "page": "gestures",
+    "title": "Ilustrações do HIG: gestures",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_gestures__010",
+    "kind": "hig-video",
+    "page": "gestures",
+    "title": "Vídeo do HIG: gestures (visionos-spatial-gesture-indirect.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_gestures__011",
+    "kind": "hig-video",
+    "page": "gestures",
+    "title": "Vídeo do HIG: gestures (visionos-spatial-gesture-direct.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_going-full-screen",
+    "kind": "hig-imagens",
+    "page": "going-full-screen",
+    "title": "Ilustrações do HIG: going-full-screen",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-010",
+  "items": [
+   {
+    "unit_id": "hig-img_gyro-and-accelerometer",
+    "kind": "hig-imagens",
+    "page": "gyro-and-accelerometer",
+    "title": "Ilustrações do HIG: gyro-and-accelerometer",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_healthkit",
+    "kind": "hig-imagens",
+    "page": "healthkit",
+    "title": "Ilustrações do HIG: healthkit",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_home-screen-quick-actions",
+    "kind": "hig-imagens",
+    "page": "home-screen-quick-actions",
+    "title": "Ilustrações do HIG: home-screen-quick-actions",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_homekit",
+    "kind": "hig-imagens",
+    "page": "homekit",
+    "title": "Ilustrações do HIG: homekit",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_icloud",
+    "kind": "hig-imagens",
+    "page": "icloud",
+    "title": "Ilustrações do HIG: icloud",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_icons",
+    "kind": "hig-imagens",
+    "page": "icons",
+    "title": "Ilustrações do HIG: icons",
+    "from": 1,
+    "to": 15,
+    "total": 29
+   }
+  ]
+ },
+ {
+  "label": "hig-011",
+  "items": [
+   {
+    "unit_id": "hig-img_icons",
+    "kind": "hig-imagens",
+    "page": "icons",
+    "title": "Ilustrações do HIG: icons",
+    "from": 16,
+    "to": 29,
+    "total": 29
+   },
+   {
+    "unit_id": "hig-img_id-verifier",
+    "kind": "hig-imagens",
+    "page": "id-verifier",
+    "title": "Ilustrações do HIG: id-verifier",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_image-views",
+    "kind": "hig-imagens",
+    "page": "image-views",
+    "title": "Ilustrações do HIG: image-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_image-wells",
+    "kind": "hig-imagens",
+    "page": "image-wells",
+    "title": "Ilustrações do HIG: image-wells",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_images",
+    "kind": "hig-imagens",
+    "page": "images",
+    "title": "Ilustrações do HIG: images",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_images__012",
+    "kind": "hig-video",
+    "page": "images",
+    "title": "Vídeo do HIG: images (tvos-app-icon-parallax-effect-animation.mp4)",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_imessage-apps-and-stickers",
+    "kind": "hig-imagens",
+    "page": "imessage-apps-and-stickers",
+    "title": "Ilustrações do HIG: imessage-apps-and-stickers",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_immersive-experiences",
+    "kind": "hig-imagens",
+    "page": "immersive-experiences",
+    "title": "Ilustrações do HIG: immersive-experiences",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   }
+  ]
+ },
+ {
+  "label": "hig-012",
+  "items": [
+   {
+    "unit_id": "hig-vid_immersive-experiences__013",
+    "kind": "hig-video",
+    "page": "immersive-experiences",
+    "title": "Vídeo do HIG: immersive-experiences (visionos-immersion-level-adjustment.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_in-app-purchase",
+    "kind": "hig-imagens",
+    "page": "in-app-purchase",
+    "title": "Ilustrações do HIG: in-app-purchase",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-img_inclusion",
+    "kind": "hig-imagens",
+    "page": "inclusion",
+    "title": "Ilustrações do HIG: inclusion",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_keyboards",
+    "kind": "hig-imagens",
+    "page": "keyboards",
+    "title": "Ilustrações do HIG: keyboards",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_keyboards__014",
+    "kind": "hig-video",
+    "page": "keyboards",
+    "title": "Vídeo do HIG: keyboards (visionos-keyboard-accessory-input.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_labels",
+    "kind": "hig-imagens",
+    "page": "labels",
+    "title": "Ilustrações do HIG: labels",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_launching",
+    "kind": "hig-imagens",
+    "page": "launching",
+    "title": "Ilustrações do HIG: launching",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_layout",
+    "kind": "hig-imagens",
+    "page": "layout",
+    "title": "Ilustrações do HIG: layout",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-img_lists-and-tables",
+    "kind": "hig-imagens",
+    "page": "lists-and-tables",
+    "title": "Ilustrações do HIG: lists-and-tables",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-013",
+  "items": [
+   {
+    "unit_id": "hig-img_live-activities",
+    "kind": "hig-imagens",
+    "page": "live-activities",
+    "title": "Ilustrações do HIG: live-activities",
+    "from": 1,
+    "to": 7,
+    "total": 7
+   },
+   {
+    "unit_id": "hig-img_live-photos",
+    "kind": "hig-imagens",
+    "page": "live-photos",
+    "title": "Ilustrações do HIG: live-photos",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_live-viewing-apps",
+    "kind": "hig-imagens",
+    "page": "live-viewing-apps",
+    "title": "Ilustrações do HIG: live-viewing-apps",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_loading",
+    "kind": "hig-imagens",
+    "page": "loading",
+    "title": "Ilustrações do HIG: loading",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_lockups",
+    "kind": "hig-imagens",
+    "page": "lockups",
+    "title": "Ilustrações do HIG: lockups",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_mac-catalyst",
+    "kind": "hig-imagens",
+    "page": "mac-catalyst",
+    "title": "Ilustrações do HIG: mac-catalyst",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_machine-learning",
+    "kind": "hig-imagens",
+    "page": "machine-learning",
+    "title": "Ilustrações do HIG: machine-learning",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_managing-accounts",
+    "kind": "hig-imagens",
+    "page": "managing-accounts",
+    "title": "Ilustrações do HIG: managing-accounts",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_managing-notifications",
+    "kind": "hig-imagens",
+    "page": "managing-notifications",
+    "title": "Ilustrações do HIG: managing-notifications",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_maps",
+    "kind": "hig-imagens",
+    "page": "maps",
+    "title": "Ilustrações do HIG: maps",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   }
+  ]
+ },
+ {
+  "label": "hig-014",
+  "items": [
+   {
+    "unit_id": "hig-img_materials",
+    "kind": "hig-imagens",
+    "page": "materials",
+    "title": "Ilustrações do HIG: materials",
+    "from": 1,
+    "to": 7,
+    "total": 7
+   },
+   {
+    "unit_id": "hig-vid_materials__015",
+    "kind": "hig-video",
+    "page": "materials",
+    "title": "Vídeo do HIG: materials (visionos-glass-material-transition.mp4)",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_menus",
+    "kind": "hig-imagens",
+    "page": "menus",
+    "title": "Ilustrações do HIG: menus",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_modality",
+    "kind": "hig-imagens",
+    "page": "modality",
+    "title": "Ilustrações do HIG: modality",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_motion",
+    "kind": "hig-imagens",
+    "page": "motion",
+    "title": "Ilustrações do HIG: motion",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_multitasking",
+    "kind": "hig-imagens",
+    "page": "multitasking",
+    "title": "Ilustrações do HIG: multitasking",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_multitasking__016",
+    "kind": "hig-video",
+    "page": "multitasking",
+    "title": "Vídeo do HIG: multitasking (visionos-multiple-windows.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_nearby-interactions",
+    "kind": "hig-imagens",
+    "page": "nearby-interactions",
+    "title": "Ilustrações do HIG: nearby-interactions",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_nfc",
+    "kind": "hig-imagens",
+    "page": "nfc",
+    "title": "Ilustrações do HIG: nfc",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_notifications",
+    "kind": "hig-imagens",
+    "page": "notifications",
+    "title": "Ilustrações do HIG: notifications",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-015",
+  "items": [
+   {
+    "unit_id": "hig-img_offering-help",
+    "kind": "hig-imagens",
+    "page": "offering-help",
+    "title": "Ilustrações do HIG: offering-help",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_onboarding",
+    "kind": "hig-imagens",
+    "page": "onboarding",
+    "title": "Ilustrações do HIG: onboarding",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_ornaments",
+    "kind": "hig-imagens",
+    "page": "ornaments",
+    "title": "Ilustrações do HIG: ornaments",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_outline-views",
+    "kind": "hig-imagens",
+    "page": "outline-views",
+    "title": "Ilustrações do HIG: outline-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_page-controls",
+    "kind": "hig-imagens",
+    "page": "page-controls",
+    "title": "Ilustrações do HIG: page-controls",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_panels",
+    "kind": "hig-imagens",
+    "page": "panels",
+    "title": "Ilustrações do HIG: panels",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_path-controls",
+    "kind": "hig-imagens",
+    "page": "path-controls",
+    "title": "Ilustrações do HIG: path-controls",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_photo-editing",
+    "kind": "hig-imagens",
+    "page": "photo-editing",
+    "title": "Ilustrações do HIG: photo-editing",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_pickers",
+    "kind": "hig-imagens",
+    "page": "pickers",
+    "title": "Ilustrações do HIG: pickers",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_playing-audio",
+    "kind": "hig-imagens",
+    "page": "playing-audio",
+    "title": "Ilustrações do HIG: playing-audio",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_playing-haptics",
+    "kind": "hig-imagens",
+    "page": "playing-haptics",
+    "title": "Ilustrações do HIG: playing-haptics",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__017",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (success.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__018",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (warning.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__019",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (error.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__020",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (impact-light.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__021",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (impact-medium.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__022",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (impact-heavy.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__023",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (impact-rigid.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__024",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (impact-soft.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__025",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (retarget.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-016",
+  "items": [
+   {
+    "unit_id": "hig-vid_playing-haptics__026",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-notification.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__027",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-levelup.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__028",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-leveldown.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__029",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-success.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__030",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-failure.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__031",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-retry.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__032",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-start.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__033",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-stop.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_playing-haptics__034",
+    "kind": "hig-video",
+    "page": "playing-haptics",
+    "title": "Vídeo do HIG: playing-haptics (haptics-click.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_playing-video",
+    "kind": "hig-imagens",
+    "page": "playing-video",
+    "title": "Ilustrações do HIG: playing-video",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_pointing-devices",
+    "kind": "hig-imagens",
+    "page": "pointing-devices",
+    "title": "Ilustrações do HIG: pointing-devices",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-vid_pointing-devices__035",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (text-entry-pointer.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_pointing-devices__036",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (highlight-content-effect.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_pointing-devices__037",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (lift-content-effect-home-screen.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_pointing-devices__038",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (hover-content-effect-calendar-popover.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_pointing-devices__039",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (magnetics-clock.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-017",
+  "items": [
+   {
+    "unit_id": "hig-vid_pointing-devices__040",
+    "kind": "hig-video",
+    "page": "pointing-devices",
+    "title": "Vídeo do HIG: pointing-devices (visionos-trackpad-pointer-input.mp4)",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_pop-up-buttons",
+    "kind": "hig-imagens",
+    "page": "pop-up-buttons",
+    "title": "Ilustrações do HIG: pop-up-buttons",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_popovers",
+    "kind": "hig-imagens",
+    "page": "popovers",
+    "title": "Ilustrações do HIG: popovers",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_printing",
+    "kind": "hig-imagens",
+    "page": "printing",
+    "title": "Ilustrações do HIG: printing",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_privacy",
+    "kind": "hig-imagens",
+    "page": "privacy",
+    "title": "Ilustrações do HIG: privacy",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_progress-indicators",
+    "kind": "hig-imagens",
+    "page": "progress-indicators",
+    "title": "Ilustrações do HIG: progress-indicators",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_pull-down-buttons",
+    "kind": "hig-imagens",
+    "page": "pull-down-buttons",
+    "title": "Ilustrações do HIG: pull-down-buttons",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_rating-indicators",
+    "kind": "hig-imagens",
+    "page": "rating-indicators",
+    "title": "Ilustrações do HIG: rating-indicators",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_ratings-and-reviews",
+    "kind": "hig-imagens",
+    "page": "ratings-and-reviews",
+    "title": "Ilustrações do HIG: ratings-and-reviews",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_remotes",
+    "kind": "hig-imagens",
+    "page": "remotes",
+    "title": "Ilustrações do HIG: remotes",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_researchkit",
+    "kind": "hig-imagens",
+    "page": "researchkit",
+    "title": "Ilustrações do HIG: researchkit",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   }
+  ]
+ },
+ {
+  "label": "hig-018",
+  "items": [
+   {
+    "unit_id": "hig-img_right-to-left",
+    "kind": "hig-imagens",
+    "page": "right-to-left",
+    "title": "Ilustrações do HIG: right-to-left",
+    "from": 1,
+    "to": 12,
+    "total": 12
+   },
+   {
+    "unit_id": "hig-img_scroll-views",
+    "kind": "hig-imagens",
+    "page": "scroll-views",
+    "title": "Ilustrações do HIG: scroll-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_scroll-views__041",
+    "kind": "hig-video",
+    "page": "scroll-views",
+    "title": "Vídeo do HIG: scroll-views (visionos-scroll-indicator-jog-bar.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_search-fields",
+    "kind": "hig-imagens",
+    "page": "search-fields",
+    "title": "Ilustrações do HIG: search-fields",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_searching",
+    "kind": "hig-imagens",
+    "page": "searching",
+    "title": "Ilustrações do HIG: searching",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_segmented-controls",
+    "kind": "hig-imagens",
+    "page": "segmented-controls",
+    "title": "Ilustrações do HIG: segmented-controls",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_settings",
+    "kind": "hig-imagens",
+    "page": "settings",
+    "title": "Ilustrações do HIG: settings",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-019",
+  "items": [
+   {
+    "unit_id": "hig-img_sf-symbols",
+    "kind": "hig-imagens",
+    "page": "sf-symbols",
+    "title": "Ilustrações do HIG: sf-symbols",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__042",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-appear.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__043",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-disappear.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__044",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-bounce.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__045",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-scale.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__046",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-pulse.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__047",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-variable-color.mp4)",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__048",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-replace.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__049",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-magic-replace.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__050",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-wiggle.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-020",
+  "items": [
+   {
+    "unit_id": "hig-vid_sf-symbols__051",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-breathe.mp4)",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-vid_sf-symbols__052",
+    "kind": "hig-video",
+    "page": "sf-symbols",
+    "title": "Vídeo do HIG: sf-symbols (sf-animation-rotate.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_shareplay",
+    "kind": "hig-imagens",
+    "page": "shareplay",
+    "title": "Ilustrações do HIG: shareplay",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_shazamkit",
+    "kind": "hig-imagens",
+    "page": "shazamkit",
+    "title": "Ilustrações do HIG: shazamkit",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_sheets",
+    "kind": "hig-imagens",
+    "page": "sheets",
+    "title": "Ilustrações do HIG: sheets",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-vid_sheets__053",
+    "kind": "hig-video",
+    "page": "sheets",
+    "title": "Vídeo do HIG: sheets (visionos-modal-sheet.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_sidebars",
+    "kind": "hig-imagens",
+    "page": "sidebars",
+    "title": "Ilustrações do HIG: sidebars",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_sign-in-with-apple",
+    "kind": "hig-imagens",
+    "page": "sign-in-with-apple",
+    "title": "Ilustrações do HIG: sign-in-with-apple",
+    "from": 1,
+    "to": 7,
+    "total": 7
+   },
+   {
+    "unit_id": "hig-img_siri",
+    "kind": "hig-imagens",
+    "page": "siri",
+    "title": "Ilustrações do HIG: siri",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-021",
+  "items": [
+   {
+    "unit_id": "hig-img_sliders",
+    "kind": "hig-imagens",
+    "page": "sliders",
+    "title": "Ilustrações do HIG: sliders",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_snippets",
+    "kind": "hig-imagens",
+    "page": "snippets",
+    "title": "Ilustrações do HIG: snippets",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_spatial-layout",
+    "kind": "hig-imagens",
+    "page": "spatial-layout",
+    "title": "Ilustrações do HIG: spatial-layout",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_spatial-layout__054",
+    "kind": "hig-video",
+    "page": "spatial-layout",
+    "title": "Vídeo do HIG: spatial-layout (visionos-window-placement-standard.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_spatial-layout__055",
+    "kind": "hig-video",
+    "page": "spatial-layout",
+    "title": "Vídeo do HIG: spatial-layout (visionos-window-placement-tilted.mp4)",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-vid_spatial-layout__056",
+    "kind": "hig-video",
+    "page": "spatial-layout",
+    "title": "Vídeo do HIG: spatial-layout (visionos-spatial-layout-3d-volume.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_spatial-layout__057",
+    "kind": "hig-video",
+    "page": "spatial-layout",
+    "title": "Vídeo do HIG: spatial-layout (visionos-dynamic-window-scaling.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-vid_spatial-layout__058",
+    "kind": "hig-video",
+    "page": "spatial-layout",
+    "title": "Vídeo do HIG: spatial-layout (visionos-fixed-window-scaling.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_split-views",
+    "kind": "hig-imagens",
+    "page": "split-views",
+    "title": "Ilustrações do HIG: split-views",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_status-bars",
+    "kind": "hig-imagens",
+    "page": "status-bars",
+    "title": "Ilustrações do HIG: status-bars",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_steppers",
+    "kind": "hig-imagens",
+    "page": "steppers",
+    "title": "Ilustrações do HIG: steppers",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_tab-bars",
+    "kind": "hig-imagens",
+    "page": "tab-bars",
+    "title": "Ilustrações do HIG: tab-bars",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-vid_tab-bars__059",
+    "kind": "hig-video",
+    "page": "tab-bars",
+    "title": "Vídeo do HIG: tab-bars (visionos-tab-bar-expanding-animation.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_tab-views",
+    "kind": "hig-imagens",
+    "page": "tab-views",
+    "title": "Ilustrações do HIG: tab-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-022",
+  "items": [
+   {
+    "unit_id": "hig-img_tap-to-pay-on-iphone",
+    "kind": "hig-imagens",
+    "page": "tap-to-pay-on-iphone",
+    "title": "Ilustrações do HIG: tap-to-pay-on-iphone",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-img_text-fields",
+    "kind": "hig-imagens",
+    "page": "text-fields",
+    "title": "Ilustrações do HIG: text-fields",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_text-views",
+    "kind": "hig-imagens",
+    "page": "text-views",
+    "title": "Ilustrações do HIG: text-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_the-menu-bar",
+    "kind": "hig-imagens",
+    "page": "the-menu-bar",
+    "title": "Ilustrações do HIG: the-menu-bar",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_toggles",
+    "kind": "hig-imagens",
+    "page": "toggles",
+    "title": "Ilustrações do HIG: toggles",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_token-fields",
+    "kind": "hig-imagens",
+    "page": "token-fields",
+    "title": "Ilustrações do HIG: token-fields",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_toolbars",
+    "kind": "hig-imagens",
+    "page": "toolbars",
+    "title": "Ilustrações do HIG: toolbars",
+    "from": 1,
+    "to": 6,
+    "total": 6
+   },
+   {
+    "unit_id": "hig-img_top-shelf",
+    "kind": "hig-imagens",
+    "page": "top-shelf",
+    "title": "Ilustrações do HIG: top-shelf",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   }
+  ]
+ },
+ {
+  "label": "hig-023",
+  "items": [
+   {
+    "unit_id": "hig-img_typography",
+    "kind": "hig-imagens",
+    "page": "typography",
+    "title": "Ilustrações do HIG: typography",
+    "from": 1,
+    "to": 4,
+    "total": 4
+   },
+   {
+    "unit_id": "hig-img_undo-and-redo",
+    "kind": "hig-imagens",
+    "page": "undo-and-redo",
+    "title": "Ilustrações do HIG: undo-and-redo",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_virtual-keyboards",
+    "kind": "hig-imagens",
+    "page": "virtual-keyboards",
+    "title": "Ilustrações do HIG: virtual-keyboards",
+    "from": 1,
+    "to": 5,
+    "total": 5
+   },
+   {
+    "unit_id": "hig-vid_virtual-keyboards__060",
+    "kind": "hig-video",
+    "page": "virtual-keyboards",
+    "title": "Vídeo do HIG: virtual-keyboards (visionos-virtual-keyboard.mp4)",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_voiceover",
+    "kind": "hig-imagens",
+    "page": "voiceover",
+    "title": "Ilustrações do HIG: voiceover",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   }
+  ]
+ },
+ {
+  "label": "hig-024",
+  "items": [
+   {
+    "unit_id": "hig-img_wallet",
+    "kind": "hig-imagens",
+    "page": "wallet",
+    "title": "Ilustrações do HIG: wallet",
+    "from": 1,
+    "to": 14,
+    "total": 14
+   },
+   {
+    "unit_id": "hig-img_watch-faces",
+    "kind": "hig-imagens",
+    "page": "watch-faces",
+    "title": "Ilustrações do HIG: watch-faces",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   },
+   {
+    "unit_id": "hig-img_web-views",
+    "kind": "hig-imagens",
+    "page": "web-views",
+    "title": "Ilustrações do HIG: web-views",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ },
+ {
+  "label": "hig-025",
+  "items": [
+   {
+    "unit_id": "hig-img_widgets",
+    "kind": "hig-imagens",
+    "page": "widgets",
+    "title": "Ilustrações do HIG: widgets",
+    "from": 1,
+    "to": 10,
+    "total": 10
+   },
+   {
+    "unit_id": "hig-img_windows",
+    "kind": "hig-imagens",
+    "page": "windows",
+    "title": "Ilustrações do HIG: windows",
+    "from": 1,
+    "to": 3,
+    "total": 3
+   },
+   {
+    "unit_id": "hig-img_workouts",
+    "kind": "hig-imagens",
+    "page": "workouts",
+    "title": "Ilustrações do HIG: workouts",
+    "from": 1,
+    "to": 2,
+    "total": 2
+   },
+   {
+    "unit_id": "hig-img_writing",
+    "kind": "hig-imagens",
+    "page": "writing",
+    "title": "Ilustrações do HIG: writing",
+    "from": 1,
+    "to": 1,
+    "total": 1
+   }
+  ]
+ }
+]

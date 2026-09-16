@@ -1,0 +1,12 @@
+# hig-img_inclusion, ilustrações da página inclusion
+
+### hig-img_inclusion · folha 0001 · código AB2E8
+- img 0667 (clara), seção Inclusion: esboço de duas figuras humanas genéricas (cabeça circular e corpo em meia-elipse), lado a lado, dentro de um retângulo de cantos arredondados tingido de amarelo. Sobreposta, há uma grade de linhas pontilhadas horizontais e verticais mais um círculo grande que emoldura as duas cabeças, marcando o alinhamento geométrico das figuras dentro do quadro. Mesma linguagem de construção da img 0644 (grade de guias sobre esboço tingido com a cor do logo), aqui em amarelo em vez de azul. Confirma a descrição oficial.
+- img 0668 (clara), seção Gender identity: símbolo SF Symbols "person.crop.circle", silhueta preta sólida de uma pessoa (cabeça circular e ombros/torso em curva) dentro de um círculo de contorno preto, sem nenhum traço que indique gênero. Confirma a descrição oficial.
+- img 0669 (clara), seção Gender identity: símbolo "person.3.fill", três silhuetas idênticas preenchidas em preto, cabeça e ombros, dispostas lado a lado com leve sobreposição; a legenda oficial descreve a da esquerda em primeiro plano e as outras duas ao fundo, mas na imagem as três parecem ter o mesmo tamanho e mesmo plano, só com sobreposição lateral leve, sem diferença de profundidade ou opacidade visível entre elas.
+- img 0670 (clara), seção Gender identity: símbolo "figure.wave", silhueta preta de corpo inteiro (cabeça, tronco, pernas, braços) com um braço levantado bem acima da cabeça, corpo em pé, sem contorno nem cor de gênero, coerente com o padrão de ícones neutros da seção.
+
+## Síntese visual da página inclusion
+- O esboço de abertura da seção (img 0667) segue o mesmo padrão de construção visto na página in-app-purchase (img 0644): grade de guias retangulares e circulares sobre um desenho tingido na cor correspondente do logo da Apple, aqui amarelo, reforçando um sistema de ilustração consistente entre páginas diferentes do HIG.
+- Os três símbolos de "Gender identity" (img 0668 a 0670) usam o mesmo estilo de silhueta sólida preta sem contorno de rosto, cabelo ou vestimenta, mostrando que a neutralidade de gênero nesses ícones vem da ausência de qualquer detalhe figurativo, não de um símbolo abstrato diferente.
+- Divergência: a legenda oficial de img 0669 descreve profundidade entre as três figuras (uma em primeiro plano, duas ao fundo); a imagem mostra as três silhuetas no mesmo tamanho aparente, apenas com sobreposição horizontal leve, sem indicação clara de plano frontal e traseiro.

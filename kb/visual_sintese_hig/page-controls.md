@@ -1,0 +1,10 @@
+### O que as ilustrações mostram
+Base: 2 de 2 folhas de ilustrações vistas, todos os códigos conferidos; a página não tem vídeo.
+- O diagrama de abertura põe o page control na base de uma janela de cantos arredondados, com a página ativa em ponto preto sólido e as demais em vermelho mais claro; uma seta vertical dupla cobre quase toda a altura da janela e outra, curta, fica junto ao controle, sugerindo a cotagem da posição e da altura do componente em relação à janela (img 0827).
+- Uso incorreto, marcado com X cinza: na barra do app de Tempo, a pílula central troca os pontos por uma sequência de ícones cinzas de condição climática diferentes entre si, entre um botão circular de mapa à esquerda e um de lista à direita (img 0828 com img 0829).
+- Uso correto, marcado com check verde: a mesma barra, mas a pílula mostra só o ícone de localização no início seguido de pontos simples, com a página atual em preto e as demais em cinza claro, limitando o controle a dois tipos de indicador (img 0830 com img 0831).
+- Nos dois exemplos do Tempo o page control vive dentro de uma pílula ladeada por botões circulares, e a diferença entre certo e errado está só no conteúdo da pílula (img 0828, img 0830).
+- Em iOS e iPadOS, uma pílula cinza clara com nove pontos mostra a gradação de tamanho: os cinco centrais em tamanho padrão, o segundo e o penúltimo menores e o primeiro e o último menores ainda, com o ponto central preenchido em preto como página atual (img 0832).
+- No watchOS vertical, uma coluna de pontos pequenos fica à direita da tela, na posição da Digital Crown, com o ponto atual em branco e os demais em cinza escuro (img 0833).
+- No watchOS horizontal, cinco pontos ficam em fileira na parte inferior da tela, com o atual em branco e os demais em cinza escuro, mostrando que o mesmo padrão muda de eixo conforme a direção da paginação (img 0834).
+- Em todas as variações o indicador atual se distingue por preenchimento sólido em contraste com os demais, preto sobre claro nas versões claras e branco sobre preto no watchOS (img 0827, img 0830, img 0832, img 0833, img 0834).

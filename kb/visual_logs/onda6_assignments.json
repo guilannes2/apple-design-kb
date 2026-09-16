@@ -1,0 +1,114 @@
+[
+ {
+  "label": "onda6-001",
+  "items": [
+   {
+    "video_id": "wwdc2019_104",
+    "title": "Apple Design Awards",
+    "from": 1,
+    "to": 18,
+    "total": 52,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-002",
+  "items": [
+   {
+    "video_id": "wwdc2019_104",
+    "title": "Apple Design Awards",
+    "from": 19,
+    "to": 36,
+    "total": 52,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-003",
+  "items": [
+   {
+    "video_id": "wwdc2019_104",
+    "title": "Apple Design Awards",
+    "from": 37,
+    "to": 52,
+    "total": 52,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-004",
+  "items": [
+   {
+    "video_id": "wwdc2019_206",
+    "title": "Introducing SF Symbols",
+    "from": 1,
+    "to": 14,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-005",
+  "items": [
+   {
+    "video_id": "wwdc2019_206",
+    "title": "Introducing SF Symbols",
+    "from": 15,
+    "to": 28,
+    "total": 28,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2019_244",
+    "title": "Visual Design and Accessibility",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-006",
+  "items": [
+   {
+    "video_id": "wwdc2019_520",
+    "title": "Introducing Core Haptics",
+    "from": 1,
+    "to": 18,
+    "total": 18,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-007",
+  "items": [
+   {
+    "video_id": "wwdc2019_808",
+    "title": "What's New in iOS Design",
+    "from": 1,
+    "to": 23,
+    "total": 23,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda6-008",
+  "items": [
+   {
+    "video_id": "wwdc2019_809",
+    "title": "Designing iPad Apps for Mac",
+    "from": 1,
+    "to": 25,
+    "total": 25,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

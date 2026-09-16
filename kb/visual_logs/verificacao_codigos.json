@@ -1,0 +1,2377 @@
+{
+ "videos_processed": 394,
+ "sheets_total": 3624,
+ "sheets_verified": 3624,
+ "codes_wrong": 0,
+ "videos_fully_watched": 394,
+ "fully_watched": [
+  "hig-img_accessibility",
+  "hig-img_action-button",
+  "hig-img_action-sheets",
+  "hig-img_activity-rings",
+  "hig-img_activity-views",
+  "hig-img_airplay",
+  "hig-img_alerts",
+  "hig-img_always-on",
+  "hig-img_app-clips",
+  "hig-img_app-icons",
+  "hig-img_app-shortcuts",
+  "hig-img_apple-pay",
+  "hig-img_apple-pencil-and-scribble",
+  "hig-img_augmented-reality",
+  "hig-img_boxes",
+  "hig-img_branding",
+  "hig-img_buttons",
+  "hig-img_camera-control",
+  "hig-img_carekit",
+  "hig-img_carplay",
+  "hig-img_charting-data",
+  "hig-img_charts",
+  "hig-img_collaboration-and-sharing",
+  "hig-img_collections",
+  "hig-img_color",
+  "hig-img_color-wells",
+  "hig-img_column-views",
+  "hig-img_combo-boxes",
+  "hig-img_complications",
+  "hig-img_context-menus",
+  "hig-img_controls",
+  "hig-img_dark-mode",
+  "hig-img_design-principles",
+  "hig-img_designing-for-games",
+  "hig-img_designing-for-ios",
+  "hig-img_designing-for-ipados",
+  "hig-img_designing-for-iphone-duo",
+  "hig-img_designing-for-macos",
+  "hig-img_designing-for-tvos",
+  "hig-img_designing-for-visionos",
+  "hig-img_designing-for-watchos",
+  "hig-img_digit-entry-views",
+  "hig-img_digital-crown",
+  "hig-img_disclosure-controls",
+  "hig-img_dock-menus",
+  "hig-img_drag-and-drop",
+  "hig-img_edit-menus",
+  "hig-img_entering-data",
+  "hig-img_eyes",
+  "hig-img_feedback",
+  "hig-img_file-management",
+  "hig-img_focus-and-selection",
+  "hig-img_game-center",
+  "hig-img_game-controls",
+  "hig-img_gauges",
+  "hig-img_generative-ai",
+  "hig-img_gestures",
+  "hig-img_going-full-screen",
+  "hig-img_gyro-and-accelerometer",
+  "hig-img_healthkit",
+  "hig-img_home-screen-quick-actions",
+  "hig-img_homekit",
+  "hig-img_icloud",
+  "hig-img_icons",
+  "hig-img_id-verifier",
+  "hig-img_image-views",
+  "hig-img_image-wells",
+  "hig-img_images",
+  "hig-img_imessage-apps-and-stickers",
+  "hig-img_immersive-experiences",
+  "hig-img_in-app-purchase",
+  "hig-img_inclusion",
+  "hig-img_keyboards",
+  "hig-img_labels",
+  "hig-img_launching",
+  "hig-img_layout",
+  "hig-img_lists-and-tables",
+  "hig-img_live-activities",
+  "hig-img_live-photos",
+  "hig-img_live-viewing-apps",
+  "hig-img_loading",
+  "hig-img_lockups",
+  "hig-img_mac-catalyst",
+  "hig-img_machine-learning",
+  "hig-img_managing-accounts",
+  "hig-img_managing-notifications",
+  "hig-img_maps",
+  "hig-img_materials",
+  "hig-img_menus",
+  "hig-img_modality",
+  "hig-img_motion",
+  "hig-img_multitasking",
+  "hig-img_nearby-interactions",
+  "hig-img_nfc",
+  "hig-img_notifications",
+  "hig-img_offering-help",
+  "hig-img_onboarding",
+  "hig-img_ornaments",
+  "hig-img_outline-views",
+  "hig-img_page-controls",
+  "hig-img_panels",
+  "hig-img_path-controls",
+  "hig-img_photo-editing",
+  "hig-img_pickers",
+  "hig-img_playing-audio",
+  "hig-img_playing-haptics",
+  "hig-img_playing-video",
+  "hig-img_pointing-devices",
+  "hig-img_pop-up-buttons",
+  "hig-img_popovers",
+  "hig-img_printing",
+  "hig-img_privacy",
+  "hig-img_progress-indicators",
+  "hig-img_pull-down-buttons",
+  "hig-img_rating-indicators",
+  "hig-img_ratings-and-reviews",
+  "hig-img_remotes",
+  "hig-img_researchkit",
+  "hig-img_right-to-left",
+  "hig-img_scroll-views",
+  "hig-img_search-fields",
+  "hig-img_searching",
+  "hig-img_segmented-controls",
+  "hig-img_settings",
+  "hig-img_sf-symbols",
+  "hig-img_shareplay",
+  "hig-img_shazamkit",
+  "hig-img_sheets",
+  "hig-img_sidebars",
+  "hig-img_sign-in-with-apple",
+  "hig-img_siri",
+  "hig-img_sliders",
+  "hig-img_snippets",
+  "hig-img_spatial-layout",
+  "hig-img_split-views",
+  "hig-img_status-bars",
+  "hig-img_steppers",
+  "hig-img_tab-bars",
+  "hig-img_tab-views",
+  "hig-img_tap-to-pay-on-iphone",
+  "hig-img_text-fields",
+  "hig-img_text-views",
+  "hig-img_the-menu-bar",
+  "hig-img_toggles",
+  "hig-img_token-fields",
+  "hig-img_toolbars",
+  "hig-img_top-shelf",
+  "hig-img_typography",
+  "hig-img_undo-and-redo",
+  "hig-img_virtual-keyboards",
+  "hig-img_voiceover",
+  "hig-img_wallet",
+  "hig-img_watch-faces",
+  "hig-img_web-views",
+  "hig-img_widgets",
+  "hig-img_windows",
+  "hig-img_workouts",
+  "hig-img_writing",
+  "hig-vid_accessibility__000",
+  "hig-vid_accessibility__001",
+  "hig-vid_alerts__002",
+  "hig-vid_alerts__003",
+  "hig-vid_app-icons__004",
+  "hig-vid_augmented-reality__005",
+  "hig-vid_buttons__006",
+  "hig-vid_buttons__007",
+  "hig-vid_drag-and-drop__008",
+  "hig-vid_eyes__009",
+  "hig-vid_gestures__010",
+  "hig-vid_gestures__011",
+  "hig-vid_images__012",
+  "hig-vid_immersive-experiences__013",
+  "hig-vid_keyboards__014",
+  "hig-vid_materials__015",
+  "hig-vid_multitasking__016",
+  "hig-vid_playing-haptics__017",
+  "hig-vid_playing-haptics__018",
+  "hig-vid_playing-haptics__019",
+  "hig-vid_playing-haptics__020",
+  "hig-vid_playing-haptics__021",
+  "hig-vid_playing-haptics__022",
+  "hig-vid_playing-haptics__023",
+  "hig-vid_playing-haptics__024",
+  "hig-vid_playing-haptics__025",
+  "hig-vid_playing-haptics__026",
+  "hig-vid_playing-haptics__027",
+  "hig-vid_playing-haptics__028",
+  "hig-vid_playing-haptics__029",
+  "hig-vid_playing-haptics__030",
+  "hig-vid_playing-haptics__031",
+  "hig-vid_playing-haptics__032",
+  "hig-vid_playing-haptics__033",
+  "hig-vid_playing-haptics__034",
+  "hig-vid_pointing-devices__035",
+  "hig-vid_pointing-devices__036",
+  "hig-vid_pointing-devices__037",
+  "hig-vid_pointing-devices__038",
+  "hig-vid_pointing-devices__039",
+  "hig-vid_pointing-devices__040",
+  "hig-vid_scroll-views__041",
+  "hig-vid_sf-symbols__042",
+  "hig-vid_sf-symbols__043",
+  "hig-vid_sf-symbols__044",
+  "hig-vid_sf-symbols__045",
+  "hig-vid_sf-symbols__046",
+  "hig-vid_sf-symbols__047",
+  "hig-vid_sf-symbols__048",
+  "hig-vid_sf-symbols__049",
+  "hig-vid_sf-symbols__050",
+  "hig-vid_sf-symbols__051",
+  "hig-vid_sf-symbols__052",
+  "hig-vid_sheets__053",
+  "hig-vid_spatial-layout__054",
+  "hig-vid_spatial-layout__055",
+  "hig-vid_spatial-layout__056",
+  "hig-vid_spatial-layout__057",
+  "hig-vid_spatial-layout__058",
+  "hig-vid_tab-bars__059",
+  "hig-vid_virtual-keyboards__060",
+  "meet-with-apple_208",
+  "meet-with-apple_254",
+  "meet-with-apple_255",
+  "meet-with-apple_256",
+  "meet-with-apple_257",
+  "meet-with-apple_270",
+  "meet-with-apple_274",
+  "tech-talks_10884",
+  "tech-talks_111427",
+  "tech-talks_111461",
+  "tech-talks_111462",
+  "tech-talks_111463",
+  "tech-talks_111466",
+  "tech-talks_801",
+  "tech-talks_802",
+  "tech-talks_803",
+  "wwdc2014_223",
+  "wwdc2014_602",
+  "wwdc2015_802",
+  "wwdc2015_805",
+  "wwdc2016_805",
+  "wwdc2017_802",
+  "wwdc2017_803",
+  "wwdc2017_809",
+  "wwdc2017_811",
+  "wwdc2017_812",
+  "wwdc2017_813",
+  "wwdc2017_815",
+  "wwdc2017_816",
+  "wwdc2017_817",
+  "wwdc2017_818",
+  "wwdc2017_819",
+  "wwdc2017_820",
+  "wwdc2017_821",
+  "wwdc2017_822",
+  "wwdc2017_823",
+  "wwdc2018_801",
+  "wwdc2018_802",
+  "wwdc2018_803",
+  "wwdc2018_804",
+  "wwdc2018_806",
+  "wwdc2018_811",
+  "wwdc2019_104",
+  "wwdc2019_206",
+  "wwdc2019_211",
+  "wwdc2019_223",
+  "wwdc2019_239",
+  "wwdc2019_244",
+  "wwdc2019_520",
+  "wwdc2019_802",
+  "wwdc2019_803",
+  "wwdc2019_805",
+  "wwdc2019_806",
+  "wwdc2019_808",
+  "wwdc2019_809",
+  "wwdc2019_810",
+  "wwdc2020_10019",
+  "wwdc2020_10020",
+  "wwdc2020_10071",
+  "wwdc2020_10086",
+  "wwdc2020_10087",
+  "wwdc2020_10088",
+  "wwdc2020_10093",
+  "wwdc2020_10103",
+  "wwdc2020_10104",
+  "wwdc2020_10145",
+  "wwdc2020_10162",
+  "wwdc2020_10171",
+  "wwdc2020_10172",
+  "wwdc2020_10175",
+  "wwdc2020_10200",
+  "wwdc2020_10205",
+  "wwdc2020_10206",
+  "wwdc2020_10207",
+  "wwdc2020_10640",
+  "wwdc2020_20022",
+  "wwdc2021_10029",
+  "wwdc2021_10081",
+  "wwdc2021_10097",
+  "wwdc2021_10126",
+  "wwdc2021_10184",
+  "wwdc2021_10245",
+  "wwdc2021_10250",
+  "wwdc2021_10275",
+  "wwdc2021_10278",
+  "wwdc2021_10283",
+  "wwdc2021_10288",
+  "wwdc2021_10304",
+  "wwdc2021_10308",
+  "wwdc2021_10317",
+  "wwdc2021_10349",
+  "wwdc2021_110142",
+  "wwdc2021_113",
+  "wwdc2022_10001",
+  "wwdc2022_10009",
+  "wwdc2022_10015",
+  "wwdc2022_10034",
+  "wwdc2022_10037",
+  "wwdc2022_10131",
+  "wwdc2022_10139",
+  "wwdc2022_10157",
+  "wwdc2022_10158",
+  "wwdc2022_10169",
+  "wwdc2022_103",
+  "wwdc2022_110340",
+  "wwdc2022_110342",
+  "wwdc2022_110381",
+  "wwdc2022_110441",
+  "wwdc2022_113",
+  "wwdc2023_10026",
+  "wwdc2023_10072",
+  "wwdc2023_10073",
+  "wwdc2023_10075",
+  "wwdc2023_10076",
+  "wwdc2023_10078",
+  "wwdc2023_10115",
+  "wwdc2023_10138",
+  "wwdc2023_10193",
+  "wwdc2023_10194",
+  "wwdc2023_10197",
+  "wwdc2023_10229",
+  "wwdc2023_10257",
+  "wwdc2023_10258",
+  "wwdc2023_10271",
+  "wwdc2023_10309",
+  "wwdc2024_10085",
+  "wwdc2024_10086",
+  "wwdc2024_10087",
+  "wwdc2024_10094",
+  "wwdc2024_10096",
+  "wwdc2024_10098",
+  "wwdc2024_10112",
+  "wwdc2024_10116",
+  "wwdc2024_10140",
+  "wwdc2024_10145",
+  "wwdc2024_10147",
+  "wwdc2024_10151",
+  "wwdc2024_10152",
+  "wwdc2024_10176",
+  "wwdc2024_10188",
+  "wwdc2025_208",
+  "wwdc2025_219",
+  "wwdc2025_220",
+  "wwdc2025_247",
+  "wwdc2025_248",
+  "wwdc2025_255",
+  "wwdc2025_273",
+  "wwdc2025_274",
+  "wwdc2025_281",
+  "wwdc2025_284",
+  "wwdc2025_290",
+  "wwdc2025_303",
+  "wwdc2025_304",
+  "wwdc2025_305",
+  "wwdc2025_316",
+  "wwdc2025_317",
+  "wwdc2025_323",
+  "wwdc2025_337",
+  "wwdc2025_356",
+  "wwdc2025_359",
+  "wwdc2025_361",
+  "wwdc2025_404",
+  "wwdc2026_227",
+  "wwdc2026_234",
+  "wwdc2026_250",
+  "wwdc2026_251",
+  "wwdc2026_252",
+  "wwdc2026_269",
+  "wwdc2026_290",
+  "wwdc2026_292",
+  "wwdc2026_314",
+  "wwdc2026_315",
+  "wwdc2026_321",
+  "wwdc2026_322",
+  "wwdc2026_8012"
+ ],
+ "wrong": [],
+ "unreadable_logs": [],
+ "per_video": {
+  "wwdc2025_304": {
+   "sheets": 22,
+   "verified": 22,
+   "missing": []
+  },
+  "meet-with-apple_270": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2024_10151": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2021_10349": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2025_303": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2020_20022": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2025_359": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2021_10126": {
+   "sheets": 27,
+   "verified": 27,
+   "missing": []
+  },
+  "wwdc2025_361": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2025_305": {
+   "sheets": 28,
+   "verified": 28,
+   "missing": []
+  },
+  "wwdc2025_356": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2026_8012": {
+   "sheets": 43,
+   "verified": 43,
+   "missing": []
+  },
+  "wwdc2022_10015": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2020_10071": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2022_10158": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2020_10103": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2020_10104": {
+   "sheets": 21,
+   "verified": 21,
+   "missing": []
+  },
+  "wwdc2022_10169": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2015_805": {
+   "sheets": 37,
+   "verified": 37,
+   "missing": []
+  },
+  "wwdc2024_10085": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "wwdc2021_10097": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2015_802": {
+   "sheets": 40,
+   "verified": 40,
+   "missing": []
+  },
+  "wwdc2019_223": {
+   "sheets": 36,
+   "verified": 36,
+   "missing": []
+  },
+  "tech-talks_10884": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2025_248": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2025_284": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "wwdc2023_10257": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "tech-talks_111466": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2017_803": {
+   "sheets": 28,
+   "verified": 28,
+   "missing": []
+  },
+  "tech-talks_111461": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2014_602": {
+   "sheets": 34,
+   "verified": 34,
+   "missing": []
+  },
+  "wwdc2021_10250": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "wwdc2022_10157": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2016_805": {
+   "sheets": 31,
+   "verified": 31,
+   "missing": []
+  },
+  "wwdc2017_802": {
+   "sheets": 44,
+   "verified": 44,
+   "missing": []
+  },
+  "wwdc2025_247": {
+   "sheets": 29,
+   "verified": 29,
+   "missing": []
+  },
+  "wwdc2023_10258": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2017_816": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2026_290": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2017_811": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "tech-talks_803": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "wwdc2021_113": {
+   "sheets": 36,
+   "verified": 36,
+   "missing": []
+  },
+  "wwdc2020_10145": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2026_252": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2017_818": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2017_820": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2021_10288": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2021_110142": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "tech-talks_111427": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2023_10229": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2019_809": {
+   "sheets": 25,
+   "verified": 25,
+   "missing": []
+  },
+  "wwdc2021_10275": {
+   "sheets": 29,
+   "verified": 29,
+   "missing": []
+  },
+  "wwdc2017_821": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2020_10175": {
+   "sheets": 22,
+   "verified": 22,
+   "missing": []
+  },
+  "wwdc2018_806": {
+   "sheets": 26,
+   "verified": 26,
+   "missing": []
+  },
+  "wwdc2023_10078": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2025_290": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "wwdc2022_113": {
+   "sheets": 35,
+   "verified": 35,
+   "missing": []
+  },
+  "wwdc2018_801": {
+   "sheets": 36,
+   "verified": 36,
+   "missing": []
+  },
+  "wwdc2020_10172": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2017_819": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "tech-talks_802": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2025_404": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2025_255": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2017_817": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2023_10076": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "wwdc2019_239": {
+   "sheets": 26,
+   "verified": 26,
+   "missing": []
+  },
+  "wwdc2024_10098": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2019_206": {
+   "sheets": 28,
+   "verified": 28,
+   "missing": []
+  },
+  "wwdc2019_808": {
+   "sheets": 23,
+   "verified": 23,
+   "missing": []
+  },
+  "wwdc2021_10245": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2025_208": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2019_806": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2024_10096": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2022_10037": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2021_10308": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2022_10001": {
+   "sheets": 18,
+   "verified": 18,
+   "missing": []
+  },
+  "wwdc2023_10309": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2022_110342": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "meet-with-apple_254": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2025_316": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2024_10188": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2026_321": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2024_10116": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2023_10194": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "meet-with-apple_208": {
+   "sheets": 81,
+   "verified": 81,
+   "missing": []
+  },
+  "wwdc2022_10009": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2023_10193": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2024_10145": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2022_110381": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2025_317": {
+   "sheets": 30,
+   "verified": 30,
+   "missing": []
+  },
+  "wwdc2020_10205": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "meet-with-apple_255": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2021_10317": {
+   "sheets": 22,
+   "verified": 22,
+   "missing": []
+  },
+  "wwdc2020_10087": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "meet-with-apple_274": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2020_10640": {
+   "sheets": 35,
+   "verified": 35,
+   "missing": []
+  },
+  "wwdc2024_10152": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2019_104": {
+   "sheets": 52,
+   "verified": 52,
+   "missing": []
+  },
+  "wwdc2023_10115": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2020_10020": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2020_10088": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "wwdc2020_10086": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "wwdc2025_337": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2021_10184": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2020_10019": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2025_273": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2017_809": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2020_10162": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2018_811": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2022_103": {
+   "sheets": 41,
+   "verified": 41,
+   "missing": []
+  },
+  "wwdc2025_274": {
+   "sheets": 21,
+   "verified": 21,
+   "missing": []
+  },
+  "wwdc2022_10139": {
+   "sheets": 19,
+   "verified": 19,
+   "missing": []
+  },
+  "tech-talks_111462": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2019_211": {
+   "sheets": 40,
+   "verified": 40,
+   "missing": []
+  },
+  "wwdc2025_220": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2024_10086": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2019_244": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2022_10131": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "tech-talks_111463": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2025_281": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "wwdc2022_110441": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2025_219": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2024_10087": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2019_810": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2026_227": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2019_803": {
+   "sheets": 42,
+   "verified": 42,
+   "missing": []
+  },
+  "wwdc2021_10081": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2021_10278": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2024_10094": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2026_234": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2017_812": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2023_10073": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2017_815": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2017_823": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2026_269": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2018_804": {
+   "sheets": 23,
+   "verified": 23,
+   "missing": []
+  },
+  "wwdc2026_251": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2018_803": {
+   "sheets": 43,
+   "verified": 43,
+   "missing": []
+  },
+  "wwdc2023_10026": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2021_10283": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "wwdc2019_805": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "wwdc2019_802": {
+   "sheets": 40,
+   "verified": 40,
+   "missing": []
+  },
+  "wwdc2026_250": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2014_223": {
+   "sheets": 39,
+   "verified": 39,
+   "missing": []
+  },
+  "wwdc2020_10171": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2018_802": {
+   "sheets": 28,
+   "verified": 28,
+   "missing": []
+  },
+  "wwdc2017_822": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2023_10271": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "wwdc2023_10075": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "tech-talks_801": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2021_10029": {
+   "sheets": 27,
+   "verified": 27,
+   "missing": []
+  },
+  "wwdc2026_292": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2017_813": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2023_10072": {
+   "sheets": 22,
+   "verified": 22,
+   "missing": []
+  },
+  "wwdc2020_10207": {
+   "sheets": 18,
+   "verified": 18,
+   "missing": []
+  },
+  "wwdc2024_10176": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2025_323": {
+   "sheets": 17,
+   "verified": 17,
+   "missing": []
+  },
+  "meet-with-apple_257": {
+   "sheets": 9,
+   "verified": 9,
+   "missing": []
+  },
+  "wwdc2026_314": {
+   "sheets": 8,
+   "verified": 8,
+   "missing": []
+  },
+  "wwdc2020_10200": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "wwdc2023_10138": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2024_10147": {
+   "sheets": 11,
+   "verified": 11,
+   "missing": []
+  },
+  "wwdc2024_10140": {
+   "sheets": 15,
+   "verified": 15,
+   "missing": []
+  },
+  "wwdc2026_322": {
+   "sheets": 13,
+   "verified": 13,
+   "missing": []
+  },
+  "wwdc2022_10034": {
+   "sheets": 16,
+   "verified": 16,
+   "missing": []
+  },
+  "wwdc2022_110340": {
+   "sheets": 20,
+   "verified": 20,
+   "missing": []
+  },
+  "wwdc2020_10206": {
+   "sheets": 27,
+   "verified": 27,
+   "missing": []
+  },
+  "wwdc2026_315": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "meet-with-apple_256": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "wwdc2019_520": {
+   "sheets": 18,
+   "verified": 18,
+   "missing": []
+  },
+  "wwdc2021_10304": {
+   "sheets": 26,
+   "verified": 26,
+   "missing": []
+  },
+  "wwdc2020_10093": {
+   "sheets": 18,
+   "verified": 18,
+   "missing": []
+  },
+  "wwdc2024_10112": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "wwdc2023_10197": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "hig-img_accessibility": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_action-button": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_action-sheets": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_activity-rings": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_activity-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_airplay": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_alerts": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_always-on": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_app-clips": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_app-icons": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_app-shortcuts": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_apple-pay": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "hig-img_apple-pencil-and-scribble": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_augmented-reality": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_boxes": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_branding": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_buttons": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_camera-control": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_carekit": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_carplay": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_charting-data": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_charts": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_collaboration-and-sharing": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_collections": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_color-wells": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_color": {
+   "sheets": 42,
+   "verified": 42,
+   "missing": []
+  },
+  "hig-img_column-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_combo-boxes": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_complications": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "hig-img_context-menus": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_controls": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_dark-mode": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_design-principles": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_designing-for-games": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-ios": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-ipados": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-iphone-duo": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_designing-for-macos": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-tvos": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-visionos": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_designing-for-watchos": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_digit-entry-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_digital-crown": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_disclosure-controls": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_dock-menus": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_drag-and-drop": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_edit-menus": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_entering-data": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_eyes": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_feedback": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_file-management": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_focus-and-selection": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_game-center": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_game-controls": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_gauges": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_generative-ai": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_gestures": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_going-full-screen": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_gyro-and-accelerometer": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_healthkit": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_home-screen-quick-actions": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_homekit": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_icloud": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_icons": {
+   "sheets": 29,
+   "verified": 29,
+   "missing": []
+  },
+  "hig-img_id-verifier": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_image-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_image-wells": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_images": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_imessage-apps-and-stickers": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_immersive-experiences": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_in-app-purchase": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_inclusion": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_keyboards": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_labels": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_launching": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_layout": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_lists-and-tables": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_live-activities": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "hig-img_live-photos": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_live-viewing-apps": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_loading": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_lockups": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_mac-catalyst": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_machine-learning": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_managing-accounts": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_managing-notifications": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_maps": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_materials": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "hig-img_menus": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_modality": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_motion": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_multitasking": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_nearby-interactions": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_nfc": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_notifications": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_offering-help": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_onboarding": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_ornaments": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_outline-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_page-controls": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_panels": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_path-controls": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_photo-editing": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_pickers": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_playing-audio": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_playing-haptics": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_playing-video": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_pointing-devices": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_pop-up-buttons": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_popovers": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_printing": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_privacy": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_progress-indicators": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_pull-down-buttons": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_rating-indicators": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_ratings-and-reviews": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_remotes": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_researchkit": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_right-to-left": {
+   "sheets": 12,
+   "verified": 12,
+   "missing": []
+  },
+  "hig-img_scroll-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_search-fields": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_searching": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_segmented-controls": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_settings": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_sf-symbols": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_shareplay": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_shazamkit": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_sheets": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_sidebars": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_sign-in-with-apple": {
+   "sheets": 7,
+   "verified": 7,
+   "missing": []
+  },
+  "hig-img_siri": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_sliders": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_snippets": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_spatial-layout": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_split-views": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_status-bars": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_steppers": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_tab-bars": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_tab-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_tap-to-pay-on-iphone": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_text-fields": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_text-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_the-menu-bar": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_toggles": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_token-fields": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_toolbars": {
+   "sheets": 6,
+   "verified": 6,
+   "missing": []
+  },
+  "hig-img_top-shelf": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_typography": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-img_undo-and-redo": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_virtual-keyboards": {
+   "sheets": 5,
+   "verified": 5,
+   "missing": []
+  },
+  "hig-img_voiceover": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_wallet": {
+   "sheets": 14,
+   "verified": 14,
+   "missing": []
+  },
+  "hig-img_watch-faces": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_web-views": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-img_widgets": {
+   "sheets": 10,
+   "verified": 10,
+   "missing": []
+  },
+  "hig-img_windows": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-img_workouts": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-img_writing": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_accessibility__000": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_accessibility__001": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_alerts__002": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_alerts__003": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_app-icons__004": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_augmented-reality__005": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_buttons__006": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_buttons__007": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_drag-and-drop__008": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_eyes__009": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_gestures__010": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_gestures__011": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_images__012": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-vid_immersive-experiences__013": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_keyboards__014": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_materials__015": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-vid_multitasking__016": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__017": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__018": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__019": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__020": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__021": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__022": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__023": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__024": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__025": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__026": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__027": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__028": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__029": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__030": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__031": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__032": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__033": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_playing-haptics__034": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__035": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__036": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__037": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__038": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__039": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_pointing-devices__040": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-vid_scroll-views__041": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__042": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__043": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__044": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__045": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__046": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__047": {
+   "sheets": 3,
+   "verified": 3,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__048": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__049": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__050": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__051": {
+   "sheets": 4,
+   "verified": 4,
+   "missing": []
+  },
+  "hig-vid_sf-symbols__052": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_sheets__053": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_spatial-layout__054": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_spatial-layout__055": {
+   "sheets": 1,
+   "verified": 1,
+   "missing": []
+  },
+  "hig-vid_spatial-layout__056": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_spatial-layout__057": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_spatial-layout__058": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_tab-bars__059": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  },
+  "hig-vid_virtual-keyboards__060": {
+   "sheets": 2,
+   "verified": 2,
+   "missing": []
+  }
+ }
+}

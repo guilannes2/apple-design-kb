@@ -1,0 +1,11 @@
+# HIG, página watch-faces: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_watch-faces: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_watch-faces · folha 0001 · código CAB23
+- img 1284 (clara), seção Watch faces: composição sobre fundo em gradiente laranja para rosa avermelhado, com três mostradores de Apple Watch dentro de retângulos arredondados de contorno tracejado, ligados por uma linha vertical a um rótulo de texto abaixo de cada um: "Solar Graph" (à esquerda, mostrador com hora digital grande, dia da semana, uma curva solar e temperatura), "GMT" (ao centro, mostrador analógico redondo com ponteiros, marcação de 24 horas na borda externa, um indicador de atividade física no canto superior e dados numéricos na base), "Unity Lights" (à direita, mostrador em estilo mais abstrato com ponteiros finos brancos, escalas curvas nos cantos mostrando decibéis, data e temperatura). Mostra três estilos de complicação e de mostrador lado a lado, cada um recortado dentro de sua própria moldura tracejada, como se fossem exemplos recortados de uma vitrine de faces. A imagem inteira tem tonalidade avermelhada, mais em degradê de laranja para vermelho/rosa do que um tingimento uniforme vermelho.
+- Diferença em relação à descrição oficial: a descrição alternativa fala em "uma representação estilizada de uma série de mostradores do Apple Watch" tingida de vermelho, sem mencionar os nomes dos mostradores nem os rótulos abaixo de cada um; a imagem de fato traz os três nomes de mostrador por extenso (Solar Graph, GMT, Unity Lights) e uma linha conectora explícita entre cada mostrador e seu nome, o que o texto alternativo não descreve.
+
+## Síntese visual da página watch-faces
+- A ilustração de abertura usa o mesmo recurso das outras páginas do HIG (tingimento de cor ligado ao logo Apple), mas aqui, diferente de um preenchimento sólido, o fundo é um gradiente diagonal, e os mostradores aparecem soltos dentro de molduras tracejadas com legenda de nome, funcionando como uma vitrine comparativa de estilos de complicação em vez de um ícone único (img 1284).

@@ -1,0 +1,133 @@
+[
+ {
+  "label": "onda14-001",
+  "items": [
+   {
+    "video_id": "wwdc2017_803",
+    "title": "Designing Sound",
+    "from": 1,
+    "to": 14,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-002",
+  "items": [
+   {
+    "video_id": "wwdc2017_803",
+    "title": "Designing Sound",
+    "from": 15,
+    "to": 28,
+    "total": 28,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_811",
+    "title": "Design Tips for Great Games",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-003",
+  "items": [
+   {
+    "video_id": "wwdc2017_812",
+    "title": "Size Classes and Core Components",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_813",
+    "title": "Writing Great Alerts",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-004",
+  "items": [
+   {
+    "video_id": "wwdc2017_816",
+    "title": "Love at First Launch",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_817",
+    "title": "Rich Notifications",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-005",
+  "items": [
+   {
+    "video_id": "wwdc2017_818",
+    "title": "60-Second Prototyping",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_819",
+    "title": "Designing for a Global Audience",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_820",
+    "title": "Express Yourself!",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-006",
+  "items": [
+   {
+    "video_id": "wwdc2017_823",
+    "title": "Designing Glyphs",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda14-007",
+  "items": [
+   {
+    "video_id": "wwdc2020_10175",
+    "title": "The details of UI typography",
+    "from": 1,
+    "to": 22,
+    "total": 22,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

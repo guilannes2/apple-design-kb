@@ -1,0 +1,10 @@
+### O que as ilustrações mostram
+Base: 2 de 2 folhas de ilustrações abertas, todos os códigos conferidos; a página não tem vídeo.
+- A abertura é um diagrama anotado: três anéis concêntricos parcialmente preenchidos, com setas indicando o sentido do progresso em cada um e rótulos ligados por linhas guia, Move com porcentagem e calorias à esquerda, Stand com horas à direita e Exercise com minutos embaixo (img 0029).
+- A ordem das cores nunca muda entre as imagens: vermelho ou rosa no anel externo, verde no do meio e ciano no interno, tanto no diagrama quanto nas capturas do relógio e do iPhone (img 0029, img 0030, img 0034).
+- Na tela de treino do Apple Watch, sobre fundo preto, aparecem o ícone verde de corrida no topo, a hora e um cronômetro grande em amarelo, com a lista de valores Move, Exercise e Stand à esquerda e os três anéis à direita refletindo esses valores parciais (img 0030).
+- As cores dos anéis são especificadas como amostras isoladas, cada uma um quadrado arredondado de cor sólida com o valor RGB ao lado: rosa avermelhado 250, 17, 79; verde limão 166, 255, 0; ciano 0, 255, 246 (img 0031, img 0032, img 0033).
+- Nas capturas reais os anéis aparecem sempre sobre fundo preto, e no iPhone ficam dentro de um cartão "Activity Rings" com os valores listados ao lado, não sobrepostos aos anéis (img 0030, img 0034, img 0035).
+- A diferença entre ter ou não um Apple Watch pareado é isolada por um par de telas Summary do app Fitness com o mesmo cabeçalho, a mesma data e o mesmo avatar memoji no canto, mudando só o cartão (img 0034, img 0035).
+- Com o relógio pareado, o cartão mostra os três anéis completos e as três métricas com meta atingida (img 0034); sem ele, mostra um único anel rosa parcialmente preenchido, e as métricas de Exercise e Stand dão lugar a passos e distância (img 0035).
+- A porcentagem escrita ao lado de cada anel só aparece no diagrama conceitual; nas telas de app os valores vêm como pares de valor atual e meta, com unidade no iPhone (img 0029 comparada com img 0030 e img 0034).

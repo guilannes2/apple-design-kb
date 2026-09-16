@@ -1,0 +1,14 @@
+### hig-vid_sf-symbols__045 · folha 0001 · código 17322
+- Quadros: cada quadro (q001 a q009) repete os mesmos três símbolos na mesma ordem: ícone de sair do picture-in-picture (seta apontando para um retângulo menor), um ícone de camadas empilhadas em diagonal e um par de formas arredondadas tipo HomePod e HomePod mini sobrepostos. Comparando os quadros, o ícone de picture-in-picture aparece visivelmente menor em q002, q003, q004, q005 e q006 do que em q001, q007, q008 e q009, onde volta ao tamanho maior. O ícone de camadas parece um pouco mais compacto em q005 do que nos quadros vizinhos. O ícone de HomePod aparece nitidamente menor em q006, q008 e q009 em comparação com q001, onde está em tamanho cheio.
+- Construção de interface: cada um dos três símbolos reduz de tamanho e depois volta ao tamanho original em momentos diferentes dos outros dois, mostrando que a animação de escala roda de forma independente por símbolo dentro da mesma demonstração, não sincronizada entre eles.
+- Com a descrição oficial: confere que os símbolos diminuem de tamanho e, após uma pausa, retornam ao tamanho original; a imagem acrescenta que essa redução e retorno não acontece ao mesmo tempo para os três símbolos, aparecendo defasada entre picture-in-picture, camadas e HomePod ao longo dos quadros.
+
+### hig-vid_sf-symbols__045 · folha 0002 · código 2EC1B
+- Quadros: de q010 a q018 os mesmos três símbolos (picture-in-picture, camadas, HomePod/HomePod mini) continuam se repetindo. O ícone de picture-in-picture aparece reduzido em q014, q015 e q016 e depois volta ao tamanho cheio em q017 e q018. O ícone de HomePod aparece com traço mais grosso e ligeiramente maior em q018 em comparação aos quadros anteriores desta folha, onde estava em tamanho mais contido.
+- Construção de interface: a alternância entre tamanho reduzido e tamanho cheio continua ocorrendo por símbolo e não em bloco, reforçando que a escala de cada ícone é controlada de forma independente ao longo da linha do tempo da demonstração.
+- Com a descrição oficial: confere a alternância de tamanho descrita para a animação de escala; a imagem mostra concretamente que o dip de tamanho do picture-in-picture cai e sobe de novo em uma janela de tempo diferente da do símbolo de HomePod.
+
+### hig-vid_sf-symbols__045 · folha 0003 · código 85102
+- Quadros: q019 (t=11.5s), quadro final e único desta folha, mostra os três símbolos (picture-in-picture, camadas, HomePod/HomePod mini) lado a lado em tamanho cheio, no mesmo padrão visual do quadro inicial q001.
+- Construção de interface: o último quadro capturado encerra a demonstração com os três símbolos de volta ao estado de repouso em tamanho normal, fechando o ciclo de diminuir e voltar ao tamanho original.
+- Com a descrição oficial: confere que a animação termina com o símbolo de volta ao tamanho original, já que no quadro final os três ícones aparecem no mesmo tamanho pleno visto no primeiro quadro da folha 0001.

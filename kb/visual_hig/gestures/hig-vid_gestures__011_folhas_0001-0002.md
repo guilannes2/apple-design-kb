@@ -1,0 +1,21 @@
+### hig-vid_gestures__011 · folha 0001 · código 9F21B
+
+Quadros q001 (t=0.0s) a q009 (t=4.0s), de um vídeo com 11 quadros distintos no total. Cena: sala de estar em visionOS (passthrough), com sofá marrom, poltronas azuis, luminária de piso e um quadro na parede ao fundo; sobre uma mesa/tampo claro no primeiro plano, uma coluna vertical vermelha com pelo menos duas divisórias horizontais visíveis, sugerindo blocos cúbicos empilhados.
+
+- Quadros: de q001 a q004 a pilha de blocos permanece parada e no mesmo lugar, com a câmera e o ambiente estáticos; em q003 aparece, discretamente na borda inferior direita do quadro, o início de uma mão; em q004 uma mão humana (vista de baixo, dedos estendidos) já está claramente visível se aproximando da base da pilha, vindo da direita. Em q005 a pilha está em pleno movimento: dois blocos vermelhos aparecem girando no ar, um deles mostrando uma face branca, e a mão de dedos esticados está tocando/empurrando a base da coluna. Em q006 os blocos já pousaram no chão, agora como três cubos vermelhos separados e espalhados lado a lado, um deles com a face de cima branca; a mão não aparece mais no quadro. De q006 a q009 a posição dos três cubos no chão permanece estável, sem novas mudanças, com pequenas variações de enquadramento de câmera entre os quadros.
+- Construção de interface: a sequência demonstra o gesto direto (a mão física entra no campo de visão e entra em contato direto com o objeto virtual, sem nenhum realce ou halo prévio de foco) e a resposta física do objeto (queda e tombamento com rotação, não um simples desaparecimento), diferente do padrão de hover/realce usado para elementos de interface 2D nas demais imagens de gestures.
+- Com a descrição oficial: confere com o alt quanto ao movimento da mão da direita para a base dos blocos, o toque com os dedos estendidos e a queda do bloco central e do bloco vizinho; a contagem exata de blocos na pilha inicial (o alt diz três) não é totalmente legível nos quadros parados por causa das sombras e da cor uniforme da coluna, mas o resultado final de três cubos separados no chão é consistente com a descrição.
+
+### hig-vid_gestures__011 · folha 0002 · código 5279D
+
+Quadros finais q010 (t=4.5s) e q011 (t=5.0s), últimos dois quadros do vídeo.
+
+- Quadros: q010 e q011 mostram a mesma cena final da folha 0001 (três cubos vermelhos, um com face branca, espalhados sobre a mesa/chão claro), praticamente sem diferença perceptível entre os dois quadros além de um leve reenquadramento de câmera, indicando que a ação já terminou e o clipe conclui em repouso.
+- Construção de interface: o vídeo termina sem nenhum elemento de interface 2D (menus, botões, texto) permanecer em cena, apenas os objetos físicos simulados, reforçando que o gesto direto em visionOS é demonstrado em contexto puramente espacial, sem sobreposição de UI.
+- Com a descrição oficial: confirma o estado final descrito no alt ("the other block also tumbles onto the tabletop"), com os blocos já imóveis e dispersos ao final do clipe.
+
+## Síntese visual da página gestures (unidades hig-img_gestures, hig-vid_gestures__010, hig-vid_gestures__011)
+
+- A página distingue visualmente dois modos de gesto em visionOS por meio de dois vídeos com mecânicas de feedback opostas: o gesto indireto (hig-vid_gestures__010) mostra o alvo mudando de aparência antes de qualquer contato físico (realce progressivo de um botão 2D, culminando em ativação com ícone de contorno definido), enquanto o gesto direto (hig-vid_gestures__011) mostra a mão física entrando em contato real com um objeto 3D simulado, sem nenhum realce prévio, e o objeto reage com física real (queda, rotação, dispersão).
+- As ilustrações estáticas de mão (folhas de hig-img_gestures) usam sempre traço simples (line art) para ensinar zonas e estados de overlay do sistema (área reservada, Home indicator, barra de status), reservando a fotografia realista para os exemplos de comportamento em contexto (Shared Space, Full Space, gesto customizado, gesto adiado).
+- Em conjunto, as três unidades desta página mostram a Apple separando claramente "o que o sistema reserva e revela automaticamente na mão da pessoa" (overlays, ilustrado em traço simples) de "como um gesto de fato interage com conteúdo" (indireto sobre UI 2D, direto sobre objeto 3D, ambos documentados em vídeo real).

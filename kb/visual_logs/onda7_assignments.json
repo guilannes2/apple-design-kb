@@ -1,0 +1,67 @@
+[
+ {
+  "label": "onda7-001",
+  "items": [
+   {
+    "video_id": "wwdc2019_223",
+    "title": "Expanding the Sensory Experience with Core Haptics",
+    "from": 1,
+    "to": 18,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda7-002",
+  "items": [
+   {
+    "video_id": "wwdc2019_223",
+    "title": "Expanding the Sensory Experience with Core Haptics",
+    "from": 19,
+    "to": 36,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda7-003",
+  "items": [
+   {
+    "video_id": "wwdc2019_802",
+    "title": "Designing Award Winning Apps and Games",
+    "from": 1,
+    "to": 20,
+    "total": 40,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda7-004",
+  "items": [
+   {
+    "video_id": "wwdc2019_802",
+    "title": "Designing Award Winning Apps and Games",
+    "from": 21,
+    "to": 40,
+    "total": 40,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda7-005",
+  "items": [
+   {
+    "video_id": "wwdc2019_810",
+    "title": "Designing Audio-Haptic Experiences",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

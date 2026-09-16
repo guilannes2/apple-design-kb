@@ -1,0 +1,10 @@
+# HIG, página home-screen-quick-actions: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_home-screen-quick-actions: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_home-screen-quick-actions · folha 0001 · código 8C4DC
+- img 0543 (clara), seção Home Screen quick actions: ilustração estilizada em fundo gradiente laranja para vermelho/rosa mostrando uma fileira de quatro ícones de app (quadrados arredondados) na base, todos borrados/desfocados exceto os contornos, com um menu de contexto em cartão claro arredondado pairando acima do segundo ícone da esquerda. O menu lista quatro linhas, cada uma com um símbolo geométrico simples à esquerda (triângulo, círculo, quadrado, losango) e um rótulo genérico "Item A" a "Item D" em vermelho à direita. Os ícones de app na base ficam desfocados de propósito para não competir visualmente com o menu, e o ícone de onde o menu "nasce" fica mais nítido que os outros três. Isso vai além do alt oficial ("menu items extending up from an app icon"): mostra concretamente que o menu é uma lista vertical de linhas com ícone à esquerda e texto à direita, dentro de um cartão único com cantos bem arredondados, ancorado logo acima do ícone de origem, e que os demais ícones da fileira aparecem desfocados para dar foco ao menu ativo.
+
+## Síntese visual da página home-screen-quick-actions
+- O menu de ações rápidas da Tela de Início é representado como um cartão único, verticalmente empilhado, com item = símbolo à esquerda mais rótulo à direita, ancorado diretamente acima do ícone que o originou; os demais ícones da tela ficam desfocados para sinalizar que o foco de interação passou para o menu (img 0543).

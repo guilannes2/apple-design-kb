@@ -1,0 +1,11 @@
+### O que as ilustrações mostram
+Base: 2 folhas de ilustrações (5 imagens, em aparência clara) e 3 folhas de vídeo (24 quadros de um vídeo) vistas, códigos conferidos.
+- A abertura desenha um olho de frente em traço roxo escuro, com contorno em amêndoa, íris circular preenchida e pupila menor vazada em branco, centralizado e inscrito no círculo guia da grade pontilhada sobre degradê rosa e roxo (img 0473).
+- A comparação de forma usa o mesmo quadrado cinza médio externo, com mesma cor e tamanho, e varia só a área interna mais clara: quadrado de cantos retos numa versão, círculo na outra (img 0474 e img 0476).
+- Os selos ficam em imagens separadas: X branco em círculo cinza claro para a versão quadrada e check branco em círculo verde para a versão circular (img 0475 e img 0477).
+- No vídeo, o app Ajustes do visionOS aparece em passthrough sobre um quarto real com violão, janela com persiana e poltrona; a tela tem duas colunas, lista lateral à esquerda com General selecionado e painel de detalhe à direita (vídeo eyes 009, folha 0001, q001).
+- Os dois painéis são cartões translúcidos de cantos arredondados flutuando sobre o ambiente; dentro do detalhe, os itens se agrupam em blocos arredondados menores que juntam pares relacionados, como About com Software Update e AirDrop com Handoff, com separador fino entre itens do mesmo bloco (vídeo eyes 009, folhas 0001 a 0003).
+- A hierarquia tipográfica traz o título "General" em destaque no topo do painel e os itens em texto branco menor abaixo, e ela não muda ao longo do clipe (vídeo eyes 009, folha 0002, q010 a q018).
+- Entre q001 e q024 a câmera, a lista lateral e os grupos nunca mudam de lugar; a única variação é uma diferença sutil de luminosidade em uma linha por vez do painel de detalhe, compatível com o hover passando de linha em linha (vídeo eyes 009, folhas 0001 a 0003).
+- O hover não desloca nem redimensiona nada: altera só o realce de fundo da linha mirada, sem recompor o resto da tela (vídeo eyes 009, folha 0002, q010 a q018).
+Divergências registradas: a descrição oficial fala em vários ajustes recebendo o hover em sequência conforme o olhar se move; na resolução da grade de quadros não foi possível identificar com segurança qual linha está realçada em cada quadro.

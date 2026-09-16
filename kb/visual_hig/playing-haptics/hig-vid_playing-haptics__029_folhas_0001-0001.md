@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__029 · folha 0001 · código F43B7
+- Quadros: aqui aparecem três barras rosa finas e separadas (em vez das duas de 026/027/028), seguidas do mesmo tipo de bloco triangular azul denso com cauda pontilhada. Em q001 o marcador está no início; em q002 está logo depois do fim do bloco (a folha mostra também uma repetição parcial adicional dentro do mesmo quadro, com as três barras aparecendo de novo antes do marcador); em q003 o padrão se repete outra vez com o marcador no fim.
+- Construção de interface: o número de pulsos isolados no início (três, em vez de dois) é o elemento gráfico que diferencia esse haptic dos anteriores, mostrando que a HIG comunica "sucesso" com um padrão de batidas mais numeroso antes da vibração de confirmação.
+- Com a descrição oficial: a alt genérica não menciona quantidade de pulsos; a imagem acrescenta esse detalhe concreto (três pulsos distintos) que diferencia visualmente o haptic de Success dos haptics Up/Down.

@@ -1,0 +1,12 @@
+### O que as ilustrações mostram
+Base: 3 folhas de ilustrações vistas (10 imagens, todas em aparência clara), códigos conferidos; sem vídeos.
+- A abertura desenha uma cruzeta direcional em contorno roxo escuro sólido, inscrita no círculo guia da grade de construção, sobre degradê de rosa para roxo (img 0513).
+- O estado pressionado de um botão virtual aparece em traço: a mão direita segura o iPhone em paisagem e o polegar pressiona o botão com X, que fica mais escuro, preenchido e de contorno mais grosso que os botões de triângulo e quadrado ao lado, com um traço extra ao redor sugerindo brilho; um botão circular maior ocupa o canto inferior esquerdo (img 0515).
+- Os botões virtuais dessa ilustração reaproveitam a linguagem de controle físico, com símbolos de triângulo, quadrado e X em coluna (img 0515).
+- O mapeamento de entrada para ação é desenhado como dois círculos cinza ligados por seta: o botão do controle com símbolo de quadrado leva à ação no jogo representada por uma mão fazendo o gesto de pegar, cada lado com seu rótulo de texto (img 0516).
+- O mesmo thumbstick virtual, na mesma cena e enquadramento, muda com o uso: em movimento fica branco opaco e bem visível, com pequena seta curva indicando direção; em repouso vira cinza escuro translúcido, sem contorno de destaque nem seta (img 0517 e img 0518).
+- Toque simples e toque prolongado são diferenciados no mesmo botão cinza com ícone de chama: o primeiro tem anel completo ao redor, o segundo um anel parcial, como indicador de progresso circular incompleto (img 0519).
+- A divisão da tela é feita sobre uma única imagem de jogo cortada ao meio por molduras coloridas: metade esquerda com borda vermelha para controles de movimento, metade direita com borda ciano para controles de câmera (img 0520).
+- O diagrama do controle físico, em contorno cinza claro visto de frente, rotula em pares esquerda e direita os botões de ombro, gatilhos e thumbsticks (o esquerdo mais alto, o direito mais baixo), além do botão de menu pequeno no centro superior e da cruzeta; os quatro botões de ação à direita, em losango, ficam sem rótulo (img 0521).
+- O app SF Symbols no Mac aparece com a categoria Gaming selecionada na barra lateral, 234 símbolos, numa grade de ícones com o nome técnico sob cada um (img 0522).
+Divergências registradas: a descrição oficial de img 0514 fala num gráfico com o posicionamento ideal dos controles de toque, mas a imagem vista está toda desfocada e nenhuma marcação, seta ou zona de posicionamento é legível.

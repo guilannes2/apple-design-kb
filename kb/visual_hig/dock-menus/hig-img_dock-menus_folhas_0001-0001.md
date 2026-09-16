@@ -1,0 +1,5 @@
+### hig-img_dock-menus · folha 0001 · código 7D50B
+- img 0469 (clara), seção Dock menus: ilustração sobre fundo em degradê laranja/vermelho de um Dock estilizado com seis ícones quadrados vazios (sem símbolos dentro), três deles com um pontinho vermelho abaixo indicando app aberto. Acima do quarto ícone, um menu em formato de balão (com uma pontinha triangular apontando para o ícone de origem) lista quatro itens: "Menu Item A" com seta para a direita indicando submenu, "Menu Item B" sem seta, uma linha divisória, e depois "Show Recents" com seta para a direita e "Open" sem seta. A composição deixa claro que o menu do Dock nasce ancorado visualmente no ícone do app, com uma seta apontando de volta para ele, e que itens com submenu recebem chevron enquanto ações diretas não.
+
+## Síntese visual da página dock-menus
+- A ilustração usa um balão com ponta triangular ancorada no ícone do Dock para mostrar a relação de origem entre o menu e o app, e usa a presença ou ausência do chevron para diferenciar visualmente itens que abrem submenu dos que executam ação direta (img 0469).

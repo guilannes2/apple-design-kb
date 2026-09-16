@@ -1,0 +1,271 @@
+[
+ {
+  "label": "onda1-001",
+  "items": [
+   {
+    "video_id": "meet-with-apple_208",
+    "title": "Showcase: Learn how apps are integrating the new design and Liquid Glass",
+    "from": 1,
+    "to": 21,
+    "total": 81,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-002",
+  "items": [
+   {
+    "video_id": "meet-with-apple_208",
+    "title": "Showcase: Learn how apps are integrating the new design and Liquid Glass",
+    "from": 22,
+    "to": 42,
+    "total": 81,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-003",
+  "items": [
+   {
+    "video_id": "meet-with-apple_208",
+    "title": "Showcase: Learn how apps are integrating the new design and Liquid Glass",
+    "from": 43,
+    "to": 63,
+    "total": 81,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-004",
+  "items": [
+   {
+    "video_id": "meet-with-apple_208",
+    "title": "Showcase: Learn how apps are integrating the new design and Liquid Glass",
+    "from": 64,
+    "to": 81,
+    "total": 81,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-005",
+  "items": [
+   {
+    "video_id": "meet-with-apple_254",
+    "title": "Liquid Glass showcase: LTK",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "meet-with-apple_255",
+    "title": "Liquid Glass showcase: Slack",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "meet-with-apple_256",
+    "title": "Liquid Glass showcase: CNN",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-006",
+  "items": [
+   {
+    "video_id": "meet-with-apple_257",
+    "title": "Liquid Glass showcase: Tide Guide",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-007",
+  "items": [
+   {
+    "video_id": "meet-with-apple_270",
+    "title": "Design with SwiftUI",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda1-008",
+  "items": [
+   {
+    "video_id": "meet-with-apple_274",
+    "title": "AllTrails: Momentum without a rewrite",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "whisper-local-large-v3-turbo"
+   },
+   {
+    "video_id": "tech-talks_111427",
+    "title": "Discover the Apple Design Resources",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-009",
+  "items": [
+   {
+    "video_id": "wwdc2017_821",
+    "title": "Get Started with Display P3",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2026_227",
+    "title": "Create UI prototypes using agents in Xcode",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-010",
+  "items": [
+   {
+    "video_id": "wwdc2026_234",
+    "title": "Design immersive environments for visionOS apps and the spatial web",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-011",
+  "items": [
+   {
+    "video_id": "wwdc2026_250",
+    "title": "Principles of great design",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-012",
+  "items": [
+   {
+    "video_id": "wwdc2026_251",
+    "title": "Communicate your brand identity on iOS",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-013",
+  "items": [
+   {
+    "video_id": "wwdc2026_252",
+    "title": "Design no-code games with Reality Composer Pro 3",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-014",
+  "items": [
+   {
+    "video_id": "wwdc2026_269",
+    "title": "What’s new in SwiftUI",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-015",
+  "items": [
+   {
+    "video_id": "wwdc2026_290",
+    "title": "Craft clear names for features and labels in your app",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2026_292",
+    "title": "Design intuitive search experiences",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-016",
+  "items": [
+   {
+    "video_id": "wwdc2026_314",
+    "title": "Learn CSS Grid Lanes",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2026_321",
+    "title": "Dive into lazy stacks and scrolling with SwiftUI",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda1-017",
+  "items": [
+   {
+    "video_id": "wwdc2026_322",
+    "title": "Compose advanced graphics effects with SwiftUI",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

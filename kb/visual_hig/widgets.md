@@ -1,0 +1,77 @@
+# HIG, página widgets: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_widgets: assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+
+# hig-img_widgets: notas visuais (folhas 0001-0010)
+
+### hig-img_widgets · folha 0001 · código 26CEC
+- img 1286 (clara), seção Widgets: ilustração de abertura estilizada, tela de iPad em gradiente laranja/vermelho com seis blocos translúcidos em grade 2 colunas mais um bloco maior ao centro, simulando o layout de widgets na Tela de Início; barra de Dock com ícones translúcidos embaixo. Construída como silhueta simplificada (sem ícones reais, sem texto), tom de vermelho batendo com a cor do logo da Apple. Acrescenta ao texto (que está vazio, é a página) a ideia visual de "widgets de tamanhos variados soltos na tela".
+- img 1288 (clara), seção System family widgets: widget médio de Calendário. Cartão branco de cantos arredondados dividido em duas colunas internas: esquerda repete o dia "TUESDAY 14" com dois eventos em barras roxas com traço colorido à esquerda (Dinner with Ravi, Yoga Class), direita traz "TOMORROW" com mais dois eventos. Mostra concretamente a extensão horizontal do widget médio citada no texto (mesma altura do pequeno, duas vezes a largura).
+- img 1289 (clara), seção System family widgets: widget grande de Calendário, mesma estrutura de duas colunas (hoje à esquerda, amanhã à direita) mas agora com uma escala de horário vertical (1 a 5 e 7 a 12) com linha vermelha marcando a hora atual e blocos de evento posicionados sobre essa escala, algo que os widgets pequeno e médio não mostram. Confirma a descrição oficial ("indicadores de hora do dia" nos dois lados) e acrescenta o desenho exato da régua de horas.
+- img 1287 (clara), seção System family widgets: widget pequeno de Calendário, cartão quadrado curto mostrando só "TUESDAY 14" e dois eventos empilhados em barras roxas com traço à esquerda. É o menor da série da folha, serve de base de comparação para os widgets médio e grande ao lado.
+
+## Síntese parcial (folha 0001)
+- A progressão pequeno > médio > grande do widget de Calendário é construída por acréscimo de colunas (hoje, depois hoje+amanhã) e não por aumento de fonte (img 1287, 1288, 1289).
+- Eventos em widgets usam sempre o mesmo padrão visual: barra de cor lilás/roxa com um traço vertical colorido à esquerda indicando categoria (img 1287, 1288, 1289).
+
+### hig-img_widgets · folha 0002 · código 0766F
+- img 1290 (clara), seção System family widgets: widget extra grande de Calendário, quatro colunas (Tuesday, Tomorrow, Thursday, Friday) sobre a mesma régua de horas vertical (1 a 5) usada no widget grande; a coluna de hoje é visivelmente mais larga que as outras três. Confirma a descrição oficial ponto a ponto (quatro dias, régua de horário em todas, coluna de hoje mais larga).
+- img 1291 (clara), seção System family widgets: widget de Música extra grande retrato, cartão vertical alto dividido em duas partes, capa de álbum (foto de árvore Joshua Tree contra céu) ocupando a metade superior e informações de texto (ALBUM NAME, Artist Name, gênero, contagem de faixas, duração, ano) na metade inferior sobre fundo claro; ícone de nota musical e "Song Name" no rodapé. Mostra construção por blocos empilhados (imagem em cima, metadados embaixo), diferente da divisão em colunas dos widgets de Calendário.
+- img 1292 (clara), seção Accessory widgets: widget circular de Calendário, ícone de calendário pequeno sobreposto a um círculo translúcido com "10:00 AM" abaixo, tudo sobre fundo texturizado bege (mostra pele de cerâmica do relógio); mínimo texto possível, confirma "mostra só a hora do próximo evento".
+- img 1293 (clara), seção Accessory widgets: widget de canto (corner) de Calendário, texto curvo acompanhando o arco do canto do mostrador do relógio, "10:00AM TEAM MEETING" em duas cores (branco para hora, vermelho para título), fundo preto. Mostra a curvatura do texto como recurso de construção específico desse formato.
+
+### hig-img_widgets · folha 0003 · código 4C7E4
+- img 1294 (clara), seção Accessory widgets: widget inline (embutido em linha de texto), retângulo bege translúcido com "Tue 11 [ícone calendário] 2 events at 10AM" em uma única linha; mostra a integração inline em uma barra horizontal, sem cartão próprio.
+- img 1295 (clara), seção Accessory widgets: widget retangular de Calendário, mesmo fundo bege translúcido, mas agora com duas linhas de evento ("10AM", "Team Meeting", "Project Review") empilhadas verticalmente dentro do retângulo, sem hora salvo no topo.
+- img 1296 (clara), seção Appearances (legenda "Full-color"): widget pequeno de Stocks em cores plenas, fundo preto, seta verde de alta, "AAPL +0.11", "Apple Inc. +0.04%", gráfico de linha verde e valor "247.77" grande embaixo. Mostra o padrão de cores semânticas (verde para alta) descrito no texto.
+- img 1297 (clara), seção Appearances (legenda "Clear"): mesmo widget de Stocks, mas com o cartão inteiro dessaturado e semi-transparente (translúcido), texto e gráfico em branco/cinza sem cor, deixando ver o brilho do fundo por trás. Mostra concretamente a dessaturação e a transparência que a "aparência clara" acrescenta, algo que o texto só descreve em palavras.
+
+### hig-img_widgets · folha 0004 · código 0962E
+- img 1298 (clara), seção Appearances (legenda "Tinted"): mesmo widget pequeno de Stocks, agora com um único tom de roxo aplicado a todo o cartão (fundo e texto), sem verde/vermelho semântico, sobreposto a um fundo dourado da Tela de Início. Mostra que "tintado" substitui toda a paleta por uma cor só, inclusive o que antes era verde.
+- img 1299 (clara), seção Appearances (Apple Vision Pro): o mesmo widget de Stocks aparece como um objeto 3D dentro de uma moldura branca espessa com sombra e profundidade, sobre fundo cinza, cores plenas preservadas (verde no gráfico). Acrescenta ao texto a moldura física ("takes on... surrounded by a frame") que o texto descreve.
+- img 1300 (clara), seção Appearances (Lock Screen do iPad): widget em tom monocromático castanho/bege, sem nenhuma cor semântica (nem verde nem vermelho), sobre fundo também acastanhado. Confirma "monocromático sem cor de tint".
+- img 1301 (clara), seção Appearances (legenda "StandBy"): widget em fundo preto totalmente, texto e gráfico em vermelho monocromático, tamanho maior que os widgets de tela de início. Mostra o efeito de escala aumentada e tinta vermelha mencionado no texto.
+
+### hig-img_widgets · folha 0005 · código 71737
+- img 1302 (clara), seção Appearances (legenda "iPhone in StandBy during low-light conditions"): repete o widget de Stocks em preto e vermelho monocromático, visualmente quase idêntico ao img 1301; a diferença que o texto aponta (StandBy padrão vs. baixa luminosidade) não é distinguível a olho na imagem, ambas usam o mesmo vermelho sobre preto.
+- img 1303 (clara), seção Appearances (Apple Watch): faixa retangular com fundo texturizado bege/marrom (mesma textura cerâmica dos acessórios), texto "4:00-5:00PM Team Meeting Conference room" com um traço vertical rosa claro à esquerda separando hora e título.
+- img 1304 (clara), seção Appearances (watch complication retangular): mesmo texto de evento, mas fundo preto sólido e traço vertical vermelho, sem textura, texto branco e cinza. Mostra que a complicação de relógio troca o fundo texturizado por preto puro.
+- img 1305 (clara), seção Appearances (Smart Stack no Apple Watch): mesmo cartão de evento (fundo claro, traço vermelho, texto preto/cinza) mas agora sobreposto a um fundo preto ao redor, como se o cartão "flutuasse" destacado sobre a tela do relógio.
+
+### hig-img_widgets · folha 0006 · código 84640
+- img 1306 (clara), seção Best practices: widget pequeno de Weather em azul degradê, "Cupertino" com ícone de localização, temperatura grande "70°", ícone de sol amarelo, "Sunny", "H:75° L:59°". Mostra hierarquia tipográfica clara: local pequeno no topo, número gigante ao centro, condição e mínimas/máximas menores embaixo.
+- img 1307 (clara), seção Adding interactivity (legenda "Incomplete tasks"): widget grande de Reminders, título "20 Reminders" com bolinha vermelha decorativa no canto, lista de sete tarefas cada uma com um círculo vazio de marcação à esquerda, todas desmarcadas.
+- img 1308 (clara), seção Adding interactivity (legenda "Completed tasks"): mesmo widget, mas o primeiro e o terceiro círculos agora aparecem preenchidos em vermelho sólido (tarefas concluídas), os demais continuam vazios. Mostra o estado de alternância (toggle) do mesmo componente, comparando os dois estados lado a lado na folha.
+- img 1309 (clara), seção Adding interactivity: widget médio de Stocks watchlist, fundo preto, três linhas (Dow Jones, S&P 500, AAPL), cada linha com nome à esquerda, minigráfico verde ao centro e valor mais variação em verde à direita, alinhados em três colunas.
+
+### hig-img_widgets · folha 0007 · código A00E4
+- img 1310 (clara), seção Full-color: widget pequeno de Notes, barra amarela superior com ícone de pasta e "Notes", corpo branco com título de nota em preto ("Steve's Surprise Birthday Party Checklist") e "Yesterday" em cinza. Mostra fundo claro com texto escuro, conforme recomendado no texto para a aparência clara.
+- img 1311 (clara), seção Full-color: mesmo widget de Notes, mesma barra amarela no topo, mas corpo em preto com o mesmo texto agora em branco. Comparado a img 1310, muda só o fundo do corpo (branco para preto) e a cor do texto (preto para branco); a barra amarela do topo permanece igual nas duas, mostrando que o "full-color" preserva a cor de marca mesmo trocando claro/escuro.
+- img 1312 (clara), seção Previews and placeholders: cartão amarelo liso sem cabeçalho, com três barras horizontais em tons de amarelo mais claro representando linhas de texto ainda não carregadas (placeholder), larguras decrescentes.
+- img 1313 (clara), seção Previews and placeholders: mesmo cartão amarelo, mas as barras placeholder foram substituídas por texto real em branco/amarelo-claro, "How to take a screenshot" em três linhas. Comparando 1312 e 1313 lado a lado, a folha mostra literalmente a transição de placeholder para conteúdo real usando a mesma geometria de linhas.
+
+### hig-img_widgets · folha 0008 · código A4279
+- img 1314 (clara), seção Previews and placeholders: tela cheia de iPhone mostrando a galeria de widgets aberta no app Notes; um cartão modal sobe da base com título "Note", descrição, o widget pequeno em miniatura ao centro, indicador de página (pontos) mostrando 6 páginas, e um botão "Add Widget" na cor amarela (cor de marca do Notes) na parte inferior.
+- img 1315 (clara), seção Previews and placeholders: mesma estrutura de galeria, agora para o app Weather; o botão "Add Widget" muda para azul (cor de marca do Weather), confirmando a ideia de personalizar a cor do botão por app.
+- img 1316 (clara), seção iOS, iPadOS: tela de bloqueio de iPhone mostrando três formatos de widget de uma vez acima e abaixo do relógio: texto inline no topo ("Tue 6, Team Meeting"), o relógio grande "9:41" ao centro, e dois widgets circulares abaixo (evento com barra lateral e um indicador circular de porcentagem/hora). Mostra concretamente a composição dos três formatos de Lock Screen descritos no texto (inline, circular, retangular aparecendo juntos).
+- img 1317 (clara), seção StandBy and CarPlay: tela em modo StandBy com fundo preto, mostrador de relógio analógico grande à esquerda e widget de Weather (Cupertino, 70°, Sunny, H/L) à direita, ambos em texto/gráfico branco sobre preto, sem cartão ou moldura visível ao redor de cada widget.
+
+### hig-img_widgets · folha 0009 · código 85F6E
+- img 1318 (clara), seção StandBy and CarPlay: apenas um ícone de certo (checkmark verde dentro de um círculo), sem outro conteúdo, indicando exemplo de uso correto na comparação da página.
+- img 1319 (clara), seção StandBy and CarPlay: em StandBy, o mesmo relógio analógico branco sobre preto ao lado de um widget de Weather que mantém a forma de cartão azul arredondado igual ao de Tela de Início (fundo azul solto, cantos arredondados, sombra), destacando-se do fundo preto ao redor. Isso ilustra o exemplo de uso incorreto citado no texto (widget de Weather não otimizado para StandBy, mantendo o visual de app de Tela de Início em vez de se fundir ao fundo preto).
+- img 1320 (clara), seção StandBy and CarPlay: apenas um ícone de X (círculo cinza com X), marcando o exemplo de uso incorreto ao lado da imagem anterior.
+- img 1321 (clara), seção StandBy and CarPlay (legenda "iPhone in low-light conditions"): mesmo layout de relógio analógico e Weather lado a lado, mas agora tudo em vermelho monocromático sobre preto, incluindo os números do mostrador e o texto do clima, sem nenhum branco ou azul remanescente. Confirma o efeito de tingimento vermelho total em baixa luminosidade.
+
+### hig-img_widgets · folha 0010 · código FDF49
+- img 1322 (clara), seção Thresholds and sizes (legenda "Viewed from a distance"): widget de Música dentro de uma moldura branca espessa em perspectiva (efeito 3D flutuante do visionOS), capa de álbum vermelha texturizada com uma faixa preta central e o texto do álbum abaixo pequeno e sem lista de faixas.
+- img 1323 (clara), seção Thresholds and sizes (legenda "Viewed from nearby"): mesma composição e mesma moldura 3D, mas com o cartão maior/mais próximo e um bloco extra de texto abaixo do nome do artista, listando várias vezes "Song Name" em texto miúdo repetido em quatro linhas, informação ausente na versão "à distância". Mostra concretamente a ideia de adaptar densidade de informação conforme a proximidade: a versão de perto ganha uma lista de faixas que a versão distante não tem.
+
+## Síntese visual da página widgets
+- A progressão de tamanho do sistema (pequeno a extra grande) é construída por acréscimo de colunas/dias, nunca por aumento de fonte dentro do mesmo bloco de informação (img 1287, 1288, 1289, 1290).
+- Widgets acessórios (relógio) trocam cartão retangular por formas específicas do mostrador: círculo, canto curvo, faixa inline e retângulo, cada um com composição tipográfica própria adaptada à forma (img 1292 a 1295).
+- As quatro aparências (full-color, clear, tinted, monocromático de Lock Screen/StandBy) são o mesmo componente com o mesmo layout, variando só cor e opacidade: full-color mantém cores semânticas (verde de alta), clear dessatura e deixa translúcido, tinted aplica uma única cor a tudo, e o monocromático de Lock Screen/StandBy remove toda cor exceto um tom único, podendo virar vermelho em baixa luminosidade (img 1296 a 1302, 1321).
+- Estados de interatividade (toggle) são mostrados por comparação lado a lado do mesmo widget com círculos vazios versus círculos preenchidos, sem qualquer outra mudança de layout (img 1307, 1308).
+- Placeholder e conteúdo real usam a mesma geometria de blocos (barras de largura decrescente viram linhas de texto reais), reforçando que o placeholder deve imitar a forma final antes dos dados chegarem (img 1312, 1313).
+- Bom uso versus mau uso em StandBy é marcado por ícones simples de certo (check verde) e errado (X cinza) ao lado da imagem de exemplo, não por anotações textuais sobre a própria imagem (img 1318 a 1321).
+- Adaptação por proximidade em visionOS é mostrada pela mesma cena 3D em duas distâncias, adicionando um bloco de texto extra (lista de faixas) só na versão de perto (img 1322, 1323).

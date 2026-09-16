@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "meet-with-apple_270",
+  "titulo": "Design with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/270/",
+  "duracao_s": 1513,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "meet-with-apple_274",
+  "titulo": "AllTrails: Momentum without a rewrite",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/274/",
+  "duracao_s": 854,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "meet-with-apple_208",
+  "titulo": "Showcase: Learn how apps are integrating the new design and Liquid Glass",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/208/",
+  "duracao_s": 6977,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "meet-with-apple_257",
+  "titulo": "Liquid Glass showcase: Tide Guide",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/257/",
+  "duracao_s": 652,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "meet-with-apple_255",
+  "titulo": "Liquid Glass showcase: Slack",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/255/",
+  "duracao_s": 748,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "meet-with-apple_254",
+  "titulo": "Liquid Glass showcase: LTK",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/254/",
+  "duracao_s": 573,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "meet-with-apple_256",
+  "titulo": "Liquid Glass showcase: CNN",
+  "url": "https://developer.apple.com/videos/play/meet-with-apple/256/",
+  "duracao_s": 564,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_322",
+  "titulo": "Compose advanced graphics effects with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/322/",
+  "duracao_s": 1075,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_252",
+  "titulo": "Design no-code games with Reality Composer Pro 3",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/252/",
+  "duracao_s": 1133,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_227",
+  "titulo": "Create UI prototypes using agents in Xcode",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/227/",
+  "duracao_s": 1091,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_315",
+  "titulo": "Rediscover the HTML select element",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/315/",
+  "duracao_s": 570,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_292",
+  "titulo": "Design intuitive search experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/292/",
+  "duracao_s": 977,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_290",
+  "titulo": "Craft clear names for features and labels in your app",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/290/",
+  "duracao_s": 904,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_314",
+  "titulo": "Learn CSS Grid Lanes",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/314/",
+  "duracao_s": 624,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_269",
+  "titulo": "What’s new in SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/269/",
+  "duracao_s": 1695,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_234",
+  "titulo": "Design immersive environments for visionOS apps and the spatial web",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/234/",
+  "duracao_s": 958,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_321",
+  "titulo": "Dive into lazy stacks and scrolling with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/321/",
+  "duracao_s": 1270,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_250",
+  "titulo": "Principles of great design",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/250/",
+  "duracao_s": 1036,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_251",
+  "titulo": "Communicate your brand identity on iOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/251/",
+  "duracao_s": 1046,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2026_8012",
+  "titulo": "Icon Composer for Beginners Group Lab",
+  "url": "https://developer.apple.com/videos/play/wwdc2026/8012/",
+  "duracao_s": 3699,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "tech-talks_111427",
+  "titulo": "Discover the Apple Design Resources",
+  "url": "https://developer.apple.com/videos/play/tech-talks/111427/",
+  "duracao_s": 334,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "tech-talks_111461",
+  "titulo": "Prepare your app for iPhone Duo",
+  "url": "https://developer.apple.com/videos/play/tech-talks/111461/",
+  "duracao_s": 610,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "tech-talks_111466",
+  "titulo": "Design for iPhone Duo",
+  "url": "https://developer.apple.com/videos/play/tech-talks/111466/",
+  "duracao_s": 645,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "tech-talks_111462",
+  "titulo": "Raise the bar with iPhone Duo",
+  "url": "https://developer.apple.com/videos/play/tech-talks/111462/",
+  "duracao_s": 943,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "tech-talks_111463",
+  "titulo": "Strike a pose with adaptive layouts on iPhone Duo",
+  "url": "https://developer.apple.com/videos/play/tech-talks/111463/",
+  "duracao_s": 1081,
+  "midia": "mp4",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "tech-talks_10884",
+  "titulo": "Meet Apple Watch Series 7",
+  "url": "https://developer.apple.com/videos/play/tech-talks/10884/",
+  "duracao_s": 911,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "tech-talks_802",
+  "titulo": "Designing for Apple Watch Series 4",
+  "url": "https://developer.apple.com/videos/play/tech-talks/802/",
+  "duracao_s": 566,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "tech-talks_803",
+  "titulo": "Designing for Subscription Success",
+  "url": "https://developer.apple.com/videos/play/tech-talks/803/",
+  "duracao_s": 552,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "tech-talks_801",
+  "titulo": "Designing for iPhone X",
+  "url": "https://developer.apple.com/videos/play/tech-talks/801/",
+  "duracao_s": 770,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_361",
+  "titulo": "Create icons with Icon Composer",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/361/",
+  "duracao_s": 873,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_337",
+  "titulo": "What’s new in SF Symbols 7",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/337/",
+  "duracao_s": 1372,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_305",
+  "titulo": "Optimize your custom environments for visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/305/",
+  "duracao_s": 1966,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_404",
+  "titulo": "Make a big impact with small writing changes",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/404/",
+  "duracao_s": 961,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_304",
+  "titulo": "Explore video experiences for visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/304/",
+  "duracao_s": 1552,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_323",
+  "titulo": "Build a SwiftUI app with the new design",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/323/",
+  "duracao_s": 1337,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_208",
+  "titulo": "Elevate the design of your iPad app",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/208/",
+  "duracao_s": 920,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_284",
+  "titulo": "Build a UIKit app with the new design",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/284/",
+  "duracao_s": 1552,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_273",
+  "titulo": "Meet SwiftUI spatial layout",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/273/",
+  "duracao_s": 1221,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_359",
+  "titulo": "Design foundations from idea to interface",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/359/",
+  "duracao_s": 1146,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_248",
+  "titulo": "Explore prompt design & safety for on-device foundation models",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/248/",
+  "duracao_s": 1331,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_247",
+  "titulo": "What’s new in Xcode 26",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/247/",
+  "duracao_s": 2216,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_274",
+  "titulo": "Better together: SwiftUI and RealityKit",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/274/",
+  "duracao_s": 1825,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_290",
+  "titulo": "Set the scene with SwiftUI in visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/290/",
+  "duracao_s": 1491,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_303",
+  "titulo": "Design hover interactions for visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/303/",
+  "duracao_s": 850,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_317",
+  "titulo": "What’s new in visionOS 26",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/317/",
+  "duracao_s": 2327,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_220",
+  "titulo": "Say hello to the new look of app icons",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/220/",
+  "duracao_s": 714,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_219",
+  "titulo": "Meet Liquid Glass",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/219/",
+  "duracao_s": 1173,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_281",
+  "titulo": "Design interactive snippets",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/281/",
+  "duracao_s": 448,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_316",
+  "titulo": "Principles of inclusive app design",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/316/",
+  "duracao_s": 1270,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_356",
+  "titulo": "Get to know the new design system",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/356/",
+  "duracao_s": 1094,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2025_255",
+  "titulo": "Design widgets for visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2025/255/",
+  "duracao_s": 1264,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10147",
+  "titulo": "Elevate your tab and sidebar experience in iPadOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10147/",
+  "duracao_s": 946,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10112",
+  "titulo": "Say hello to the next generation of CarPlay design system",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10112/",
+  "duracao_s": 1165,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10116",
+  "titulo": "Explore multiview video playback in visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10116/",
+  "duracao_s": 842,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10085",
+  "titulo": "Design advanced games for Apple platforms",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10085/",
+  "duracao_s": 1434,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10145",
+  "titulo": "Enhance your UI animations and transitions",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10145/",
+  "duracao_s": 854,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10086",
+  "titulo": "Design great visionOS apps",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10086/",
+  "duracao_s": 1143,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10087",
+  "titulo": "Create custom environments for your immersive apps in visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10087/",
+  "duracao_s": 567,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10098",
+  "titulo": "Design Live Activities for Apple Watch",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10098/",
+  "duracao_s": 518,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10176",
+  "titulo": "Design App Intents for system experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10176/",
+  "duracao_s": 559,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10094",
+  "titulo": "Explore game input in visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10094/",
+  "duracao_s": 982,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10188",
+  "titulo": "What’s new in SF Symbols 6",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10188/",
+  "duracao_s": 1039,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10096",
+  "titulo": "Design interactive experiences for visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10096/",
+  "duracao_s": 1248,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10152",
+  "titulo": "Create custom hover effects in visionOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10152/",
+  "duracao_s": 1000,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10151",
+  "titulo": "Create custom visual effects with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10151/",
+  "duracao_s": 1566,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2024_10140",
+  "titulo": "Add personality to your app through UX writing",
+  "url": "https://developer.apple.com/videos/play/wwdc2024/10140/",
+  "duracao_s": 1249,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10197",
+  "titulo": "What’s new in SF Symbols 5",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10197/",
+  "duracao_s": 1133,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10072",
+  "titulo": "Principles of spatial design",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10072/",
+  "duracao_s": 1295,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_111520",
+  "titulo": "Q&A: watchOS 10 design",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/111520/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_111324",
+  "titulo": "Q&A: Spatial design",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/111324/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_10115",
+  "titulo": "Design with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10115/",
+  "duracao_s": 1114,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10073",
+  "titulo": "Design for spatial input",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10073/",
+  "duracao_s": 1204,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10075",
+  "titulo": "Design spatial SharePlay experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10075/",
+  "duracao_s": 986,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10309",
+  "titulo": "Design widgets for the Smart Stack on Apple Watch",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10309/",
+  "duracao_s": 746,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_111484",
+  "titulo": "Q&A: UX writing",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/111484/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_10258",
+  "titulo": "Animate symbols in your app",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10258/",
+  "duracao_s": 1027,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10194",
+  "titulo": "Design dynamic Live Activities",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10194/",
+  "duracao_s": 900,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_111522",
+  "titulo": "Q&A: Widgets in the Smart Stack on watchOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/111522/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_10193",
+  "titulo": "Design Shortcuts for Spotlight",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10193/",
+  "duracao_s": 579,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10337",
+  "titulo": "Meet the presenters: Design with SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10337/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_10229",
+  "titulo": "Make features discoverable with TipKit",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10229/",
+  "duracao_s": 885,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10271",
+  "titulo": "Explore immersive sound design",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10271/",
+  "duracao_s": 873,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10026",
+  "titulo": "Meet watchOS 10",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10026/",
+  "duracao_s": 595,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10257",
+  "titulo": "Create animated symbols",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10257/",
+  "duracao_s": 1084,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10138",
+  "titulo": "Design and build apps for watchOS 10",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10138/",
+  "duracao_s": 1160,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_111243",
+  "titulo": "Q&A: Spatial design",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/111243/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2023_10076",
+  "titulo": "Design for spatial user interfaces",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10076/",
+  "duracao_s": 1361,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2023_10078",
+  "titulo": "Design considerations for vision and motion",
+  "url": "https://developer.apple.com/videos/play/wwdc2023/10078/",
+  "duracao_s": 910,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_110342",
+  "titulo": "Design app experiences with charts",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110342/",
+  "duracao_s": 943,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_110531",
+  "titulo": "Meet the Presenter: Design app experiences with charts",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110531/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_110530",
+  "titulo": "Q&A: Human Interface Guidelines",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110530/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_110532",
+  "titulo": "Meet the Presenter: Writing for interfaces",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110532/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_10169",
+  "titulo": "Design App Shortcuts",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10169/",
+  "duracao_s": 1213,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10157",
+  "titulo": "What's new in SF Symbols 4",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10157/",
+  "duracao_s": 1069,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_103",
+  "titulo": "Apple Design Awards",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/103/",
+  "duracao_s": 1117,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10139",
+  "titulo": "Make a great SharePlay experience",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10139/",
+  "duracao_s": 1118,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10015",
+  "titulo": "Design for Collaboration with Messages",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10015/",
+  "duracao_s": 689,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_110484",
+  "titulo": "Meet the Presenter: Explore design navigation on iOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110484/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_10034",
+  "titulo": "Design for Arabic",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10034/",
+  "duracao_s": 1213,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10001",
+  "titulo": "Explore navigation design for iOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10001/",
+  "duracao_s": 1533,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10037",
+  "titulo": "Writing for interfaces",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10037/",
+  "duracao_s": 1410,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10175",
+  "titulo": "Q&A: Prototyping",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10175/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_110533",
+  "titulo": "Meet the Presenter: Design App Shortcuts",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110533/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2022_110340",
+  "titulo": "Design an effective chart",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110340/",
+  "duracao_s": 1501,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10158",
+  "titulo": "Adopt Variable Color in SF Symbols",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10158/",
+  "duracao_s": 1033,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_110381",
+  "titulo": "Meet the expanded San Francisco font family",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110381/",
+  "duracao_s": 1109,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10131",
+  "titulo": "Qualities of great AR experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10131/",
+  "duracao_s": 800,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_10009",
+  "titulo": "What’s new in iPad app design",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/10009/",
+  "duracao_s": 1088,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_113",
+  "titulo": "Apple Design Awards (ASL)",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/113/",
+  "duracao_s": 1117,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2022_110441",
+  "titulo": "Design for Arabic · صمّم بالعربي",
+  "url": "https://developer.apple.com/videos/play/wwdc2022/110441/",
+  "duracao_s": 1170,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10275",
+  "titulo": "The practice of inclusive design",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10275/",
+  "duracao_s": 2046,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10081",
+  "titulo": "Tap into virtual and physical game controllers",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10081/",
+  "duracao_s": 900,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10349",
+  "titulo": "SF Symbols in SwiftUI",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10349/",
+  "duracao_s": 657,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10250",
+  "titulo": "Create custom symbols",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10250/",
+  "duracao_s": 1547,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10283",
+  "titulo": "Design great actions for Shortcuts, Siri, and Suggestions",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10283/",
+  "duracao_s": 1333,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10097",
+  "titulo": "What’s new in SF Symbols",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10097/",
+  "duracao_s": 1231,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10308",
+  "titulo": "Accessibility by design: An Apple Watch for everyone",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10308/",
+  "duracao_s": 612,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10029",
+  "titulo": "Design for Safari 15",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10029/",
+  "duracao_s": 2012,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_110142",
+  "titulo": "Accessibility by design: An Apple Watch for everyone (ASL)",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/110142/",
+  "duracao_s": 612,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10126",
+  "titulo": "Discoverable design",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10126/",
+  "duracao_s": 1964,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10245",
+  "titulo": "Design for spatial interaction",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10245/",
+  "duracao_s": 1105,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10184",
+  "titulo": "Design for Group Activities",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10184/",
+  "duracao_s": 534,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_113",
+  "titulo": "WWDC21 Apple Design Awards (ASL)",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/113/",
+  "duracao_s": 1181,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10317",
+  "titulo": "Out of this world... on to Mars",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10317/",
+  "duracao_s": 992,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10288",
+  "titulo": "Explore the SF Symbols 3 app",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10288/",
+  "duracao_s": 767,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10304",
+  "titulo": "The process of inclusive design",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10304/",
+  "duracao_s": 2194,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2021_10278",
+  "titulo": "Practice audio haptic design",
+  "url": "https://developer.apple.com/videos/play/wwdc2021/10278/",
+  "duracao_s": 960,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10071",
+  "titulo": "Evaluate and optimize voice interaction for your app",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10071/",
+  "duracao_s": 607,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10172",
+  "titulo": "Design great App Clips",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10172/",
+  "duracao_s": 1303,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10205",
+  "titulo": "Design with iOS pickers, menus and actions",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10205/",
+  "duracao_s": 894,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10145",
+  "titulo": "Design for Game Center",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10145/",
+  "duracao_s": 1087,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10171",
+  "titulo": "What's new in watchOS design",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10171/",
+  "duracao_s": 998,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10206",
+  "titulo": "Designed for iPad",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10206/",
+  "duracao_s": 1746,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10207",
+  "titulo": "SF Symbols 2",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10207/",
+  "duracao_s": 1134,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10093",
+  "titulo": "Build for the iPadOS pointer",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10093/",
+  "duracao_s": 1370,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10086",
+  "titulo": "Design for intelligence: Apps, evolved",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10086/",
+  "duracao_s": 424,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10640",
+  "titulo": "Design for the iPadOS pointer",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10640/",
+  "duracao_s": 2494,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10019",
+  "titulo": "App accessibility for Switch Control",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10019/",
+  "duracao_s": 883,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10103",
+  "titulo": "Design great widgets",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10103/",
+  "duracao_s": 964,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10162",
+  "titulo": "Design for location privacy",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10162/",
+  "duracao_s": 450,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10175",
+  "titulo": "The details of UI typography",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10175/",
+  "duracao_s": 1833,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10087",
+  "titulo": "Design for intelligence: Make friends with \"The System\"",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10087/",
+  "duracao_s": 1176,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10200",
+  "titulo": "Design for intelligence: Meet people where they are",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10200/",
+  "duracao_s": 353,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10020",
+  "titulo": "Make your app visually accessible",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10020/",
+  "duracao_s": 964,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10088",
+  "titulo": "Design for intelligence: Discover new opportunities",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10088/",
+  "duracao_s": 311,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_10104",
+  "titulo": "Adopt the new look of macOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/10104/",
+  "duracao_s": 1723,
+  "midia": "mp4",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2020_20022",
+  "titulo": "The winners of the 2020 Apple Design Awards",
+  "url": "https://developer.apple.com/videos/play/wwdc2020/20022/",
+  "duracao_s": 166,
+  "midia": "hls",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2019_211",
+  "titulo": "Mastering the Living Room With tvOS",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/211/",
+  "duracao_s": 2914,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_104",
+  "titulo": "Apple Design Awards",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/104/",
+  "duracao_s": 2955,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_244",
+  "titulo": "Visual Design and Accessibility",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/244/",
+  "duracao_s": 613,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_206",
+  "titulo": "Introducing SF Symbols",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/206/",
+  "duracao_s": 2372,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_801",
+  "titulo": "What’s New in iOS and macOS Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/801/",
+  "duracao_s": null,
+  "midia": "nenhuma",
+  "transcricao_oficial": false
+ },
+ {
+  "id": "wwdc2019_809",
+  "titulo": "Designing iPad Apps for Mac",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/809/",
+  "duracao_s": 1818,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_520",
+  "titulo": "Introducing Core Haptics",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/520/",
+  "duracao_s": 1743,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_808",
+  "titulo": "What's New in iOS Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/808/",
+  "duracao_s": 1648,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_223",
+  "titulo": "Expanding the Sensory Experience with Core Haptics",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/223/",
+  "duracao_s": 3364,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_810",
+  "titulo": "Designing Audio-Haptic Experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/810/",
+  "duracao_s": 1562,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_802",
+  "titulo": "Designing Award Winning Apps and Games",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/802/",
+  "duracao_s": 2803,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_803",
+  "titulo": "Designing Great ML Experiences",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/803/",
+  "duracao_s": 3465,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_806",
+  "titulo": "Designing Great Shortcuts",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/806/",
+  "duracao_s": 1241,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_805",
+  "titulo": "Building Great Shortcuts",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/805/",
+  "duracao_s": 711,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2019_239",
+  "titulo": "Great Developer Habits",
+  "url": "https://developer.apple.com/videos/play/wwdc2019/239/",
+  "duracao_s": 2074,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_803",
+  "titulo": "Designing Fluid Interfaces",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/803/",
+  "duracao_s": 3881,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_802",
+  "titulo": "Intentional Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/802/",
+  "duracao_s": 2404,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_801",
+  "titulo": "The Qualities of Great Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/801/",
+  "duracao_s": 3202,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_804",
+  "titulo": "The Life of a Button",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/804/",
+  "duracao_s": 2158,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_806",
+  "titulo": "Designing Notifications",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/806/",
+  "duracao_s": 2314,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2018_811",
+  "titulo": "Presenting Design Work",
+  "url": "https://developer.apple.com/videos/play/wwdc2018/811/",
+  "duracao_s": 921,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_815",
+  "titulo": "How to Pick a Custom Font",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/815/",
+  "duracao_s": 890,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_809",
+  "titulo": "Communication Between Designers and Engineers",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/809/",
+  "duracao_s": 592,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_821",
+  "titulo": "Get Started with Display P3",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/821/",
+  "duracao_s": 606,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_820",
+  "titulo": "Express Yourself!",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/820/",
+  "duracao_s": 517,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_819",
+  "titulo": "Designing for a Global Audience",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/819/",
+  "duracao_s": 571,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_817",
+  "titulo": "Rich Notifications",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/817/",
+  "duracao_s": 609,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_818",
+  "titulo": "60-Second Prototyping",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/818/",
+  "duracao_s": 641,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_811",
+  "titulo": "Design Tips for Great Games",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/811/",
+  "duracao_s": 833,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_816",
+  "titulo": "Love at First Launch",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/816/",
+  "duracao_s": 655,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_823",
+  "titulo": "Designing Glyphs",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/823/",
+  "duracao_s": 682,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_813",
+  "titulo": "Writing Great Alerts",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/813/",
+  "duracao_s": 669,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_812",
+  "titulo": "Size Classes and Core Components",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/812/",
+  "duracao_s": 521,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_822",
+  "titulo": "App Icon Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/822/",
+  "duracao_s": 631,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_802",
+  "titulo": "Essential Design Principles",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/802/",
+  "duracao_s": 3596,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2017_803",
+  "titulo": "Designing Sound",
+  "url": "https://developer.apple.com/videos/play/wwdc2017/803/",
+  "duracao_s": 2088,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2016_805",
+  "titulo": "Iterative UI Design",
+  "url": "https://developer.apple.com/videos/play/wwdc2016/805/",
+  "duracao_s": 2495,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2015_802",
+  "titulo": "Designing for Apple Watch",
+  "url": "https://developer.apple.com/videos/play/wwdc2015/802/",
+  "duracao_s": 3288,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2015_805",
+  "titulo": "Apple Watch Design Tips and Tricks",
+  "url": "https://developer.apple.com/videos/play/wwdc2015/805/",
+  "duracao_s": 3114,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2014_602",
+  "titulo": "Ingredients of Great Games",
+  "url": "https://developer.apple.com/videos/play/wwdc2014/602/",
+  "duracao_s": 3393,
+  "midia": "hls",
+  "transcricao_oficial": true
+ },
+ {
+  "id": "wwdc2014_223",
+  "titulo": "Prototyping: Fake It Till You Make It",
+  "url": "https://developer.apple.com/videos/play/wwdc2014/223/",
+  "duracao_s": 3470,
+  "midia": "hls",
+  "transcricao_oficial": true
+ }
+]

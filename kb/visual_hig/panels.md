@@ -1,0 +1,12 @@
+# HIG, página panels: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_panels: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_panels · folha 0001 · código 0B7BF
+- img 0835 (clara), seção Panels: retângulo escuro (vermelho-escuro/marrom) com barra de título contendo botão de fechar circular com X, flutuando sobre uma janela maior em degradê laranja/rosa que representa a janela principal do app por trás. Setas de medida vermelhas marcam a largura (seta horizontal dupla abaixo do painel) e a altura (seta vertical dupla à direita do painel), como cotagem de especificação. O painel está deslocado para a esquerda e para baixo em relação ao centro da janela de fundo, sugerindo que ele flutua sobre parte do conteúdo sem cobri-lo por completo. Confere com a descrição oficial de "painel flutuando sobre uma janela".
+- img 0836 (clara), seção HUD-style panels: captura de tela real de macOS mostrando um painel HUD escuro e translúcido título "Inspector" com botão de fechar vermelho no canto superior esquerdo, sobreposto a um papel de parede colorido abstrato (curvas em bege, azul e roxo) que se vê por trás do painel graças à translucidez. O conteúdo lista informações de um arquivo de vídeo em pares rótulo/valor alinhados à direita e à esquerda: nome do arquivo e data/hora no topo, depois uma seção expansível "General" (seta para baixo) com Source (caminho completo), Resolution, Data Size, Data Rate, Current Size e Video Format, e abaixo uma seção "Video Details" ainda recolhida (seta para a direita). Confere com a descrição oficial de HUD translúcido mostrando inspector de um arquivo de filme com nome, formato, taxa de quadros, taxa de dados e tamanho de quadro; a imagem acrescenta detalhes exatos como o caminho do arquivo, resolução em pixels e a existência de uma segunda seção recolhível "Video Details" não mencionada na descrição.
+
+## Síntese visual da página panels
+- Um panel padrão é mostrado como uma janela secundária compacta com barra de título e botão de fechar, flutuando deslocada sobre a janela principal, com cotagem explícita de largura e altura (img 0835).
+- O estilo HUD é ilustrado com uma captura real, não uma ilustração estilizada: fundo escuro translúcido que deixa o papel de parede por trás visível, dados organizados em pares rótulo/valor e seções recolhíveis por disclosure triangle, um padrão de inspector denso e hierárquico (img 0836).

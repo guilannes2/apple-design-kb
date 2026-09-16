@@ -1,0 +1,10 @@
+### O que as ilustrações mostram
+Base: 1 de 1 folha de ilustrações vista, código conferido; a página não tem vídeo.
+- O diagrama de abertura isola um cartão claro com título em negrito, descrição curta abaixo e três botões em pílula empilhados, com contorno tracejado; uma seta dupla horizontal acima mede a largura total e uma marcação vertical à direita mede a altura do cartão, então a imagem trata o componente como bloco de proporções, e não como tela de app (img 0025).
+- A hierarquia interna do cartão é título, depois descrição, depois a pilha de três ações, todas com o mesmo formato de pílula (img 0025).
+- No Mail do iPhone, a primeira captura mostra o estado de composição, com botão X de fechar, botão de envio azul circular com seta para cima e os campos da mensagem (img 0026).
+- A segunda captura repete exatamente a mesma tela e muda só a sobreposição: um cartão branco flutuante logo abaixo da barra de status, cobrindo parte do topo e deixando o e-mail visível atrás, com dois botões em pílula empilhados (img 0027).
+- Nessa action sheet os dois botões empilhados são "Delete Draft" em vermelho e "Save Draft" em preto (img 0027).
+- O par antes e depois com o mesmo fundo deixa claro, por comparação direta, que se trata de um fluxo de dois passos disparado pela ação da pessoa, e não de duas telas independentes (img 0026, img 0027).
+- No watchOS, a action sheet ocupa a tela sobre degradê azul escuro para roxo, com X de fechar no canto superior esquerdo, título e descrição centralizados em branco e dois botões grandes em pílula empilhados, a ação em verde e o Cancel em degradê roxo e magenta, ou seja, botões coloridos por função em vez de neutros (img 0028).
+Divergências registradas: a img 0025 diverge da descrição oficial, que fala de botões na parte inferior de um iPhone, enquanto a imagem mostra um cartão isolado com anotações de largura e altura, sem iPhone e sem posição na tela; a img 0028 mostra texto e rótulos reais e cores distintas por botão, onde a descrição oficial fala genericamente em conteúdo que representa texto e dois botões empilhados.

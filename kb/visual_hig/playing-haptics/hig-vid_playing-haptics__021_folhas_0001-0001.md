@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__021 · folha 0001 · código 5657A
+- Quadros: em q001 (t=0.0s), guia vertical pontilhada com bolinhas nas pontas na margem esquerda e faixa clara tracejada ao lado, sem barra sólida ainda. Em q002 (t=0.5s), guia na margem direita e uma única barra verde sólida no centro-direita, visivelmente mais alta que a barra equivalente do vídeo 020 (light impact).
+- Construção de interface: mesma estrutura de linha do tempo e guia migrando da esquerda para a direita; um único pulso, cuja altura maior em relação a 020 sugere força intermediária.
+- Com a descrição oficial ("um único pulso háptico representando um impacto médio"): confere a presença de uma única barra; a altura intermediária entre as barras de 020 (light) e 022 (heavy) é consistente com a gradação de intensidade nomeada.

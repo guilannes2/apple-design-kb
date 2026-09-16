@@ -1,0 +1,11 @@
+### O que as ilustrações mostram
+Base: 2 de 2 folhas de ilustrações abertas (img 0852 a 0859), códigos conferidos; sem vídeo.
+- A capa é um botão de play, círculo vermelho escuro com triângulo branco, sobre degradê laranja, atravessado por uma grade tracejada horizontal, vertical e diagonal que forma um X e um círculo concêntrico ao ícone (img 0852).
+- Os diagramas repetem a moldura de um iPhone deitado, de contorno cinza na img 0853, e um código de três cores que a legenda nomeia: azul claro para a área segura do AVKit, roxo lilás para o vídeo e rosa para o padding embutido (img 0853, 0855, 0857, 0858, 0859); o retângulo do vídeo traz um ícone de câmera centralizado (img 0853, 0858).
+- A legenda que nomeia as três cores só aparece na segunda folha, depois de as cores já terem sido usadas sem explicação nas primeiras ilustrações (img 0857 em relação a 0853 e 0855).
+- Vídeo 4:3 sem padding: o retângulo roxo é mais largo que a tela azul e ultrapassa por igual as bordas esquerda e direita do aparelho, sem nenhuma faixa rosa (img 0853).
+- O mesmo vídeo 4:3 com padding embutido ganha duas faixas verticais rosa estreitas coladas nas laterais do retângulo roxo, estendidas até as bordas do aparelho (img 0855).
+- Certo e errado não são mostrados variando a cena, e sim com selos separados ao lado da ilustração equivalente: círculo verde com check branco para a versão sem padding e círculo cinza com X branco para a versão com padding (img 0854 e 0856, pareados com 0853 e 0855); pelas notas, a legenda da página associa o selo de certo ao vídeo 4:3 em tela cheia (img 0854).
+- Vídeo 21:9 sem padding: uma faixa azul clara fina atravessa a largura da tela no topo como área segura, e um retângulo de contorno azul escuro com a câmera no centro ocupa quase toda a tela, do topo à base, mais alto que a área segura (img 0858).
+- Vídeo 21:9 com padding: duas faixas horizontais rosa de letterbox acima e abaixo do retângulo de vídeo, entre ele e as bordas do aparelho (img 0859).
+- Regra comum às duas folhas: o vídeo extrapola a área segura por igual nas bordas relevantes, laterais no 4:3 e topo e base no 21:9, e o padding sempre surge como faixa fina rosa colada exatamente nessas bordas (img 0853, 0855, 0858, 0859).

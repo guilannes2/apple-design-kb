@@ -1,0 +1,11 @@
+### O que as ilustrações mostram
+Base: 2 de 2 folhas de ilustrações vistas, todos os códigos conferidos; a página não tem vídeo.
+- A ilustração de construção desenha o topo de uma sidebar como componente: cabeçalho de seção com chevron de recolher, botão de alternar a sidebar no canto superior direito e três linhas de item com ícone de pasta à esquerda, rótulo no meio e estrela à direita (img 1047).
+- Sobre essa ilustração, linhas guia tracejadas verticais alinham os ícones de pasta e os de estrela nas três linhas, e uma seta vertical de duas pontas à direita anota a altura ou o espaçamento de uma linha de item; as guias de alinhamento e a medida de espaçamento entre itens são o que a imagem acrescenta (img 1047).
+- O primeiro item aparece destacado em vermelho sólido, indicando seleção, numa ilustração toda em tons de vermelho e rosa em degradê (img 1047).
+- Uso incorreto, marcado com X cinza: num iPad, a imagem de flores no topo da área de conteúdo para exatamente na borda da sidebar, sem nenhuma transição (img 1048 com img 1049).
+- Uso correto, marcado com check verde: a mesma tela, com os mesmos itens, título e texto, mas a imagem continua borrada e espelhada atrás dos itens da sidebar até a borda da janela; a única diferença entre o par está na área por trás da sidebar, o que mostra o efeito de extensão de fundo como continuidade borrada, e não recorte (img 1050 com img 1051).
+- A sidebar de iPad desse par traz o ícone de colapsar a sidebar, a seta de voltar e três itens, cada um com ícone (img 1048, img 1050).
+- No visionOS, o app Music usa um painel translúcido de vidro sobre o ambiente desfocado, com uma faixa estreita só de ícones à esquerda, depois a sidebar com cabeçalho "Library" e seus itens, e abaixo um grupo "Playlists" expansível com seta e subitens, dos quais o selecionado aparece destacado (img 1052).
+- Ao lado dessa sidebar, um painel secundário traz cabeçalho de playlists, contagem de playlists, campo de busca próprio e grade de miniaturas de playlist (img 1052).
+Divergências registradas: as notas registram que a img 1047 acrescenta guias de alinhamento e medida de espaçamento que a descrição oficial não detalha, e que a img 1052 mostra uma faixa estreita só de ícones à esquerda da sidebar que a descrição oficial não menciona.

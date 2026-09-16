@@ -1,0 +1,10 @@
+# HIG, página nearby-interactions: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_nearby-interactions: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_nearby-interactions · folha 0001 · código 2E31F
+- img 0806 (clara), seção Nearby interactions, sem legenda: sketch estilizado tingido de roxo/magenta (remetendo ao logo histórico da Apple), sobre a mesma grade de linhas e círculo-guia das outras páginas de abertura. A forma mostra um círculo grande de contorno grosso com um ponto sólido menor dentro (lembrando um olho ou um sensor/pessoa vista de cima), e à direita duas curvas concêntricas em formato de "ondas de som" (como o símbolo de Wi-Fi ou de áudio, dobrado sobre um eixo vertical), sugerindo ondas se aproximando do círculo a partir da direita. Confere com a descrição oficial de "linhas curvas ao lado de uma área circular contendo um círculo menor, sugerindo áudio se aproximando de uma pessoa numa sala a partir de uma direção específica": as ondas curvas assimétricas (só do lado direito do círculo, não ao redor dele todo) reforçam visualmente a ideia de direcionalidade, não de som vindo de todos os lados.
+
+## Síntese visual da página nearby-interactions
+- O sketch de abertura segue a mesma fórmula das demais páginas do HIG (grade geométrica de construção, cor temática ligada ao logo histórico da Apple), mas aqui a direcionalidade é comunicada por assimetria: as ondas curvas aparecem só de um lado do círculo central, e não simetricamente ao redor dele, reforçando visualmente o conceito de uma fonte de interação chegando de uma direção específica (img 0806).

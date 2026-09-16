@@ -1,0 +1,18 @@
+# HIG, página text-fields: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_text-fields: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+
+### hig-img_text-fields · folha 0001 · código A7DAD
+- img 1138 (clara), seção Text fields: ilustração conceitual tintada em gradiente laranja/vermelho, mostra um campo de texto com o placeholder "Value" e cursor piscando, um botão de limpar (X) circular à direita, com setas de medição sobrepostas indicando largura (seta horizontal dupla acima) e altura (seta vertical à direita). Diferente das demais imagens da página (que são screenshots reais), esta usa anotação de régua para comunicar as dimensões do campo como conceito abstrato de abertura de seção.
+- img 1139 clara, seção Best practices: screenshot de dois campos de texto empilhados dentro de um cartão cinza claro, rótulo "Number:" à esquerda com campo mostrando "100000.00" alinhado à direita, e "Currency:" com campo mostrando "$100,000.00" também alinhado à direita. Mostra o padrão de rótulo à esquerda e valor numérico alinhado à direita dentro do campo, com formatação de milhar e símbolo de moeda aplicada no segundo caso.
+- img 1140 clara, seção Best practices: screenshot de um único campo de texto com a frase "The quick brown fox jumps ove" cortada exatamente na borda direita do campo, sem reticências, mostrando o texto sendo cortado (clipping) sem indicação visual de continuação.
+- img 1141 clara, seção Best practices: campo de texto mais alto (duas linhas) mostrando a mesma frase agora completa e quebrada em duas linhas: "The quick brown fox jumps" e "over the lazy dog.", exemplificando o comportamento de wrap por palavra dentro do campo.
+
+### hig-img_text-fields · folha 0002 · código 60342
+- img 1142 clara, seção Best practices: campo de texto de uma linha mostrando "The quick brown fox jumps…" com reticências no final substituindo o restante do texto, ilustrando truncamento em vez de corte abrupto (comparado à img 1140) ou quebra de linha (img 1141).
+
+## Síntese visual da página text-fields
+- A imagem de abertura de seção (img 1138) é a única com estilo conceitual (gradiente colorido, anotações de régua), enquanto todas as demais imagens da página são screenshots limpos de campo de texto sobre fundo neutro, sem moldura de aparelho.
+- As três variações de comportamento de quebra de linha (clipping, wrap, truncamento) usam a mesma frase de teste "The quick brown fox jumps over the lazy dog." para permitir comparação direta lado a lado, cada uma isolada em sua própria folha ou imagem (img 1140, 1141, 1142).
+- Alinhamento de valor numérico à direita dentro do campo é o padrão mostrado para dados formatados (número simples e moeda), com o rótulo do campo à esquerda fora da caixa de entrada (img 1139).

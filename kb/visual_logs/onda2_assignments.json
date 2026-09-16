@@ -1,0 +1,315 @@
+[
+ {
+  "label": "onda2-001",
+  "items": [
+   {
+    "video_id": "tech-talks_10884",
+    "title": "Meet Apple Watch Series 7",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "tech-talks_111461",
+    "title": "Prepare your app for iPhone Duo",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda2-002",
+  "items": [
+   {
+    "video_id": "tech-talks_111462",
+    "title": "Raise the bar with iPhone Duo",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda2-003",
+  "items": [
+   {
+    "video_id": "tech-talks_111463",
+    "title": "Strike a pose with adaptive layouts on iPhone Duo",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda2-004",
+  "items": [
+   {
+    "video_id": "tech-talks_111466",
+    "title": "Design for iPhone Duo",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "whisper-local-large-v3-turbo"
+   },
+   {
+    "video_id": "tech-talks_801",
+    "title": "Designing for iPhone X",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-005",
+  "items": [
+   {
+    "video_id": "tech-talks_802",
+    "title": "Designing for Apple Watch Series 4",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "tech-talks_803",
+    "title": "Designing for Subscription Success",
+    "from": 1,
+    "to": 6,
+    "total": 6,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-006",
+  "items": [
+   {
+    "video_id": "wwdc2025_208",
+    "title": "Elevate the design of your iPad app",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-007",
+  "items": [
+   {
+    "video_id": "wwdc2025_220",
+    "title": "Say hello to the new look of app icons",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2025_247",
+    "title": "What’s new in Xcode 26",
+    "from": 1,
+    "to": 15,
+    "total": 29,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-008",
+  "items": [
+   {
+    "video_id": "wwdc2025_247",
+    "title": "What’s new in Xcode 26",
+    "from": 16,
+    "to": 29,
+    "total": 29,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-009",
+  "items": [
+   {
+    "video_id": "wwdc2025_248",
+    "title": "Explore prompt design & safety for on-device foundation models",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-010",
+  "items": [
+   {
+    "video_id": "wwdc2025_273",
+    "title": "Meet SwiftUI spatial layout",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-011",
+  "items": [
+   {
+    "video_id": "wwdc2025_274",
+    "title": "Better together: SwiftUI and RealityKit",
+    "from": 1,
+    "to": 21,
+    "total": 21,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-012",
+  "items": [
+   {
+    "video_id": "wwdc2025_284",
+    "title": "Build a UIKit app with the new design",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-013",
+  "items": [
+   {
+    "video_id": "wwdc2025_303",
+    "title": "Design hover interactions for visionOS",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-014",
+  "items": [
+   {
+    "video_id": "wwdc2025_304",
+    "title": "Explore video experiences for visionOS",
+    "from": 1,
+    "to": 22,
+    "total": 22,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-015",
+  "items": [
+   {
+    "video_id": "wwdc2025_305",
+    "title": "Optimize your custom environments for visionOS",
+    "from": 1,
+    "to": 14,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-016",
+  "items": [
+   {
+    "video_id": "wwdc2025_305",
+    "title": "Optimize your custom environments for visionOS",
+    "from": 15,
+    "to": 28,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-017",
+  "items": [
+   {
+    "video_id": "wwdc2025_323",
+    "title": "Build a SwiftUI app with the new design",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-018",
+  "items": [
+   {
+    "video_id": "wwdc2025_337",
+    "title": "What’s new in SF Symbols 7",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-019",
+  "items": [
+   {
+    "video_id": "wwdc2025_359",
+    "title": "Design foundations from idea to interface",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-020",
+  "items": [
+   {
+    "video_id": "wwdc2025_361",
+    "title": "Create icons with Icon Composer",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda2-021",
+  "items": [
+   {
+    "video_id": "wwdc2025_404",
+    "title": "Make a big impact with small writing changes",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2026_315",
+    "title": "Rediscover the HTML select element",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

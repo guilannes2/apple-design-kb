@@ -1,0 +1,18 @@
+# hig-vid_keyboards__014, vídeo da página keyboards (seção visionOS)
+
+### hig-vid_keyboards__014 · folha 0001 · código C590C
+- Quadros: q001 a q009 (t=0.0s a t=4.0s). Cena: vista de cima de uma mesa redonda de madeira clara, com um teclado físico branco (Magic Keyboard) e um trackpad branco ao lado, em ambiente de sala com sofá cinza, poltrona cinza, luminária amarela e painel de madeira ripada ao fundo. Duas mãos digitam no teclado físico. Acima do teclado, flutuando no ar, há uma barra retangular marrom-escura translúcida com texto branco pequeno ilegível no centro e ícones/controles nas pontas.
+- De q001 a q003 as mãos mudam de posição sobre as teclas (dedos se deslocando), e o texto dentro da barra flutuante muda de conteúdo a cada quadro (aparenta ser uma palavra ou poucas palavras sendo digitadas em tempo real), mas o texto é pequeno demais para ler com segurança.
+- De q004 a q006 a barra flutuante muda de formato: em q004 e q005 ela aparece mais estreita e alongada horizontalmente com o texto centralizado e pequenos círculos/botões nas extremidades; em q006 a barra parece ligeiramente mais larga. As mãos continuam em posições diferentes de digitação a cada quadro.
+- De q007 a q009 o padrão se repete: a barra flutuante permanece na mesma posição relativa (acima e à esquerda do teclado, entre o teclado e a borda da mesa), sempre com texto branco pequeno ao centro e elementos menores nas pontas, enquanto as mãos seguem em poses de digitação diferentes a cada quadro, sem se mover de lugar sobre a mesa.
+- Construção: não há janela virtual grande nem sugestões de texto em lista visível nesses 9 quadros, apenas essa barra estreita flutuando acima do teclado físico.
+
+### hig-vid_keyboards__014 · folha 0002 · código 70F3E
+- Quadro: q010 (t=4.5s), último quadro do vídeo. Mesma cena da folha 0001: mãos digitando no teclado físico branco sobre a mesa de madeira, barra retangular marrom-escura flutuando acima do teclado com texto branco pequeno centralizado e pequenos ícones nas pontas laterais. A composição é praticamente idêntica aos quadros anteriores, sem mudança perceptível de enquadramento ou de elementos em cena.
+- Construção: o vídeo termina sem mostrar uma tela de app, janela de texto grande ou lista de sugestões separada da barra; a mensagem visual em todos os 10 quadros analisados se concentra nessa barra estreita acima do teclado físico.
+
+## Síntese visual da página keyboards
+- A ilustração de abertura (img 0671) e os símbolos de tecla modificadora (img 0672 a 0675) usam um sistema de ícones minimalista e neutro, contorno preto simples sobre fundo branco, sem nenhuma referência a hardware real.
+- O vídeo (folhas 0001 a 0002, todos os 10 quadros) mostra o outro extremo do espectro: hardware físico realista, mãos reais digitando, ambiente residencial completo, e o único elemento de interface visionOS visível é uma barra estreita flutuando acima do teclado, bem mais discreta do que sugere a descrição oficial ("virtual window... displays the entered text and suggestions"), já que nas imagens não aparece uma janela virtual grande, apenas uma faixa fina de texto.
+- Em nenhum quadro do vídeo dá para ler o texto digitado com segurança: a barra muda de conteúdo quadro a quadro (indicando digitação em andamento), mas o tamanho da fonte impede a leitura, então a confirmação da "sugestão de digitação" da descrição oficial fica limitada à presença da barra, não ao seu conteúdo.
+- A posição da barra permanece fixa em relação ao teclado (acima e ligeiramente à esquerda) do primeiro ao último quadro, mostrando que o overlay acompanha o teclado físico como referência espacial, não a posição das mãos.

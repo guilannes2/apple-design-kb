@@ -1,0 +1,5 @@
+### hig-img_action-button · folha 0001 · código ED745
+- img 0024 (clara), seção Action button: desenho em roxo/púrpura sobre fundo em degradê rosa para lilás, mostrando uma seta horizontal apontando para a direita (uma haste curta com uma ponta triangular) que aponta para uma forma em "L" invertido, um segmento vertical curto que desce e curva para a direita terminando num traço horizontal, sugerindo a lateral do Apple Watch com o Action Button na borda. Grade circular e retangular pontilhada sobreposta, com eixos diagonais e verticais/horizontais centrados no ponto de encontro da seta com a forma em L, no mesmo estilo de construção geométrica visto na página accessibility (círculo concêntrico com quadrado e diagonais).
+
+## Síntese visual da página action-button
+- A única ilustração da página segue o mesmo padrão de "sketch" de ícone com grade de construção pontilhada (retângulos, círculo, diagonais) já visto no ícone de Accessibility, mas aqui a paleta muda para tons de roxo/púrpura em degradê, reforçando a cor associada a esse recurso, e o motivo é uma seta apontando para um elemento em L que representa a borda do relógio com o botão de ação (img 0024).

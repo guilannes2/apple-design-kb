@@ -1,0 +1,15 @@
+# HIG, página labels: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_labels: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+# hig-img_labels, ilustrações da página labels
+
+### hig-img_labels · folha 0001 · código 92508
+- img 0676 (clara), seção Labels: diferente do padrão de esboço com grade das outras aberturas de seção (teclado, pessoas, ícone de compra), aqui a ilustração mostra diretamente uma anotação de especificação tipográfica: a palavra "Label" centralizada em fonte grande e em negrito, dentro de uma caixa pontilhada que marca sua área, com setas de medida vermelhas indicando altura e largura da caixa delimitadora (uma seta vertical acima e abaixo, uma horizontal atravessando toda a largura do cartão, e uma marca vertical à direita da palavra). Abaixo, texto explicando os atributos: "System Font, Body (Emphasized)" e "Primary Text Color". Fundo em degradê laranja-para-rosa (tingido de vermelho, cor do logo desta seção). Confirma a descrição oficial ("stylized representation of a text label, tinted red"), mas acrescenta que a estilização é, na prática, um diagrama de especificação de medidas e tipografia, não um rótulo genérico sem anotação.
+- img 0677 (clara), seção watchOS: ilustração de um retângulo preto de cantos arredondados (mostra só o corpo do rótulo, sem moldura do relógio ao redor) com duas linhas de texto branco: a data "2/11/23" alinhada à esquerda (borda inicial) e a hora "2:14PM" alinhada à direita (borda final), lado a lado na mesma linha horizontal. Confirma a descrição oficial de data e hora combinadas em bordas opostas.
+- img 0678 (clara), seção watchOS: mesmo estilo de retângulo preto de cantos arredondados, mas menor e mais estreito, com um único valor numérico grande centralizado, "00:06.34", representando um cronômetro regressivo. Confirma a descrição oficial (valor do timer centralizado).
+
+## Síntese visual da página labels
+- A ilustração de abertura (img 0676) rompe o padrão visto em outras páginas (teclado, pessoas, ícone de compra) de "esboço com grade de guias sobrepostas": aqui a peça central é uma anotação de medidas e tipografia sobre a própria palavra "Label", funcionando como um diagrama de anatomia do componente, não como um ícone temático.
+- Os dois exemplos de watchOS (img 0677 e 0678) usam a mesma forma de cápsula preta arredondada como contêiner do rótulo, variando só o conteúdo interno e o alinhamento: dois valores em bordas opostas para data e hora versus um valor único centralizado para o cronômetro, mostrando duas convenções de composição dentro do mesmo componente visual.

@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__024 · folha 0001 · código BF90B
+- Quadros: em q001 (t=0.0s), guia vertical pontilhada com bolinhas nas pontas na margem esquerda e faixa clara tracejada ao lado, sem barra sólida. Em q002 (t=0.5s), guia na margem direita e uma única barra verde sólida no centro-direita, de altura moderada, semelhante à do impacto "light" (vídeo 020), porém a barra aqui parece um pouco mais larga do que as demais barras de impacto observadas nesta série.
+- Construção de interface: mesma estrutura de linha do tempo; um único pulso mais baixo e aparentemente mais espalhado horizontalmente, condizente com um impacto "soft" (mais suave e difuso que "light").
+- Com a descrição oficial ("um único pulso háptico representando um impacto suave"): confere a presença de uma única barra; a altura baixa é consistente com "soft", e a leve diferença de largura em relação às demais barras de impacto é uma observação visual desta imagem que a descrição não detalha.

@@ -1,0 +1,7 @@
+### O que as ilustrações mostram
+Base: 1 folha de ilustrações (img 1338 a 1341) vista, código conferido; a página não tem vídeo.
+- A abertura é monocromática amarela: uma prancheta de cantos arredondados atravessada na diagonal por um lápis, sobreposta a linhas de grade retangulares e a um círculo guia central, na mesma lógica de grade das aberturas de outras páginas (img 1338).
+- A mensagem séria de queda no Apple Watch é montada com fundo em degradê azul e roxo escuro, hora no topo com um X para fechar, uma frase curta e declarativa centralizada, sem emoji, e dois botões empilhados: "EMERGENCY SOS", com círculo vermelho à esquerda, acima de "I'm OK", em degradê roxo e rosa; a ação de emergência fica antes da ação de dispensar (img 1339).
+- A mensagem leve de conquista usa anel de atividade colorido no canto superior esquerdo, hora e "now" no topo, um título curto seguido de frase com número concreto (35 dias) e ponto de exclamação, sobre fundo colorido desfocado em rosa, roxo e verde (img 1340).
+- Comparadas, as duas telas mostram que o tom não vem só das palavras: cor de fundo, temperatura e composição mudam junto, escuro e frio com botão de emergência na situação grave, vibrante com anel de conquista na comemoração (img 1339 e img 1340).
+- O rótulo de configuração aparece como cartão em fundo preto, título curto à esquerda e interruptor verde ligado à direita, com uma frase de apoio em cinza claro abaixo que descreve só o que acontece com a função ligada, sem explicar o estado desligado (img 1341).

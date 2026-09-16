@@ -1,0 +1,10 @@
+### O que as ilustrações mostram
+Base: 3 de 3 folhas de ilustrações abertas (img 0813 a 0823), todos os códigos conferidos; sem vídeo.
+- A arte de abertura deixa visível a própria construção geométrica do símbolo: um ponto de interrogação dentro de dois círculos concêntricos, atravessado por guias pontilhadas retangulares e radiais que partem do centro, sobre degradê laranja (img 0813).
+- O tip tem anatomia fixa em todas as variantes: cartão de cantos arredondados, título em negrito, descrição abaixo, X de fechar no canto superior direito e seta triangular apontando para o elemento relacionado, no exemplo uma estrela azul preenchida (img 0814, 0815, 0816, 0821, 0822).
+- No popover, o cartão flutua sobre o conteúdo e o texto de corpo por trás aparece esmaecido, sem ser deslocado (img 0814).
+- No annotation, o cartão entra no fluxo da página: há um bloco de texto acima e outro abaixo, e o conteúdo ao redor é empurrado em vez de coberto (img 0815).
+- Par errado e certo para o símbolo dentro do tip: estrela azul só em contorno ao lado do título recebe o marcador de X cinza em círculo cinza; estrela azul sólida, na mesma estrutura, recebe o círculo verde com check branco. A folha é uma grade 2x2 com o marcador ao lado de cada variante (img 0817 a 0820).
+- Contra a redundância, duas versões quase idênticas do mesmo tip annotation apontando para a estrela na tela: uma repete a estrela ao lado do título, a outra fica só com texto e evita repetir o símbolo (img 0821 e 0822).
+- O tooltip do macOS é construído de outro jeito que o tip do iPhone: caixa retangular cinza clara, sem seta, sem título em negrito, uma única linha de texto logo abaixo do ponteiro, parado sobre o botão de voltar de uma janela do Finder com semáforos, título "Documents" e barra lateral de Favorites (img 0823).
+Divergências registradas: nas notas, os quadros de Annotation e Hint (img 0815 e 0816) têm a mesma composição, sem diferença construída perceptível além da posição do cartão; a distinção que o texto oficial faz entre os dois tipos não é legível na imagem.

@@ -1,0 +1,460 @@
+[
+ {
+  "label": "int-vid-01",
+  "videos": [
+   {
+    "video_id": "meet-with-apple_270",
+    "group_file": "00_meet-with-apple.md"
+   },
+   {
+    "video_id": "meet-with-apple_274",
+    "group_file": "00_meet-with-apple.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-02",
+  "videos": [
+   {
+    "video_id": "meet-with-apple_208",
+    "group_file": "00_meet-with-apple.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-03",
+  "videos": [
+   {
+    "video_id": "meet-with-apple_257",
+    "group_file": "00_meet-with-apple.md"
+   },
+   {
+    "video_id": "meet-with-apple_255",
+    "group_file": "00_meet-with-apple.md"
+   },
+   {
+    "video_id": "meet-with-apple_254",
+    "group_file": "00_meet-with-apple.md"
+   },
+   {
+    "video_id": "meet-with-apple_256",
+    "group_file": "00_meet-with-apple.md"
+   },
+   {
+    "video_id": "tech-talks_111427",
+    "group_file": "01_tech-talks.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-04",
+  "videos": [
+   {
+    "video_id": "tech-talks_111461",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_111466",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_111462",
+    "group_file": "01_tech-talks.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-05",
+  "videos": [
+   {
+    "video_id": "tech-talks_111463",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_10884",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_802",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_803",
+    "group_file": "01_tech-talks.md"
+   },
+   {
+    "video_id": "tech-talks_801",
+    "group_file": "01_tech-talks.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-06",
+  "videos": [
+   {
+    "video_id": "wwdc2020_10087",
+    "group_file": "08_wwdc2020-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2020_10200",
+    "group_file": "08_wwdc2020-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2020_10020",
+    "group_file": "08_wwdc2020-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2020_10088",
+    "group_file": "08_wwdc2020-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-07",
+  "videos": [
+   {
+    "video_id": "wwdc2020_10104",
+    "group_file": "08_wwdc2020-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2020_20022",
+    "group_file": "08_wwdc2020-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-08",
+  "videos": [
+   {
+    "video_id": "wwdc2021_10275",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10081",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10349",
+    "group_file": "09_wwdc2021-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-09",
+  "videos": [
+   {
+    "video_id": "wwdc2021_10250",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10283",
+    "group_file": "09_wwdc2021-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-10",
+  "videos": [
+   {
+    "video_id": "wwdc2021_10097",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10308",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10029",
+    "group_file": "09_wwdc2021-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-11",
+  "videos": [
+   {
+    "video_id": "wwdc2021_110142",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10126",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10245",
+    "group_file": "09_wwdc2021-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-12",
+  "videos": [
+   {
+    "video_id": "wwdc2021_10184",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_113",
+    "group_file": "09_wwdc2021-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2021_10317",
+    "group_file": "09_wwdc2021-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-13",
+  "videos": [
+   {
+    "video_id": "wwdc2021_10288",
+    "group_file": "10_wwdc2021-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2021_10304",
+    "group_file": "10_wwdc2021-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2021_10278",
+    "group_file": "10_wwdc2021-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-14",
+  "videos": [
+   {
+    "video_id": "wwdc2022_110342",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10169",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10157",
+    "group_file": "11_wwdc2022-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-15",
+  "videos": [
+   {
+    "video_id": "wwdc2022_103",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10139",
+    "group_file": "11_wwdc2022-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-16",
+  "videos": [
+   {
+    "video_id": "wwdc2022_10015",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10034",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10001",
+    "group_file": "11_wwdc2022-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-17",
+  "videos": [
+   {
+    "video_id": "wwdc2022_10037",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_110340",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10158",
+    "group_file": "11_wwdc2022-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-18",
+  "videos": [
+   {
+    "video_id": "wwdc2022_110381",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10131",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_10009",
+    "group_file": "11_wwdc2022-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-19",
+  "videos": [
+   {
+    "video_id": "wwdc2022_113",
+    "group_file": "11_wwdc2022-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2022_110441",
+    "group_file": "12_wwdc2022-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-20",
+  "videos": [
+   {
+    "video_id": "wwdc2025_361",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_337",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-21",
+  "videos": [
+   {
+    "video_id": "wwdc2025_305",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_404",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-22",
+  "videos": [
+   {
+    "video_id": "wwdc2025_304",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_323",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-23",
+  "videos": [
+   {
+    "video_id": "wwdc2025_208",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_284",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-24",
+  "videos": [
+   {
+    "video_id": "wwdc2025_273",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_359",
+    "group_file": "15_wwdc2025-parte-1.md"
+   },
+   {
+    "video_id": "wwdc2025_248",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-25",
+  "videos": [
+   {
+    "video_id": "wwdc2025_247",
+    "group_file": "15_wwdc2025-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-26",
+  "videos": [
+   {
+    "video_id": "wwdc2025_274",
+    "group_file": "16_wwdc2025-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2025_290",
+    "group_file": "16_wwdc2025-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-27",
+  "videos": [
+   {
+    "video_id": "wwdc2025_303",
+    "group_file": "16_wwdc2025-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-28",
+  "videos": [
+   {
+    "video_id": "wwdc2025_317",
+    "group_file": "16_wwdc2025-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2025_220",
+    "group_file": "16_wwdc2025-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-29",
+  "videos": [
+   {
+    "video_id": "wwdc2025_219",
+    "group_file": "16_wwdc2025-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2025_281",
+    "group_file": "16_wwdc2025-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2025_316",
+    "group_file": "16_wwdc2025-parte-2.md"
+   },
+   {
+    "video_id": "wwdc2025_356",
+    "group_file": "16_wwdc2025-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-30",
+  "videos": [
+   {
+    "video_id": "wwdc2025_255",
+    "group_file": "16_wwdc2025-parte-2.md"
+   }
+  ]
+ }
+]

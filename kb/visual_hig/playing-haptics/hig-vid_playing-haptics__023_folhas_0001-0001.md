@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__023 · folha 0001 · código 38135
+- Quadros: em q001 (t=0.0s), guia vertical pontilhada com bolinhas nas pontas na margem esquerda e faixa clara tracejada ao lado, sem barra sólida. Em q002 (t=0.5s), guia na margem direita e uma única barra verde sólida no centro-direita, alta, com altura visualmente próxima à do impacto "heavy" (vídeo 022), mas a barra aqui aparenta ficar levemente deslocada para a esquerda dentro do quadro em relação às demais.
+- Construção de interface: mesma estrutura de linha do tempo com guia migrando da esquerda para a direita; um único pulso alto, condizente com um impacto "rigid" (superfície rígida, resposta mais abrupta).
+- Com a descrição oficial ("um único pulso háptico representando um impacto rígido"): confere a presença de uma única barra alta; a imagem não permite, por si só, distinguir com certeza a diferença fina entre "rigid" e "heavy" além da altura, que é semelhante entre as duas.

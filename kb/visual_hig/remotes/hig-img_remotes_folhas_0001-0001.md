@@ -1,0 +1,7 @@
+### hig-img_remotes · folha 0001 · código AEE29
+
+- img 0921 (clara), seção Remotes: esboço estilizado de um controle remoto de Apple TV, em roxo escuro sobre fundo em degradê rosa para roxo. O desenho mostra o corpo retangular vertical de cantos arredondados, um círculo grande no topo (a superfície de toque/trackpad circular do Siri Remote), dois pequenos círculos lado a lado abaixo dele e, ao lado direito desse par, uma forma alongada vertical (conjunto de botões de mídia/volume), reproduzindo o layout físico real do Siri Remote da Apple TV. Toda a composição está sobreposta por uma grade de guias retangulares e um círculo concêntrico centralizado no topo do controle, coincidindo com a superfície de toque circular. A cor roxa remete a uma das seis cores do logo Apple original, conforme o alt oficial. A grade de guias acrescenta o detalhe de que o círculo de toque do controle foi usado como âncora da guia circular do ícone, mostrando alinhamento geométrico deliberado entre o símbolo e o objeto real que ele representa.
+
+## Síntese visual da página remotes
+
+- A ilustração conceitual do controle remoto reproduz fielmente a disposição física de um Siri Remote real (superfície circular de toque no topo, par de botões e barra de botões de mídia abaixo), usando a mesma disciplina de grade de guias vista nas outras ilustrações "hero" da mesma família (impressora, mão de privacidade), com o círculo guia centralizado exatamente sobre o elemento circular de toque do desenho.

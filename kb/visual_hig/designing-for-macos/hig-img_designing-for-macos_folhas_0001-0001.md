@@ -1,0 +1,5 @@
+### hig-img_designing-for-macos · folha 0001 · código 8AB38
+- img 0456 (clara), seção Designing for macOS: mesmo tratamento visual das demais folhas de abertura, retângulo verde com grade pontilhada e círculo guia central. Dentro, em traço verde escuro preenchido (diferente do contorno vazado usado em iOS e iPadOS, aqui a forma é sólida), o desenho estilizado de um monitor de mesa: tela retangular com um pescoço curto e uma base curva na parte inferior, lembrando o formato de um iMac ou display Apple com suporte. O contorno da tela está inscrito no círculo guia, e o pescoço e a base ficam abaixo dele, fora do círculo, mostrando que só a "cabeça" do ícone segue estritamente a proporção circular usada nos outros aparelhos.
+
+## Síntese visual da página designing-for-macos
+- Diferente das outras folhas de abertura (iOS, iPadOS), o ícone do Mac não é um contorno vazado e sim uma forma sólida preenchida, e inclui elementos que ficam fora do círculo guia (pescoço e base do monitor), já que o formato de mesa do Mac não se resume a um retângulo único como um aparelho portátil (img 0456).

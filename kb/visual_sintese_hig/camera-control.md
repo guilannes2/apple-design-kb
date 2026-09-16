@@ -1,0 +1,12 @@
+### O que as ilustrações mostram
+Base: 4 folhas de ilustrações vistas (16 imagens, todas em aparência clara), códigos conferidos; sem vídeos.
+- A abertura desenha a silhueta do iPhone em contorno roxo escuro grosso sobre degradê de rosa para roxo, com uma seta larga apontando para a borda inferior direita do aparelho, onde fica o botão, sob grade tracejada e círculo guia (img 0200).
+- Um diagrama anotado sobre o desenho do iPhone usa duas linhas de chamada: uma aponta o botão físico como pequena faixa horizontal na borda, a outra aponta a área cinza logo abaixo como a região em que o overlay aparece, explicitando a relação espacial entre os dois (img 0201).
+- O overlay vive numa faixa preta no topo da tela: uma fileira de cinco ícones de controle, com o ativo destacado em laranja e o nome dele, "ZOOM", em laranja centralizado abaixo da fileira (img 0202).
+- O slider tem desenho próprio: régua de traços verticais finos brancos com um traço laranja mais grosso no centro e o valor em laranja abaixo; zoom ("1x") e exposição ("0 EV") usam exatamente a mesma régua, mudando só o rótulo do valor (img 0203, img 0205 e img 0206).
+- O picker é uma fileira de quatro pontos curtos, com a opção escolhida preenchida em laranja e maior que as cinzas, e o nome da opção escrito por extenso em laranja abaixo (img 0204).
+- Na fileira de ícones, o controle ativo se destaca por cor e por tamanho: o raio preenchido do flash e os três círculos sobrepostos dos filtros aparecem em laranja e maiores que os vizinhos, com "FLASH" e "FILTERS" como rótulos (img 0207 e img 0208).
+- Par de valor com contexto: a régua com "1 EV" recebe check verde, e a mesma régua com apenas "1", sem unidade, recebe X cinza; o desenho é idêntico e só o texto do rótulo varia (img 0209 a img 0212).
+- Na mesma cena noturna de lago lado a lado, a fileira de ícones e o rótulo "ZOOM" formam uma faixa horizontal no topo em retrato e migram para a lateral direita em paisagem, com o obturador branco trocando de posição, mantendo o overlay junto da borda do botão físico (img 0213).
+- Visor limpo contra visor duplicado, no mesmo enquadramento: no primeiro só há o rótulo "1x" em laranja no canto superior esquerdo e o obturador branco central; no segundo o app repete valores de zoom empilhados verticalmente à esquerda do obturador ("2", "1x" em laranja, ".5"), além do rótulo do topo (img 0214 e img 0215).
+- A linguagem se repete nos controles do overlay: item ativo em laranja, acompanhado de rótulo em laranja logo abaixo, seja ícone, régua ou pontos (img 0202 a img 0209).

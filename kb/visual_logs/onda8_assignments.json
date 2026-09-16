@@ -1,0 +1,28 @@
+[
+ {
+  "label": "onda8-001",
+  "items": [
+   {
+    "video_id": "wwdc2019_803",
+    "title": "Designing Great ML Experiences",
+    "from": 1,
+    "to": 21,
+    "total": 42,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda8-002",
+  "items": [
+   {
+    "video_id": "wwdc2019_803",
+    "title": "Designing Great ML Experiences",
+    "from": 22,
+    "to": 42,
+    "total": 42,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

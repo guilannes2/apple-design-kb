@@ -1,0 +1,10 @@
+# HIG, página photo-editing: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_photo-editing: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_photo-editing · folha 0001 · código 9C2C1
+- img 0840 (clara), seção Photo editing: marcas de corte (crop marks) em azul escuro, formando um símbolo de dois cantos em L opostos (canto superior esquerdo e canto inferior direito), com duas setas curvas ao redor sugerindo rotação (uma seta no topo apontando para a esquerda, outra embaixo apontando para a direita, formando um movimento circular incompleto). O conjunto está sobre fundo em degradê azul, dentro de um retângulo de cantos arredondados, atravessado por linhas de grade pontilhadas retangulares e um círculo guia central, no mesmo sistema de construção das outras ilustrações conceituais de abertura de página. Confere com a descrição oficial de "marcas de corte cercadas por duas setas sugerindo edição de fotos".
+
+## Síntese visual da página photo-editing
+- Assim como em onboarding e offering-help, a ilustração de abertura combina um ícone conceitual (aqui, corte mais rotação) em traço grosso colorido, desenhado sobre uma grade de construção retangular e circular explícita, com o retângulo de fundo em degradê tingido na cor temática da seção, aqui azul (img 0840).

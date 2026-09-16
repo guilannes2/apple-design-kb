@@ -1,0 +1,6 @@
+### O que as ilustrações mostram
+Base: 1 folha de ilustrações (img 0231 a 0233) vista, código conferido; a página não tem vídeo.
+- A abertura é um esboço de gráfico de barras: quatro barras verticais que sobem e depois descem, apoiadas numa linha de base, em contorno vermelho escuro sobre degradê laranja, com grade tracejada e círculo guia de construção (img 0231).
+- No Stocks, a tela de detalhe da AAPL traz preço e variação, um seletor de período com "1M" marcado e um único gráfico de linha verde preenchido para esse período, com eixo horizontal de dias (23, 30, 7, 14, 21) e eixo vertical de preço de 277 a 312 (img 0232).
+- No Health, a tela Activity abre com o anel colorido e três métricas numéricas (Move, Exercise, Stand) e depois empilha três gráficos de barras verticais, um por métrica, cada um com cor própria (vermelho, verde e ciano), escala vertical própria e o mesmo eixo de horas do dia; um bloco de texto "About Activity" fecha a tela (img 0233).
+- As duas capturas mostram duas abordagens para apresentar dados: um único gráfico de linha detalhado, com período selecionável (img 0232), contra três gráficos de barra menores e paralelos, cada um com escala própria, que resumem métricas diferentes do mesmo dia na mesma tela (img 0233).

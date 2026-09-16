@@ -1,0 +1,9 @@
+### O que as ilustrações mostram
+Base: 1 de 1 folha de ilustrações aberta, todos os códigos conferidos; a página não tem vídeo.
+- A abertura funciona como diagrama de anatomia dos dois formatos, empilhados num cartão em gradiente de laranja para vermelho, sem a grade tracejada usada em outras aberturas: um gauge circular numérico em cima e um linear de porcentagem embaixo (img 0523).
+- O gauge circular tem um arco incompleto em vermelho escuro ao redor do número grande "67", uma bolinha marcando a ponta do trecho preenchido e os rótulos "0" e "100" abaixo do número indicando os extremos, com setas de medida acima e abaixo cotando a altura (img 0523).
+- O gauge linear tem a metade esquerda preenchida em vermelho escuro e a direita em tom mais claro, com "0%" e "100%" nas pontas e setas de medida indicando a largura e as margens laterais (img 0523).
+- O indicador de capacidade contínuo do macOS é uma barra única de cantos arredondados, com trilho cinza claro e preenchimento verde sólido em cerca de dois terços, sem divisões internas (img 0524).
+- O discreto usa a mesma barra dividida em 8 segmentos retangulares separados por pequenos espaços, com 6 preenchidos em verde e 2 em cinza claro, somando três quartos (img 0525).
+- No estado tiered, a barra contínua recebe várias cores em sequência da esquerda para a direita: um trecho vermelho estreito, um amarelo bem mais largo, um verde e o restante em cinza não preenchido (img 0526).
+- As três variações do macOS isolam uma decisão por vez: contínuo contra discreto troca a barra lisa por segmentos separados (img 0524 comparada com img 0525, com preenchimentos observados de cerca de dois terços e de três quartos), e cor única contra cores por faixa muda a codificação de cor da mesma barra contínua (img 0524 comparada com img 0526).

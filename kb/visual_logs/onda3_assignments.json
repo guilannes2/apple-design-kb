@@ -1,0 +1,349 @@
+[
+ {
+  "label": "onda3-001",
+  "items": [
+   {
+    "video_id": "wwdc2023_10026",
+    "title": "Meet watchOS 10",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-002",
+  "items": [
+   {
+    "video_id": "wwdc2023_10072",
+    "title": "Principles of spatial design",
+    "from": 1,
+    "to": 22,
+    "total": 22,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-003",
+  "items": [
+   {
+    "video_id": "wwdc2023_10073",
+    "title": "Design for spatial input",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-004",
+  "items": [
+   {
+    "video_id": "wwdc2023_10075",
+    "title": "Design spatial SharePlay experiences",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-005",
+  "items": [
+   {
+    "video_id": "wwdc2023_10115",
+    "title": "Design with SwiftUI",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2023_10193",
+    "title": "Design Shortcuts for Spotlight",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-006",
+  "items": [
+   {
+    "video_id": "wwdc2023_10194",
+    "title": "Design dynamic Live Activities",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-007",
+  "items": [
+   {
+    "video_id": "wwdc2023_10197",
+    "title": "What’s new in SF Symbols 5",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2023_10229",
+    "title": "Make features discoverable with TipKit",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-008",
+  "items": [
+   {
+    "video_id": "wwdc2023_10258",
+    "title": "Animate symbols in your app",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2023_10271",
+    "title": "Explore immersive sound design",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-009",
+  "items": [
+   {
+    "video_id": "wwdc2023_10309",
+    "title": "Design widgets for the Smart Stack on Apple Watch",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-010",
+  "items": [
+   {
+    "video_id": "wwdc2024_10085",
+    "title": "Design advanced games for Apple platforms",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-011",
+  "items": [
+   {
+    "video_id": "wwdc2024_10096",
+    "title": "Design interactive experiences for visionOS",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-012",
+  "items": [
+   {
+    "video_id": "wwdc2024_10112",
+    "title": "Say hello to the next generation of CarPlay design system",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2024_10116",
+    "title": "Explore multiview video playback in visionOS",
+    "from": 1,
+    "to": 9,
+    "total": 9,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-013",
+  "items": [
+   {
+    "video_id": "wwdc2024_10140",
+    "title": "Add personality to your app through UX writing",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-014",
+  "items": [
+   {
+    "video_id": "wwdc2024_10147",
+    "title": "Elevate your tab and sidebar experience in iPadOS",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-015",
+  "items": [
+   {
+    "video_id": "wwdc2024_10151",
+    "title": "Create custom visual effects with SwiftUI",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-016",
+  "items": [
+   {
+    "video_id": "wwdc2024_10152",
+    "title": "Create custom hover effects in visionOS",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2024_10188",
+    "title": "What’s new in SF Symbols 6",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-017",
+  "items": [
+   {
+    "video_id": "wwdc2025_219",
+    "title": "Meet Liquid Glass",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-018",
+  "items": [
+   {
+    "video_id": "wwdc2025_255",
+    "title": "Design widgets for visionOS",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2025_281",
+    "title": "Design interactive snippets",
+    "from": 1,
+    "to": 6,
+    "total": 6,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-019",
+  "items": [
+   {
+    "video_id": "wwdc2025_290",
+    "title": "Set the scene with SwiftUI in visionOS",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-020",
+  "items": [
+   {
+    "video_id": "wwdc2025_316",
+    "title": "Principles of inclusive app design",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-021",
+  "items": [
+   {
+    "video_id": "wwdc2025_317",
+    "title": "What’s new in visionOS 26",
+    "from": 1,
+    "to": 15,
+    "total": 30,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-022",
+  "items": [
+   {
+    "video_id": "wwdc2025_317",
+    "title": "What’s new in visionOS 26",
+    "from": 16,
+    "to": 30,
+    "total": 30,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda3-023",
+  "items": [
+   {
+    "video_id": "wwdc2025_356",
+    "title": "Get to know the new design system",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+# HIG, página activity-rings: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_activity-rings: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+
+### hig-img_activity-rings · folha 0001 · código 584D3
+- img 0029 (clara), seção Activity rings: diagrama estilizado sobre fundo em degradê laranja para vermelho, três anéis concêntricos (vermelho externo, verde meio, ciano interno, todos parcialmente preenchidos) com setas indicando o sentido de progresso em cada anel, e rótulos de texto ao redor apontando para cada anel com linhas guia: "Move 75% / 450/600 CAL" à esquerda, "Stand 50% / 5/10 HR" à direita, "Exercise 63% / 18/30 MIN" embaixo. É um diagrama anotado de progresso, não um ícone abstrato puro.
+- img 0030 (clara), seção Best practices: captura de tela do Apple Watch durante um treino em andamento, fundo preto, ícone verde de corrida no topo, hora "10:09", cronômetro grande em amarelo "00:04.88", lista de valores "MOVE 102/380", "EXERCISE 14/30", "STAND 2/12" à esquerda, e à direita os três anéis de atividade concêntricos nas cores correspondentes (rosa/vermelho, verde, ciano) refletindo esses valores parciais. Confirma a descrição oficial de tela de treino com timer, lista de valores e anéis.
+- img 0031 (clara), seção Best practices: amostra de cor sólida rosa/vermelho vibrante (quadrado arredondado) com o texto "R 250 / G 17 / B 79" ao lado, especificação de cor pura sem outro elemento gráfico.
+- img 0032 (clara), seção Best practices: amostra de cor sólida verde-limão vibrante com o texto "R 166 / G 255 / B 0" ao lado, mesmo formato de img 0031.
+
+### hig-img_activity-rings · folha 0002 · código 8D851
+- img 0033 (clara), seção Best practices: amostra de cor sólida ciano vibrante com o texto "R 0 / G 255 / B 246" ao lado, terceira de uma sequência de três swatches (rosa, verde, ciano) que correspondem exatamente às cores dos três anéis (Move, Exercise, Stand) vistos em img 0030.
+- img 0034 (clara), seção iOS: captura de tela do app Fitness no iOS, fundo preto, barra de status "9:41", título "Summary" com data "Tuesday, Sep 9" e avatar memoji no canto, cartão "Activity Rings" mostrando os três anéis completos e sobrepostos (rosa externo, verde meio, ciano interno, todos cheios) ao lado dos valores "Move 300/300 CAL", "Exercise 30/30 MIN", "Stand 12/12 HRS". Legendado "Apple Watch paired", mostra os três anéis.
+- img 0035 (clara), seção iOS: mesma estrutura de tela "Summary" com mesma data e mesmo avatar, mas o cartão "Activity Rings" mostra apenas um único anel rosa (parcialmente preenchido) e os valores mudam para "Move 228/300 CAL", "Steps 6,290", "Distance 3.7 MI"; não há mais Exercise nem Stand. Par direto com img 0034: mesmo layout de app, mas sem Apple Watch pareado o cartão perde os anéis Exercise e Stand e troca as métricas secundárias por passos e distância.
+
+## Síntese visual da página activity-rings
+- Os três anéis (Move, Exercise, Stand) mantêm sempre a mesma ordem de cores em todas as ilustrações da página, vermelho/rosa por fora, verde no meio, ciano por dentro, e essas mesmas três cores reaparecem isoladas como swatches com valores RGB exatos nas imagens 0031, 0032 e 0033, funcionando como especificação formal de cor que acompanha os exemplos visuais de tela.
+- O par de capturas do iOS (0034 e 0035) usa layout, cabeçalho, data e avatar idênticos, variando apenas o conteúdo do cartão de anéis, o que isola visualmente a única diferença descrita no texto, presença ou ausência de Apple Watch pareado.
+- img 0029 é o único diagrama da página com anotações de porcentagem e valores numéricos ao lado de cada anel; nas outras imagens os valores aparecem apenas dentro de capturas de tela reais de app, nunca como rótulo solto sobre um ícone genérico.

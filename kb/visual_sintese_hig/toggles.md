@@ -1,0 +1,14 @@
+### O que as ilustrações mostram
+Base: 4 de 4 folhas de ilustrações abertas, todos os códigos conferidos; a página não tem vídeo.
+- A ilustração de abertura mostra o par de estados do switch com rótulo pontilhado "Label": ligado em vermelho escuro com a bolinha branca à direita e setas de régua medindo largura e altura, e desligado em branco com contorno vermelho fino e um pequeno círculo vazio à direita (img 1147).
+- No iOS, o switch aparece dentro de linhas de lista num cartão, com rótulo "Title" à esquerda e linha divisória fina entre as linhas; desligado é trilho cinza claro com a bolinha à esquerda, ligado é verde padrão com a bolinha branca à direita (img 1148).
+- A troca da cor padrão é mostrada repetindo exatamente a mesma estrutura de cartão e mudando só a cor do estado ligado para um roxo customizado, em imagem separada (img 1149 comparada com img 1148).
+- O botão que se comporta como toggle é mostrado em dois quadros do app Phone: com o controle segmentado em "Missed", o botão circular de filtro à direita da barra fica em azul sólido e a lista mostra só chamadas perdidas em vermelho (img 1150); com "All" selecionado, o botão perde o preenchimento, fica só com contorno cinza claro, e a lista mostra todas as chamadas (img 1151).
+- Nesses quadros do Phone, o estado do botão de filtro é comunicado por preenchimento de fundo atrás do símbolo, sem trilho de switch (img 1150, img 1151).
+- Os três estados do checkbox aparecem isolados, cada um em sua imagem com legenda: ligado é quadrado de cantos arredondados em azul com marca de check branca (img 1153), desligado é só um contorno cinza claro muito sutil (img 1154) e misto é o quadrado azul com um traço horizontal branco no lugar do check (img 1155).
+- Numa lista de sete checkboxes num cartão cinza claro, o primeiro item está em estado misto e os seguintes variam entre vazio e marcado, mostrando os estados lado a lado numa lista plana (img 1152).
+- O grupo de radio buttons tem cinco linhas num cartão, e só o terceiro círculo está preenchido em azul com ponto branco central, enquanto os demais são círculos vazios cinza claro (img 1156).
+- Os estados do radio button repetem o padrão isolado com legenda: selecionado é círculo azul com ponto branco central e desselecionado é círculo vazio com contorno cinza muito sutil (img 1157, img 1158).
+- Checkbox e radio button compartilham o mesmo vocabulário: preenchimento azul com uma marca branca interna distinta (check, traço ou ponto) para indicar estado, em vez de apenas mudar de cor (img 1153, img 1155, img 1157).
+- Em radio buttons dispostos na horizontal, os três blocos ocupam a mesma largura mesmo com rótulos de tamanhos diferentes ("A long text label", "Short label"), com a opção central selecionada (img 1159).
+Divergências registradas: na lista de checkboxes (img 1152) não há indentação hierárquica visível, embora o texto do artigo trate de hierarquia expressa por alinhamento e indentação.

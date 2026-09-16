@@ -1,0 +1,16 @@
+# HIG, página writing: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_writing: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+# hig-img_writing: notas visuais (folha 0001)
+
+### hig-img_writing · folha 0001 · código 74612
+- img 1338 (clara), seção Writing: ilustração de abertura de um documento com uma prancheta/retângulo de cantos arredondados e um lápis atravessando-o na diagonal, tudo em tom amarelo monocromático, sobreposto por linhas de grade retangulares e um círculo guia centralizado. Construída com a mesma lógica de grade das outras aberturas de página (widgets, windows, workouts), reforçando um padrão visual comum entre as ilustrações de capa do HIG.
+- img 1339 (clara), seção Getting started: tela de Apple Watch com fundo em degradê azul/roxo escuro, "10:09" no topo com um X para fechar, mensagem centralizada "It looks like you've taken a hard fall.", depois botão "EMERGENCY SOS" (círculo vermelho "SOS" à esquerda do texto) e abaixo um botão "I'm OK" em degradê roxo/rosa. Mostra concretamente o tom "direto e sério" descrito no texto por frase curta e declarativa, sem emoji ou linguagem leve, e hierarquia de botões com a ação de emergência acima da ação de dispensar.
+- img 1340 (clara), seção Getting started: tela de Apple Watch com anel colorido de atividade (Move) no canto superior esquerdo, "10:09" e "now" no topo, texto "Longest Move Streak / You set a personal record for your longest daily Move streak: 35 days!" sobre fundo desfocado colorido (rosa/roxo/verde). Em contraste direto com img 1339, mostra o tom "leve e de parabéns" pela combinação de anel de conquista colorido, fundo vibrante desfocado e exclamação no texto, confirmando a comparação de tom que o texto da página propõe entre as duas mensagens.
+- img 1341 (clara), seção Best practices: cartão de configuração em fundo preto, título "Handwashing Timer" à esquerda com um interruptor (toggle) verde ligado à direita, e abaixo uma frase explicativa em cinza claro descrevendo o que a função faz quando ativada. Mostra concretamente a regra do texto ("descreva o que acontece quando ligado, e as pessoas deduzem o oposto") por um rótulo curto mais uma frase de apoio, sem repetir a explicação para o estado desligado.
+
+## Síntese visual da página writing
+- A comparação de tom entre uma mensagem séria (queda) e uma mensagem leve (conquista) é construída inteiramente por cor de fundo e composição, não só por palavras: fundo escuro e frio com botão de emergência para a mensagem séria, fundo colorido desfocado com anel de conquista para a mensagem leve (img 1339 e 1340).
+- O padrão de rótulo de configuração mais frase explicativa abaixo, sem duplicar a explicação para os dois estados do interruptor, é o único exemplo de texto de interface de sistema mostrado na página (img 1341).

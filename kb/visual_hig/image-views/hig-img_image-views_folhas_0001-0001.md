@@ -1,0 +1,6 @@
+### hig-img_image-views · folha 0001 · código A6DA4
+- img 0628 (clara), seção Image views: retângulo de cantos bem arredondados preenchido com gradiente de laranja (esquerda) para rosa/vermelho (direita), contendo ao centro o glifo clássico de "imagem indisponível" (moldura arredondada branca translúcida com um círculo, representando um sol ou retrato, e uma silhueta de montanhas dentro). Sobre o glifo há setas de medida: uma seta horizontal dupla acima indicando a largura e uma seta vertical dupla à direita indicando a altura do glifo dentro do quadro, como um diagrama de dimensionamento de um image view. Isso vai além do alt oficial, que só descreve "uma representação estilizada de uma foto tingida de vermelho": a imagem real mostra também as setas de medida de largura e altura, ausentes na descrição textual.
+Observação: a folha traz só uma imagem (0628); os outros três quadrantes da grade 2 por 2 ficaram vazios, sem legenda de código amarelo adicional.
+
+## Síntese visual da página image-views
+- A ilustração de abertura da seção combina o glifo padrão de placeholder de imagem com setas de medida explícitas de largura e altura, deixando claro que o "image view" é tratado como um contêiner com dimensões próprias que podem ser diferentes das da imagem que carrega (img 0628).

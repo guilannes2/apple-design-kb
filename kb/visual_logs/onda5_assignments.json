@@ -1,0 +1,263 @@
+[
+ {
+  "label": "onda5-001",
+  "items": [
+   {
+    "video_id": "wwdc2019_211",
+    "title": "Mastering the Living Room With tvOS",
+    "from": 1,
+    "to": 20,
+    "total": 40,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-002",
+  "items": [
+   {
+    "video_id": "wwdc2019_211",
+    "title": "Mastering the Living Room With tvOS",
+    "from": 21,
+    "to": 40,
+    "total": 40,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-003",
+  "items": [
+   {
+    "video_id": "wwdc2020_10019",
+    "title": "App accessibility for Switch Control",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-004",
+  "items": [
+   {
+    "video_id": "wwdc2020_10020",
+    "title": "Make your app visually accessible",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2020_10086",
+    "title": "Design for intelligence: Apps, evolved",
+    "from": 1,
+    "to": 6,
+    "total": 6,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-005",
+  "items": [
+   {
+    "video_id": "wwdc2020_10087",
+    "title": "Design for intelligence: Make friends with \"The System\"",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2020_10088",
+    "title": "Design for intelligence: Discover new opportunities",
+    "from": 1,
+    "to": 5,
+    "total": 5,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-006",
+  "items": [
+   {
+    "video_id": "wwdc2020_10093",
+    "title": "Build for the iPadOS pointer",
+    "from": 1,
+    "to": 18,
+    "total": 18,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-007",
+  "items": [
+   {
+    "video_id": "wwdc2020_10103",
+    "title": "Design great widgets",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-008",
+  "items": [
+   {
+    "video_id": "wwdc2020_10104",
+    "title": "Adopt the new look of macOS",
+    "from": 1,
+    "to": 21,
+    "total": 21,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-009",
+  "items": [
+   {
+    "video_id": "wwdc2020_10145",
+    "title": "Design for Game Center",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2020_10162",
+    "title": "Design for location privacy",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-010",
+  "items": [
+   {
+    "video_id": "wwdc2020_10171",
+    "title": "What's new in watchOS design",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2020_10200",
+    "title": "Design for intelligence: Meet people where they are",
+    "from": 1,
+    "to": 6,
+    "total": 6,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-011",
+  "items": [
+   {
+    "video_id": "wwdc2020_10205",
+    "title": "Design with iOS pickers, menus and actions",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-012",
+  "items": [
+   {
+    "video_id": "wwdc2020_10206",
+    "title": "Designed for iPad",
+    "from": 1,
+    "to": 14,
+    "total": 27,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-013",
+  "items": [
+   {
+    "video_id": "wwdc2020_10206",
+    "title": "Designed for iPad",
+    "from": 15,
+    "to": 27,
+    "total": 27,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-014",
+  "items": [
+   {
+    "video_id": "wwdc2020_10207",
+    "title": "SF Symbols 2",
+    "from": 1,
+    "to": 18,
+    "total": 18,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-015",
+  "items": [
+   {
+    "video_id": "wwdc2020_10640",
+    "title": "Design for the iPadOS pointer",
+    "from": 1,
+    "to": 18,
+    "total": 35,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda5-016",
+  "items": [
+   {
+    "video_id": "wwdc2020_10640",
+    "title": "Design for the iPadOS pointer",
+    "from": 19,
+    "to": 35,
+    "total": 35,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2020_20022",
+    "title": "The winners of the 2020 Apple Design Awards",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda5-017",
+  "items": [
+   {
+    "video_id": "wwdc2023_10257",
+    "title": "Create animated symbols",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

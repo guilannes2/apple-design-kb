@@ -1,0 +1,54 @@
+[
+ {
+  "label": "onda12-001",
+  "items": [
+   {
+    "video_id": "wwdc2018_801",
+    "title": "The Qualities of Great Design",
+    "from": 1,
+    "to": 18,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda12-002",
+  "items": [
+   {
+    "video_id": "wwdc2018_801",
+    "title": "The Qualities of Great Design",
+    "from": 19,
+    "to": 36,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda12-003",
+  "items": [
+   {
+    "video_id": "wwdc2018_802",
+    "title": "Intentional Design",
+    "from": 1,
+    "to": 14,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda12-004",
+  "items": [
+   {
+    "video_id": "wwdc2018_802",
+    "title": "Intentional Design",
+    "from": 15,
+    "to": 28,
+    "total": 28,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

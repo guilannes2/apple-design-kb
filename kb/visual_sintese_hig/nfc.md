@@ -1,0 +1,5 @@
+### O que as ilustrações mostram
+Base: 1 de 1 folha de ilustrações aberta, todos os códigos conferidos; a página não tem vídeo.
+- A abertura, tingida de azul sobre a grade geométrica e o círculo guia, mostra três arcos concêntricos crescentes para a direita, simétricos e ocupando boa parte do quadro, o que confere com a descrição oficial de linhas curvas cada vez maiores; é o mesmo motivo de ondas da página nearby-interactions (img 0806), aqui sem o círculo de pessoa ou sensor (img 0807).
+- A leitura dentro do app é uma folha com título "Ready to Scan", ícone circular azul com um smartphone estilizado (com leve reflexo na borda esquerda, sugerindo vidro), uma frase de instrução, "Hold your device near the NFC tag.", e um botão "Cancel" cinza claro ocupando toda a largura na base (img 0808).
+- A leitura em segundo plano não mostra nenhuma tela do app: o primeiro contato é um banner padrão de notificação no topo da Tela de Início, com ícone preto de ondas à esquerda, título "Item Detected", ação de abrir no app e horário, sobreposto e cobrindo parte da primeira fileira de ícones (img 0809).

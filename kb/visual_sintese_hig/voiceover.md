@@ -1,0 +1,6 @@
+### O que as ilustrações mostram
+Base: 2 de 2 folhas de ilustrações abertas, todos os códigos conferidos; a página não tem vídeo.
+- A abertura combina a figura de acessibilidade dentro de um círculo aberto azul marinho com um alto falante com ondas sonoras à esquerda, em azul escuro sobre degradê azul mais claro no canto superior esquerdo, com grade tracejada e círculo guia concêntrico ao símbolo humano (img 1224).
+- O exemplo errado de agrupamento é uma tela de iPhone com voltar e mais opções no topo, parágrafo de texto provisório, duas fotos lado a lado (mangas e alcachofras), cada uma com legenda abaixo, e outro parágrafo; um retângulo preto fino envolve as duas fotos e as duas legendas como um único grupo, e um X branco em círculo cinza o acompanha (img 1225, 1226).
+- O exemplo certo repete exatamente a mesma tela e o mesmo conteúdo, mas o retângulo envolve só a foto das mangas com a sua legenda, enquanto a foto das alcachofras e a legenda dela ficam fora de qualquer borda; um check branco em círculo verde o acompanha (img 1227, 1228).
+- O par isola uma única variável, o lugar onde a borda de agrupamento é desenhada, e os marcadores de certo e errado aparecem sozinhos em quadros próprios, logo depois de cada exemplo, nunca desenhados sobre a captura (img 1225 a 1228).

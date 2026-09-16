@@ -1,0 +1,646 @@
+[
+ {
+  "label": "onda4-001",
+  "items": [
+   {
+    "video_id": "wwdc2020_10071",
+    "title": "Evaluate and optimize voice interaction for your app",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-002",
+  "items": [
+   {
+    "video_id": "wwdc2020_10172",
+    "title": "Design great App Clips",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-003",
+  "items": [
+   {
+    "video_id": "wwdc2021_10029",
+    "title": "Design for Safari 15",
+    "from": 1,
+    "to": 14,
+    "total": 27,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-004",
+  "items": [
+   {
+    "video_id": "wwdc2021_10029",
+    "title": "Design for Safari 15",
+    "from": 15,
+    "to": 27,
+    "total": 27,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2021_10081",
+    "title": "Tap into virtual and physical game controllers",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-005",
+  "items": [
+   {
+    "video_id": "wwdc2021_10097",
+    "title": "What’s new in SF Symbols",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-006",
+  "items": [
+   {
+    "video_id": "wwdc2021_10126",
+    "title": "Discoverable design",
+    "from": 1,
+    "to": 14,
+    "total": 27,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-007",
+  "items": [
+   {
+    "video_id": "wwdc2021_10126",
+    "title": "Discoverable design",
+    "from": 15,
+    "to": 27,
+    "total": 27,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2021_10184",
+    "title": "Design for Group Activities",
+    "from": 1,
+    "to": 7,
+    "total": 7,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-008",
+  "items": [
+   {
+    "video_id": "wwdc2021_10245",
+    "title": "Design for spatial interaction",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-009",
+  "items": [
+   {
+    "video_id": "wwdc2021_10250",
+    "title": "Create custom symbols",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-010",
+  "items": [
+   {
+    "video_id": "wwdc2021_10275",
+    "title": "The practice of inclusive design",
+    "from": 1,
+    "to": 15,
+    "total": 29,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-011",
+  "items": [
+   {
+    "video_id": "wwdc2021_10275",
+    "title": "The practice of inclusive design",
+    "from": 16,
+    "to": 29,
+    "total": 29,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-012",
+  "items": [
+   {
+    "video_id": "wwdc2021_10278",
+    "title": "Practice audio haptic design",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-013",
+  "items": [
+   {
+    "video_id": "wwdc2021_10283",
+    "title": "Design great actions for Shortcuts, Siri, and Suggestions",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-014",
+  "items": [
+   {
+    "video_id": "wwdc2021_10288",
+    "title": "Explore the SF Symbols 3 app",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2021_10304",
+    "title": "The process of inclusive design",
+    "from": 1,
+    "to": 13,
+    "total": 26,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-015",
+  "items": [
+   {
+    "video_id": "wwdc2021_10304",
+    "title": "The process of inclusive design",
+    "from": 14,
+    "to": 26,
+    "total": 26,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-016",
+  "items": [
+   {
+    "video_id": "wwdc2021_10308",
+    "title": "Accessibility by design: An Apple Watch for everyone",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-017",
+  "items": [
+   {
+    "video_id": "wwdc2021_10317",
+    "title": "Out of this world... on to Mars",
+    "from": 1,
+    "to": 22,
+    "total": 22,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-018",
+  "items": [
+   {
+    "video_id": "wwdc2021_10349",
+    "title": "SF Symbols in SwiftUI",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2021_110142",
+    "title": "Accessibility by design: An Apple Watch for everyone (ASL)",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-019",
+  "items": [
+   {
+    "video_id": "wwdc2021_113",
+    "title": "WWDC21 Apple Design Awards (ASL)",
+    "from": 1,
+    "to": 18,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-020",
+  "items": [
+   {
+    "video_id": "wwdc2021_113",
+    "title": "WWDC21 Apple Design Awards (ASL)",
+    "from": 19,
+    "to": 36,
+    "total": 36,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-021",
+  "items": [
+   {
+    "video_id": "wwdc2022_10001",
+    "title": "Explore navigation design for iOS",
+    "from": 1,
+    "to": 18,
+    "total": 18,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-022",
+  "items": [
+   {
+    "video_id": "wwdc2022_10009",
+    "title": "What’s new in iPad app design",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-023",
+  "items": [
+   {
+    "video_id": "wwdc2022_10015",
+    "title": "Design for Collaboration with Messages",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-024",
+  "items": [
+   {
+    "video_id": "wwdc2022_10034",
+    "title": "Design for Arabic",
+    "from": 1,
+    "to": 16,
+    "total": 16,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-025",
+  "items": [
+   {
+    "video_id": "wwdc2022_10037",
+    "title": "Writing for interfaces",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-026",
+  "items": [
+   {
+    "video_id": "wwdc2022_10131",
+    "title": "Qualities of great AR experiences",
+    "from": 1,
+    "to": 11,
+    "total": 11,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-027",
+  "items": [
+   {
+    "video_id": "wwdc2022_10139",
+    "title": "Make a great SharePlay experience",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-028",
+  "items": [
+   {
+    "video_id": "wwdc2022_10157",
+    "title": "What's new in SF Symbols 4",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-029",
+  "items": [
+   {
+    "video_id": "wwdc2022_10158",
+    "title": "Adopt Variable Color in SF Symbols",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-030",
+  "items": [
+   {
+    "video_id": "wwdc2022_10169",
+    "title": "Design App Shortcuts",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-031",
+  "items": [
+   {
+    "video_id": "wwdc2022_103",
+    "title": "Apple Design Awards",
+    "from": 1,
+    "to": 21,
+    "total": 41,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-032",
+  "items": [
+   {
+    "video_id": "wwdc2022_103",
+    "title": "Apple Design Awards",
+    "from": 22,
+    "to": 41,
+    "total": 41,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-033",
+  "items": [
+   {
+    "video_id": "wwdc2022_110340",
+    "title": "Design an effective chart",
+    "from": 1,
+    "to": 20,
+    "total": 20,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-034",
+  "items": [
+   {
+    "video_id": "wwdc2022_110342",
+    "title": "Design app experiences with charts",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2022_110381",
+    "title": "Meet the expanded San Francisco font family",
+    "from": 1,
+    "to": 13,
+    "total": 13,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-035",
+  "items": [
+   {
+    "video_id": "wwdc2022_110441",
+    "title": "Design for Arabic · صمّم بالعربي",
+    "from": 1,
+    "to": 14,
+    "total": 14,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-036",
+  "items": [
+   {
+    "video_id": "wwdc2022_113",
+    "title": "Apple Design Awards (ASL)",
+    "from": 1,
+    "to": 18,
+    "total": 35,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-037",
+  "items": [
+   {
+    "video_id": "wwdc2022_113",
+    "title": "Apple Design Awards (ASL)",
+    "from": 19,
+    "to": 35,
+    "total": 35,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-038",
+  "items": [
+   {
+    "video_id": "wwdc2023_10076",
+    "title": "Design for spatial user interfaces",
+    "from": 1,
+    "to": 19,
+    "total": 19,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-039",
+  "items": [
+   {
+    "video_id": "wwdc2023_10078",
+    "title": "Design considerations for vision and motion",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2023_10138",
+    "title": "Design and build apps for watchOS 10",
+    "from": 1,
+    "to": 15,
+    "total": 15,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-040",
+  "items": [
+   {
+    "video_id": "wwdc2024_10086",
+    "title": "Design great visionOS apps",
+    "from": 1,
+    "to": 17,
+    "total": 17,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2024_10087",
+    "title": "Create custom environments for your immersive apps in visionOS",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-041",
+  "items": [
+   {
+    "video_id": "wwdc2024_10094",
+    "title": "Explore game input in visionOS",
+    "from": 1,
+    "to": 12,
+    "total": 12,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2024_10098",
+    "title": "Design Live Activities for Apple Watch",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-042",
+  "items": [
+   {
+    "video_id": "wwdc2024_10145",
+    "title": "Enhance your UI animations and transitions",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2024_10176",
+    "title": "Design App Intents for system experiences",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda4-043",
+  "items": [
+   {
+    "video_id": "wwdc2026_8012",
+    "title": "Icon Composer for Beginners Group Lab",
+    "from": 1,
+    "to": 22,
+    "total": 43,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ },
+ {
+  "label": "onda4-044",
+  "items": [
+   {
+    "video_id": "wwdc2026_8012",
+    "title": "Icon Composer for Beginners Group Lab",
+    "from": 23,
+    "to": 43,
+    "total": 43,
+    "transcript": "whisper-local-large-v3-turbo"
+   }
+  ]
+ }
+]

@@ -1,0 +1,699 @@
+[
+ {
+  "label": "int-hig-01",
+  "slugs": [
+   {
+    "slug": "design-principles",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-ios",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-ipados",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-macos",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-tvos",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-visionos",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-watchos",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-games",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "designing-for-iphone-duo",
+    "group_file": "00_getting-started.md"
+   },
+   {
+    "slug": "accessibility",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "app-icons",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "branding",
+    "group_file": "01_foundations-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-02",
+  "slugs": [
+   {
+    "slug": "color",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "dark-mode",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "icons",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "images",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "immersive-experiences",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "inclusion",
+    "group_file": "01_foundations-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-03",
+  "slugs": [
+   {
+    "slug": "layout",
+    "group_file": "01_foundations-parte-1.md"
+   },
+   {
+    "slug": "materials",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "motion",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "privacy",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "right-to-left",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "sf-symbols",
+    "group_file": "02_foundations-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-04",
+  "slugs": [
+   {
+    "slug": "spatial-layout",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "typography",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "writing",
+    "group_file": "02_foundations-parte-2.md"
+   },
+   {
+    "slug": "charting-data",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "collaboration-and-sharing",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "drag-and-drop",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "entering-data",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "feedback",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "file-management",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "going-full-screen",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "launching",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "live-viewing-apps",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "loading",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "managing-accounts",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "managing-notifications",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "modality",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "multitasking",
+    "group_file": "03_patterns-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-05",
+  "slugs": [
+   {
+    "slug": "offering-help",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "onboarding",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "playing-audio",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "playing-haptics",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "playing-video",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "printing",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "ratings-and-reviews",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "searching",
+    "group_file": "03_patterns-parte-1.md"
+   },
+   {
+    "slug": "settings",
+    "group_file": "04_patterns-parte-2.md"
+   },
+   {
+    "slug": "undo-and-redo",
+    "group_file": "04_patterns-parte-2.md"
+   },
+   {
+    "slug": "workouts",
+    "group_file": "04_patterns-parte-2.md"
+   },
+   {
+    "slug": "charts",
+    "group_file": "05_components-content.md"
+   },
+   {
+    "slug": "image-views",
+    "group_file": "05_components-content.md"
+   },
+   {
+    "slug": "text-views",
+    "group_file": "05_components-content.md"
+   },
+   {
+    "slug": "web-views",
+    "group_file": "05_components-content.md"
+   },
+   {
+    "slug": "boxes",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "collections",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "column-views",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "disclosure-controls",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "labels",
+    "group_file": "06_components-layout-and-organization.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-06",
+  "slugs": [
+   {
+    "slug": "lists-and-tables",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "lockups",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "outline-views",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "split-views",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "tab-views",
+    "group_file": "06_components-layout-and-organization.md"
+   },
+   {
+    "slug": "activity-views",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "buttons",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "context-menus",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "dock-menus",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "edit-menus",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "home-screen-quick-actions",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "menus",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "ornaments",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "pop-up-buttons",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "pull-down-buttons",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "the-menu-bar",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "toolbars",
+    "group_file": "07_components-menus-and-actions.md"
+   },
+   {
+    "slug": "path-controls",
+    "group_file": "08_components-navigation-and-search.md"
+   },
+   {
+    "slug": "search-fields",
+    "group_file": "08_components-navigation-and-search.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-07",
+  "slugs": [
+   {
+    "slug": "sidebars",
+    "group_file": "08_components-navigation-and-search.md"
+   },
+   {
+    "slug": "tab-bars",
+    "group_file": "08_components-navigation-and-search.md"
+   },
+   {
+    "slug": "token-fields",
+    "group_file": "08_components-navigation-and-search.md"
+   },
+   {
+    "slug": "action-sheets",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "alerts",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "page-controls",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "panels",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "popovers",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "scroll-views",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "sheets",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "windows",
+    "group_file": "09_components-presentation.md"
+   },
+   {
+    "slug": "color-wells",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "combo-boxes",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "digit-entry-views",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "image-wells",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "pickers",
+    "group_file": "10_components-selection-and-input.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-08",
+  "slugs": [
+   {
+    "slug": "segmented-controls",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "sliders",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "steppers",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "text-fields",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "toggles",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "virtual-keyboards",
+    "group_file": "10_components-selection-and-input.md"
+   },
+   {
+    "slug": "activity-rings",
+    "group_file": "11_components-status.md"
+   },
+   {
+    "slug": "gauges",
+    "group_file": "11_components-status.md"
+   },
+   {
+    "slug": "progress-indicators",
+    "group_file": "11_components-status.md"
+   },
+   {
+    "slug": "rating-indicators",
+    "group_file": "11_components-status.md"
+   },
+   {
+    "slug": "app-shortcuts",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "complications",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "controls",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "live-activities",
+    "group_file": "12_components-system-experiences.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-09",
+  "slugs": [
+   {
+    "slug": "notifications",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "snippets",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "status-bars",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "top-shelf",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "watch-faces",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "widgets",
+    "group_file": "12_components-system-experiences.md"
+   },
+   {
+    "slug": "action-button",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "apple-pencil-and-scribble",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "camera-control",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "digital-crown",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "eyes",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "focus-and-selection",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "game-controls",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "gestures",
+    "group_file": "13_inputs.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-10",
+  "slugs": [
+   {
+    "slug": "gyro-and-accelerometer",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "keyboards",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "nearby-interactions",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "pointing-devices",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "remotes",
+    "group_file": "13_inputs.md"
+   },
+   {
+    "slug": "airplay",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "always-on",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "app-clips",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "apple-pay",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "augmented-reality",
+    "group_file": "14_technologies-parte-1.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-11",
+  "slugs": [
+   {
+    "slug": "carekit",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "carplay",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "game-center",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "generative-ai",
+    "group_file": "14_technologies-parte-1.md"
+   },
+   {
+    "slug": "healthkit",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "homekit",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "icloud",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "id-verifier",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "imessage-apps-and-stickers",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "in-app-purchase",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "live-photos",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "mac-catalyst",
+    "group_file": "15_technologies-parte-2.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-12",
+  "slugs": [
+   {
+    "slug": "machine-learning",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "maps",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "nfc",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "photo-editing",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "researchkit",
+    "group_file": "15_technologies-parte-2.md"
+   },
+   {
+    "slug": "shareplay",
+    "group_file": "16_technologies-parte-3.md"
+   },
+   {
+    "slug": "shazamkit",
+    "group_file": "16_technologies-parte-3.md"
+   },
+   {
+    "slug": "sign-in-with-apple",
+    "group_file": "16_technologies-parte-3.md"
+   },
+   {
+    "slug": "siri",
+    "group_file": "16_technologies-parte-3.md"
+   },
+   {
+    "slug": "tap-to-pay-on-iphone",
+    "group_file": "16_technologies-parte-3.md"
+   },
+   {
+    "slug": "voiceover",
+    "group_file": "16_technologies-parte-3.md"
+   }
+  ]
+ },
+ {
+  "label": "int-hig-13",
+  "slugs": [
+   {
+    "slug": "wallet",
+    "group_file": "16_technologies-parte-3.md"
+   }
+  ]
+ }
+]

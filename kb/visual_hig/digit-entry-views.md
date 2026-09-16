@@ -1,0 +1,10 @@
+# HIG, página digit-entry-views: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_digit-entry-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_digit-entry-views · folha 0001 · código 5817D
+- img 0460 (clara), seção Digit entry views: diagrama de especificação (redline) sobre fundo em degradê laranja/vermelho, com o título "Enter Passcode" e o subtítulo "Enter your five-digit passcode." acima de cinco caixas retangulares vermelhas enfileiradas horizontalmente, representando os campos de dígito do código. Abaixo das caixas, uma fileira de números de 1 a 0 mais um botão de apagar, com o "1" destacado num quadrado branco como se estivesse em foco ou selecionado. Sobre o diagrama há anotações de medida típicas de especificação de layout: uma seta dupla vertical acima do título indicando a distância até a borda superior, setas duplas horizontais de cada lado das caixas de dígito indicando as margens laterais, pequenas marcas verticais entre as caixas indicando o espaçamento entre elas, e setas verticais entre as caixas e o teclado numérico e entre o teclado e a borda inferior. O texto alternativo oficial descreve isso como uma tela de passcode de cinco dígitos da Apple TV, mas a própria imagem não mostra nenhum elemento que identifique visualmente o aparelho (sem controle remoto, sem indicação de tvOS); o que se vê é um diagrama de medidas genérico com tipografia grande centralizada, compatível com uma tela vista a distância como a de uma TV, mas isso é inferência, não algo visível na imagem.
+
+## Síntese visual da página digit-entry-views
+- A ilustração da página não é uma captura de tela real, e sim um diagrama de especificação com setas de medida indicando margens verticais e horizontais, espaçamento entre caixas de dígito e distância até o teclado numérico, mostrando que o HIG usa esse tipo de redline para comunicar proporção e respiro em vez de valores numéricos exatos (img 0460).

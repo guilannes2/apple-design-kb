@@ -1,0 +1,6 @@
+### O que as ilustrações mostram
+Base: 1 folha de ilustrações vista (3 imagens, todas em aparência clara), código conferido; sem vídeos.
+- A abertura, em degradê roxo e magenta com grade pontilhada e círculo guia, desenha a coroa vista de lado como forma ovalada com sulcos horizontais para a serrilha e, à esquerda, uma seta curva grossa apontando para cima e para a esquerda que sugere o giro; coroa e seta ficam contidas no círculo guia central (img 0461).
+- No Apple Vision Pro, uma fotografia real em close de perfil mostra o dedo indicador sobre o botão circular pequeno e serrilhado na lateral, entre a faixa de tecido da têmpora e a viseira, sem nenhuma tela ou interface visível (img 0462).
+- No Apple Watch, a fotografia real do relógio com o app de sono ativo (gráfico de barras azuis de estágios) recebe um contorno vermelho em volta da coroa, e o botão lateral logo abaixo fica sem destaque, isolando exatamente qual controle é a Digital Crown (img 0463).
+- A página combina ícone esquemático de abertura com fotos reais de produto em dois aparelhos: no Vision Pro a coroa é indicada pelo dedo pousado sobre ela, e no Apple Watch por um contorno vermelho desenhado sobre a foto (img 0461, img 0462 e img 0463).

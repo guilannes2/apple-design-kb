@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__031 · folha 0001 · código DFD4F
+- Quadros: a forma é visualmente quase idêntica à de 030 (Failure): um bloco retangular preenchido em rosa com textura interna densa e irregular, seguido de uma cauda pontilhada azul. Em q001 o marcador está no início; em q002 está no fim, após a cauda; em q003 o bloco aparece de novo por inteiro com o marcador no fim.
+- Construção de interface: a HIG reaproveita a mesma forma gráfica de bloco sólido usada para Failure também para Retry, sem diferença visível de largura, altura ou densidade entre os dois quadros comparados lado a lado; a diferença entre os dois haptics não é comunicada pela forma da onda nessas capturas, só pelo texto da página.
+- Com a descrição oficial: a alt genérica se aplica igualmente; a imagem não mostra nenhuma marca visual que distinga Retry de Failure, o que diverge da expectativa de que haptics com significados diferentes tenham formas de onda diferentes.

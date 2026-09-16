@@ -1,0 +1,11 @@
+### hig-img_eyes · folha 0001 · código 500A9
+- img 0473 (clara), seção Eyes: mesmo estilo de ícone de abertura de seção, mas em degradê rosa/roxo com grade pontilhada e círculo guia. Dentro, em traço roxo escuro, o desenho de um olho humano estilizado visto de frente: contorno em formato de amêndoa (pálpebras), uma íris circular preenchida e uma pupila menor no centro dela, deixada em branco (vazada). O olho inteiro está centralizado e inscrito dentro do círculo guia da grade.
+- img 0474 (clara), seção Encouraging interaction: sobre fundo branco, um quadrado cinza médio com um quadrado cinza mais claro centralizado dentro dele, representando um botão de cantos retos (não arredondados). É a ilustração de um "square button" citada no texto alternativo oficial.
+- img 0475 (clara), seção Encouraging interaction: um ícone circular cinza-claro contendo um X branco ao centro, sobre fundo branco, funcionando como marcador de "uso incorreto" (não é parte do botão em si, é um selo de invalidação sobreposto à composição da página).
+- img 0476 (clara), seção Encouraging interaction: sobre fundo branco, o mesmo quadrado cinza médio da img 0474, mas agora com um círculo cinza mais claro centralizado dentro dele, em vez do quadrado interno anterior. É a versão "botão circular" comparada ao "botão quadrado" da img 0474, mantendo a mesma cor de fundo do botão para permitir comparação direta de forma.
+
+### hig-img_eyes · folha 0002 · código 892E1
+- img 0477 (clara), seção Encouraging interaction: um ícone circular verde contendo uma marca de checagem (check mark) branca ao centro, sobre fundo branco, funcionando como selo de "uso correto", em contraste direto com o X vermelho/cinza da img 0475.
+
+## Síntese visual da página eyes
+- A página constrói a comparação entre botão quadrado e circular usando exatamente a mesma cor e tamanho de quadrado externo, variando só a forma da área interna clara (quadrado na img 0474, círculo na img 0476), e marca qual delas é a prática recomendada por meio de selos separados: X sobre a versão quadrada (img 0475, uso incorreto) e checkmark verde associado à versão circular (img 0477, uso correto), reforçando visualmente a recomendação do texto de preferir formas arredondadas em itens interativos.

@@ -1,0 +1,34 @@
+# HIG, página apple-pencil-and-scribble: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_apple-pencil-and-scribble: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+
+# hig-img_apple-pencil-and-scribble · folhas 0001 a 0004
+
+### hig-img_apple-pencil-and-scribble · folha 0001 · código 45DEA
+- img 0147 (clara), seção Apple Pencil and Scribble: arte conceitual de abertura, um traço de rabisco (linha ondulada em ziguezague com espessura variável) em roxo escuro sobre fundo gradiente rosa para roxo, sobreposto por grade de linhas retangulares e um círculo, mesmo padrão visual de abertura de outras páginas do HIG (dólar em Apple Pay).
+- img 0148 (clara), seção Best practices, legenda "Altitude": ilustração de um Apple Pencil branco inclinado, com a ponta apoiada num plano representado por uma sombra azul em gradiente (mais escura perto da ponta, mais clara se afastando), e um arco de traços azuis pontilhados à direita, mais escuros perto da ponta e mais claros longe dela, indicando o ângulo de inclinação medido a partir da horizontal.
+- img 0149 (clara), seção Best practices, legenda "Pressure": ilustração do Apple Pencil branco, agora traçando uma linha curva que começa fina e cinza clara e vai engrossando e escurecendo até ficar preta e grossa perto da ponta do lápis, mostrando visualmente como a pressão crescente altera a espessura do traço. Abaixo, um triângulo azul em gradiente reforça a mesma ideia de intensidade crescente da esquerda (fina) para a direita (grossa).
+- img 0150 (clara), seção Best practices, legenda "Azimuth": Apple Pencil equilibrado na ponta sobre um círculo pontilhado azul com marcações de grau ao redor de toda a circunferência (360 graus), com uma pequena marca mais escura em um ponto do círculo indicando o ângulo de orientação específico medido a partir do centro.
+
+### hig-img_apple-pencil-and-scribble · folha 0002 · código 680B4
+- img 0151 (clara), seção Best practices: ilustração de um iPad em modo paisagem com três controles circulares azuis empilhados verticalmente em cada borda lateral (conta-gotas, pincel, balão de comentário), e um desenho de mão esquerda sefirando um Apple Pencil no canto inferior esquerdo da tela, sobrepondo parcialmente os controles do lado esquerdo.
+- img 0152 (clara), seção Best practices: mesma composição de iPad com os seis controles nas duas bordas, agora com uma mão direita segurando o Apple Pencil no canto inferior direito, sobrepondo os controles desse lado. Ao contrário do texto alternativo oficial, que descreve os controles obscurecidos em cinza e os do outro lado "brilhantes" para indicar reposicionamento, nesta imagem (0151 e 0152) todos os seis controles aparecem com a mesma cor azul sólida, sem diferença visual de opacidade entre os lados; a divergência é clara e vale registrar.
+- img 0153 (clara), seção Hover: Apple Pencil pairando ligeiramente acima de um retângulo cinza que representa a tela, com uma pequena elipse azul fina logo abaixo da ponta, representando uma prévia pequena (valor baixo).
+- img 0154 (clara), seção Hover: apenas um X cinza dentro de círculo, isolado sobre fundo branco, marcador de "incorreto" pareado com a imagem anterior (prévia no extremo baixo do intervalo).
+
+### hig-img_apple-pencil-and-scribble · folha 0003 · código 8D9D1
+- img 0155 (clara), seção Hover: mesma composição de Apple Pencil pairando sobre o retângulo cinza, agora com uma elipse azul de tamanho médio abaixo da ponta, maior que a da folha anterior, representando um valor de prévia mais perto do meio do intervalo.
+- img 0156 (clara), seção Hover: apenas um checkmark verde dentro de círculo, isolado, marcador de "correto" pareado com a imagem anterior (prévia de tamanho médio).
+- img 0157 (clara), seção Hover: mesma composição do Apple Pencil, agora com uma elipse azul grande abaixo da ponta, a maior das três, representando o valor no extremo alto do intervalo (contraponto visual, mostrando os três tamanhos de prévia possíveis ao longo da folha: pequena, média, grande).
+- img 0158 (clara), seção Scribble: dois campos de formulário empilhados, ambos rotulados "Name". O de cima é mais estreito, contém a escrita à mão "Juan Ch" cortada (a assinatura não cabe), com um X cinza à esquerda marcando incorreto. O de baixo é mais largo, contém a escrita completa "Juan Chavez" cabendo inteira, com um checkmark verde à esquerda marcando correto. Comparação direta de largura de campo de texto para escrita a próprio punho.
+
+### hig-img_apple-pencil-and-scribble · folha 0004 · código CAF85
+- img 0159 (clara), seção Custom drawing: dois aparelhos lado a lado, um iPad em paisagem à esquerda e um iPhone em retrato à direita, ambos com telas de desenho em branco. O iPad mostra, na borda inferior, uma barra de ferramentas horizontal completa: setas de desfazer/refazer à esquerda, um conjunto de canetas/pincéis ilustrados, um seletor de cores com um círculo preto maior (ativo) e amostras coloridas menores ao redor, e ícones de adicionar e mais opções à direita. O iPhone mostra, no topo, uma barra com seta de voltar, desfazer, mais opções e um círculo laranja de confirmação; na parte inferior do iPhone aparece uma versão reduzida da paleta de ferramentas (só pincéis e seletor de cor, sem as setas de desfazer visíveis na borda inferior). Isso confirma o texto: o ambiente regular do iPad mantém desfazer/refazer dentro do seletor de ferramentas na borda inferior, enquanto o iPhone move esses comandos para a barra superior.
+
+## Síntese visual da página apple-pencil-and-scribble
+- As propriedades físicas do Apple Pencil (altitude, pressão, azimute) são cada uma ilustrada com seu próprio sistema gráfico de medição: arco de traços pontilhados para altitude, espessura de traço crescente e triângulo gradiente para pressão, círculo de graus completo para azimute, todas usando a mesma cor azul de destaque (folha 0001).
+- A prévia de hover é demonstrada como uma progressão de três estados de tamanho de elipse (pequena, média, grande) sob a ponta do lápis, com o valor médio marcado como o correto (checkmark) e o valor no extremo baixo marcado como incorreto (X), mas o extremo alto não recebe marcador nenhum, apenas mostrado como contraste adicional (folhas 0002 e 0003).
+- A ilustração de controles obscurecidos por mão esquerda/direita (folha 0002, img 0151/0152) não reproduz visualmente a diferenciação de opacidade (cinza vs. brilhante) que a descrição oficial menciona; todos os controles aparecem na mesma cor azul nas duas imagens.
+- Comparação de campo de texto (folha 0003) usa o mesmo par de ícones X/check ao lado do próprio campo, em vez de abaixo ou ao lado da ilustração como nas demais páginas.
+- A ilustração final (folha 0004) é a única da unidade que mostra UI real de app (Notas, pela barra de ferramentas), comparando lado a lado como o mesmo conjunto de comandos (desfazer, redo, pincéis, cor) se reorganiza entre ambiente regular (iPad) e compacto (iPhone).

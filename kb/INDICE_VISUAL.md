@@ -1,0 +1,340 @@
+# Índice visual
+
+Vídeos com notas: 175. Assistidos por inteiro: 175.
+
+- meet-with-apple_208 (Showcase: Learn how apps are integrating the new design and Liquid Glass): assistido: 81 de 81 folhas abertas, todos os códigos conferidos
+- meet-with-apple_254 (Liquid Glass showcase: LTK): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- meet-with-apple_255 (Liquid Glass showcase: Slack): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- meet-with-apple_256 (Liquid Glass showcase: CNN): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- meet-with-apple_257 (Liquid Glass showcase: Tide Guide): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- meet-with-apple_270 (Design with SwiftUI): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- meet-with-apple_274 (AllTrails: Momentum without a rewrite): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- tech-talks_10884 (Meet Apple Watch Series 7): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- tech-talks_111427 (Discover the Apple Design Resources): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- tech-talks_111461 (Prepare your app for iPhone Duo): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- tech-talks_111462 (Raise the bar with iPhone Duo): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- tech-talks_111463 (Strike a pose with adaptive layouts on iPhone Duo): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- tech-talks_111466 (Design for iPhone Duo): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- tech-talks_801 (Designing for iPhone X): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- tech-talks_802 (Designing for Apple Watch Series 4): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- tech-talks_803 (Designing for Subscription Success): assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- wwdc2014_223 (Prototyping: Fake It Till You Make It): assistido: 39 de 39 folhas abertas, todos os códigos conferidos
+- wwdc2014_602 (Ingredients of Great Games): assistido: 34 de 34 folhas abertas, todos os códigos conferidos
+- wwdc2015_802 (Designing for Apple Watch): assistido: 40 de 40 folhas abertas, todos os códigos conferidos
+- wwdc2015_805 (Apple Watch Design Tips and Tricks): assistido: 37 de 37 folhas abertas, todos os códigos conferidos
+- wwdc2016_805 (Iterative UI Design): assistido: 31 de 31 folhas abertas, todos os códigos conferidos
+- wwdc2017_802 (Essential Design Principles): assistido: 44 de 44 folhas abertas, todos os códigos conferidos
+- wwdc2017_803 (Designing Sound): assistido: 28 de 28 folhas abertas, todos os códigos conferidos
+- wwdc2017_809 (Communication Between Designers and Engineers): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2017_811 (Design Tips for Great Games): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2017_812 (Size Classes and Core Components): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2017_813 (Writing Great Alerts): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2017_815 (How to Pick a Custom Font): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2017_816 (Love at First Launch): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2017_817 (Rich Notifications): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2017_818 (60-Second Prototyping): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2017_819 (Designing for a Global Audience): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2017_820 (Express Yourself!): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2017_821 (Get Started with Display P3): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2017_822 (App Icon Design): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2017_823 (Designing Glyphs): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2018_801 (The Qualities of Great Design): assistido: 36 de 36 folhas abertas, todos os códigos conferidos
+- wwdc2018_802 (Intentional Design): assistido: 28 de 28 folhas abertas, todos os códigos conferidos
+- wwdc2018_803 (Designing Fluid Interfaces): assistido: 43 de 43 folhas abertas, todos os códigos conferidos
+- wwdc2018_804 (The Life of a Button): assistido: 23 de 23 folhas abertas, todos os códigos conferidos
+- wwdc2018_806 (Designing Notifications): assistido: 26 de 26 folhas abertas, todos os códigos conferidos
+- wwdc2018_811 (Presenting Design Work): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2019_104 (Apple Design Awards): assistido: 52 de 52 folhas abertas, todos os códigos conferidos
+- wwdc2019_206 (Introducing SF Symbols): assistido: 28 de 28 folhas abertas, todos os códigos conferidos
+- wwdc2019_211 (Mastering the Living Room With tvOS): assistido: 40 de 40 folhas abertas, todos os códigos conferidos
+- wwdc2019_223 (Expanding the Sensory Experience with Core Haptics): assistido: 36 de 36 folhas abertas, todos os códigos conferidos
+- wwdc2019_239 (Great Developer Habits): assistido: 26 de 26 folhas abertas, todos os códigos conferidos
+- wwdc2019_244 (Visual Design and Accessibility): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2019_520 (Introducing Core Haptics): assistido: 18 de 18 folhas abertas, todos os códigos conferidos
+- wwdc2019_802 (Designing Award Winning Apps and Games): assistido: 40 de 40 folhas abertas, todos os códigos conferidos
+- wwdc2019_803 (Designing Great ML Experiences): assistido: 42 de 42 folhas abertas, todos os códigos conferidos
+- wwdc2019_805 (Building Great Shortcuts): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2019_806 (Designing Great Shortcuts): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2019_808 (What's New in iOS Design): assistido: 23 de 23 folhas abertas, todos os códigos conferidos
+- wwdc2019_809 (Designing iPad Apps for Mac): assistido: 25 de 25 folhas abertas, todos os códigos conferidos
+- wwdc2019_810 (Designing Audio-Haptic Experiences): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2020_10019 (App accessibility for Switch Control): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- wwdc2020_10020 (Make your app visually accessible): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2020_10071 (Evaluate and optimize voice interaction for your app): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2020_10086 (Design for intelligence: Apps, evolved): assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- wwdc2020_10087 (Design for intelligence: Make friends with "The System"): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2020_10088 (Design for intelligence: Discover new opportunities): assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+- wwdc2020_10093 (Build for the iPadOS pointer): assistido: 18 de 18 folhas abertas, todos os códigos conferidos
+- wwdc2020_10103 (Design great widgets): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2020_10104 (Adopt the new look of macOS): assistido: 21 de 21 folhas abertas, todos os códigos conferidos
+- wwdc2020_10145 (Design for Game Center): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2020_10162 (Design for location privacy): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2020_10171 (What's new in watchOS design): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2020_10172 (Design great App Clips): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- wwdc2020_10175 (The details of UI typography): assistido: 22 de 22 folhas abertas, todos os códigos conferidos
+- wwdc2020_10200 (Design for intelligence: Meet people where they are): assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- wwdc2020_10205 (Design with iOS pickers, menus and actions): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2020_10206 (Designed for iPad): assistido: 27 de 27 folhas abertas, todos os códigos conferidos
+- wwdc2020_10207 (SF Symbols 2): assistido: 18 de 18 folhas abertas, todos os códigos conferidos
+- wwdc2020_10640 (Design for the iPadOS pointer): assistido: 35 de 35 folhas abertas, todos os códigos conferidos
+- wwdc2020_20022 (The winners of the 2020 Apple Design Awards): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2021_10029 (Design for Safari 15): assistido: 27 de 27 folhas abertas, todos os códigos conferidos
+- wwdc2021_10081 (Tap into virtual and physical game controllers): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2021_10097 (What’s new in SF Symbols): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2021_10126 (Discoverable design): assistido: 27 de 27 folhas abertas, todos os códigos conferidos
+- wwdc2021_10184 (Design for Group Activities): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2021_10245 (Design for spatial interaction): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2021_10250 (Create custom symbols): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2021_10275 (The practice of inclusive design): assistido: 29 de 29 folhas abertas, todos os códigos conferidos
+- wwdc2021_10278 (Practice audio haptic design): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- wwdc2021_10283 (Design great actions for Shortcuts, Siri, and Suggestions): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2021_10288 (Explore the SF Symbols 3 app): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2021_10304 (The process of inclusive design): assistido: 26 de 26 folhas abertas, todos os códigos conferidos
+- wwdc2021_10308 (Accessibility by design: An Apple Watch for everyone): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2021_10317 (Out of this world... on to Mars): assistido: 22 de 22 folhas abertas, todos os códigos conferidos
+- wwdc2021_10349 (SF Symbols in SwiftUI): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2021_110142 (Accessibility by design: An Apple Watch for everyone (ASL)): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2021_113 (WWDC21 Apple Design Awards (ASL)): assistido: 36 de 36 folhas abertas, todos os códigos conferidos
+- wwdc2022_10001 (Explore navigation design for iOS): assistido: 18 de 18 folhas abertas, todos os códigos conferidos
+- wwdc2022_10009 (What’s new in iPad app design): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2022_10015 (Design for Collaboration with Messages): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2022_10034 (Design for Arabic): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2022_10037 (Writing for interfaces): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2022_10131 (Qualities of great AR experiences): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2022_10139 (Make a great SharePlay experience): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2022_10157 (What's new in SF Symbols 4): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2022_10158 (Adopt Variable Color in SF Symbols): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2022_10169 (Design App Shortcuts): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2022_103 (Apple Design Awards): assistido: 41 de 41 folhas abertas, todos os códigos conferidos
+- wwdc2022_110340 (Design an effective chart): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- wwdc2022_110342 (Design app experiences with charts): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2022_110381 (Meet the expanded San Francisco font family): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- wwdc2022_110441 (Design for Arabic · صمّم بالعربي): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2022_113 (Apple Design Awards (ASL)): assistido: 35 de 35 folhas abertas, todos os códigos conferidos
+- wwdc2023_10026 (Meet watchOS 10): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2023_10072 (Principles of spatial design): assistido: 22 de 22 folhas abertas, todos os códigos conferidos
+- wwdc2023_10073 (Design for spatial input): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2023_10075 (Design spatial SharePlay experiences): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2023_10076 (Design for spatial user interfaces): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2023_10078 (Design considerations for vision and motion): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2023_10115 (Design with SwiftUI): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2023_10138 (Design and build apps for watchOS 10): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2023_10193 (Design Shortcuts for Spotlight): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2023_10194 (Design dynamic Live Activities): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2023_10197 (What’s new in SF Symbols 5): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2023_10229 (Make features discoverable with TipKit): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2023_10257 (Create animated symbols): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2023_10258 (Animate symbols in your app): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2023_10271 (Explore immersive sound design): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2023_10309 (Design widgets for the Smart Stack on Apple Watch): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2024_10085 (Design advanced games for Apple platforms): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2024_10086 (Design great visionOS apps): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2024_10087 (Create custom environments for your immersive apps in visionOS): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2024_10094 (Explore game input in visionOS): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2024_10096 (Design interactive experiences for visionOS): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2024_10098 (Design Live Activities for Apple Watch): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2024_10112 (Say hello to the next generation of CarPlay design system): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2024_10116 (Explore multiview video playback in visionOS): assistido: 9 de 9 folhas abertas, todos os códigos conferidos
+- wwdc2024_10140 (Add personality to your app through UX writing): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2024_10145 (Enhance your UI animations and transitions): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2024_10147 (Elevate your tab and sidebar experience in iPadOS): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2024_10151 (Create custom visual effects with SwiftUI): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- wwdc2024_10152 (Create custom hover effects in visionOS): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2024_10176 (Design App Intents for system experiences): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2024_10188 (What’s new in SF Symbols 6): assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- wwdc2025_208 (Elevate the design of your iPad app): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2025_219 (Meet Liquid Glass): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- wwdc2025_220 (Say hello to the new look of app icons): assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- wwdc2025_247 (What’s new in Xcode 26): assistido: 29 de 29 folhas abertas, todos os códigos conferidos
+- wwdc2025_248 (Explore prompt design & safety for on-device foundation models): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2025_255 (Design widgets for visionOS): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2025_273 (Meet SwiftUI spatial layout): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2025_274 (Better together: SwiftUI and RealityKit): assistido: 21 de 21 folhas abertas, todos os códigos conferidos
+- wwdc2025_281 (Design interactive snippets): assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- wwdc2025_284 (Build a UIKit app with the new design): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2025_290 (Set the scene with SwiftUI in visionOS): assistido: 19 de 19 folhas abertas, todos os códigos conferidos
+- wwdc2025_303 (Design hover interactions for visionOS): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2025_304 (Explore video experiences for visionOS): assistido: 22 de 22 folhas abertas, todos os códigos conferidos
+- wwdc2025_305 (Optimize your custom environments for visionOS): assistido: 28 de 28 folhas abertas, todos os códigos conferidos
+- wwdc2025_316 (Principles of inclusive app design): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2025_317 (What’s new in visionOS 26): assistido: 30 de 30 folhas abertas, todos os códigos conferidos
+- wwdc2025_323 (Build a SwiftUI app with the new design): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2025_337 (What’s new in SF Symbols 7): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2025_356 (Get to know the new design system): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2025_359 (Design foundations from idea to interface): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2025_361 (Create icons with Icon Composer): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2025_404 (Make a big impact with small writing changes): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2026_227 (Create UI prototypes using agents in Xcode): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2026_234 (Design immersive environments for visionOS apps and the spatial web): assistido: 16 de 16 folhas abertas, todos os códigos conferidos
+- wwdc2026_250 (Principles of great design): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2026_251 (Communicate your brand identity on iOS): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- wwdc2026_252 (Design no-code games with Reality Composer Pro 3): assistido: 17 de 17 folhas abertas, todos os códigos conferidos
+- wwdc2026_269 (What’s new in SwiftUI): assistido: 20 de 20 folhas abertas, todos os códigos conferidos
+- wwdc2026_290 (Craft clear names for features and labels in your app): assistido: 11 de 11 folhas abertas, todos os códigos conferidos
+- wwdc2026_292 (Design intuitive search experiences): assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- wwdc2026_314 (Learn CSS Grid Lanes): assistido: 8 de 8 folhas abertas, todos os códigos conferidos
+- wwdc2026_315 (Rediscover the HTML select element): assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- wwdc2026_321 (Dive into lazy stacks and scrolling with SwiftUI): assistido: 15 de 15 folhas abertas, todos os códigos conferidos
+- wwdc2026_322 (Compose advanced graphics effects with SwiftUI): assistido: 13 de 13 folhas abertas, todos os códigos conferidos
+- wwdc2026_8012 (Icon Composer for Beginners Group Lab): assistido: 43 de 43 folhas abertas, todos os códigos conferidos
+
+Páginas do HIG com notas: 158.
+
+- accessibility: hig-img_accessibility: assistido: 6 de 6 folhas abertas, todos os códigos conferidos; hig-vid_accessibility__000: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_accessibility__001: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- action-button: hig-img_action-button: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- action-sheets: hig-img_action-sheets: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- activity-rings: hig-img_activity-rings: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- activity-views: hig-img_activity-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- airplay: hig-img_airplay: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- alerts: hig-img_alerts: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_alerts__002: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_alerts__003: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- always-on: hig-img_always-on: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- app-clips: hig-img_app-clips: assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- app-icons: hig-img_app-icons: assistido: 6 de 6 folhas abertas, todos os códigos conferidos; hig-vid_app-icons__004: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- app-shortcuts: hig-img_app-shortcuts: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- apple-pay: hig-img_apple-pay: assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- apple-pencil-and-scribble: hig-img_apple-pencil-and-scribble: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- augmented-reality: hig-img_augmented-reality: assistido: 6 de 6 folhas abertas, todos os códigos conferidos; hig-vid_augmented-reality__005: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- boxes: hig-img_boxes: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- branding: hig-img_branding: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- buttons: hig-img_buttons: assistido: 3 de 3 folhas abertas, todos os códigos conferidos; hig-vid_buttons__006: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_buttons__007: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- camera-control: hig-img_camera-control: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- carekit: hig-img_carekit: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- carplay: hig-img_carplay: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- charting-data: hig-img_charting-data: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- charts: hig-img_charts: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- collaboration-and-sharing: hig-img_collaboration-and-sharing: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- collections: hig-img_collections: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- color-wells: hig-img_color-wells: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- color: hig-img_color: assistido: 42 de 42 folhas abertas, todos os códigos conferidos
+- column-views: hig-img_column-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- combo-boxes: hig-img_combo-boxes: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- complications: hig-img_complications: assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- context-menus: hig-img_context-menus: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- controls: hig-img_controls: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- dark-mode: hig-img_dark-mode: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- design-principles: hig-img_design-principles: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- designing-for-games: hig-img_designing-for-games: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-ios: hig-img_designing-for-ios: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-ipados: hig-img_designing-for-ipados: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-iphone-duo: hig-img_designing-for-iphone-duo: assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+- designing-for-macos: hig-img_designing-for-macos: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-tvos: hig-img_designing-for-tvos: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-visionos: hig-img_designing-for-visionos: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- designing-for-watchos: hig-img_designing-for-watchos: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- digit-entry-views: hig-img_digit-entry-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- digital-crown: hig-img_digital-crown: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- disclosure-controls: hig-img_disclosure-controls: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- dock-menus: hig-img_dock-menus: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- drag-and-drop: hig-img_drag-and-drop: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_drag-and-drop__008: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- edit-menus: hig-img_edit-menus: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- entering-data: hig-img_entering-data: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- eyes: hig-img_eyes: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_eyes__009: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- feedback: hig-img_feedback: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- file-management: hig-img_file-management: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- focus-and-selection: hig-img_focus-and-selection: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- game-center: hig-img_game-center: assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- game-controls: hig-img_game-controls: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- gauges: hig-img_gauges: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- generative-ai: hig-img_generative-ai: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- gestures: hig-img_gestures: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_gestures__010: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_gestures__011: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- going-full-screen: hig-img_going-full-screen: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- gyro-and-accelerometer: hig-img_gyro-and-accelerometer: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- healthkit: hig-img_healthkit: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- home-screen-quick-actions: hig-img_home-screen-quick-actions: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- homekit: hig-img_homekit: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- icloud: hig-img_icloud: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- icons: hig-img_icons: assistido: 29 de 29 folhas abertas, todos os códigos conferidos
+- id-verifier: hig-img_id-verifier: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- image-views: hig-img_image-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- image-wells: hig-img_image-wells: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- images: hig-img_images: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_images__012: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- imessage-apps-and-stickers: hig-img_imessage-apps-and-stickers: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- immersive-experiences: hig-img_immersive-experiences: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_immersive-experiences__013: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- in-app-purchase: hig-img_in-app-purchase: assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- inclusion: hig-img_inclusion: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- keyboards: hig-img_keyboards: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_keyboards__014: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- labels: hig-img_labels: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- launching: hig-img_launching: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- layout: hig-img_layout: assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+- lists-and-tables: hig-img_lists-and-tables: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- live-activities: hig-img_live-activities: assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- live-photos: hig-img_live-photos: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- live-viewing-apps: hig-img_live-viewing-apps: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- loading: hig-img_loading: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- lockups: hig-img_lockups: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- mac-catalyst: hig-img_mac-catalyst: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- machine-learning: hig-img_machine-learning: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- managing-accounts: hig-img_managing-accounts: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- managing-notifications: hig-img_managing-notifications: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- maps: hig-img_maps: assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+- materials: hig-img_materials: assistido: 7 de 7 folhas abertas, todos os códigos conferidos; hig-vid_materials__015: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- menus: hig-img_menus: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- modality: hig-img_modality: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- motion: hig-img_motion: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- multitasking: hig-img_multitasking: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_multitasking__016: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- nearby-interactions: hig-img_nearby-interactions: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- nfc: hig-img_nfc: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- notifications: hig-img_notifications: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- offering-help: hig-img_offering-help: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- onboarding: hig-img_onboarding: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- ornaments: hig-img_ornaments: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- outline-views: hig-img_outline-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- page-controls: hig-img_page-controls: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- panels: hig-img_panels: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- path-controls: hig-img_path-controls: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- photo-editing: hig-img_photo-editing: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- pickers: hig-img_pickers: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- playing-audio: hig-img_playing-audio: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- playing-haptics: hig-img_playing-haptics: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__017: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__018: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__019: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__020: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__021: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__022: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__023: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__024: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__025: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__026: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__027: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__028: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__029: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__030: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__031: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__032: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__033: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_playing-haptics__034: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- playing-video: hig-img_playing-video: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- pointing-devices: hig-img_pointing-devices: assistido: 6 de 6 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__035: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__036: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__037: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__038: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__039: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_pointing-devices__040: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- pop-up-buttons: hig-img_pop-up-buttons: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- popovers: hig-img_popovers: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- printing: hig-img_printing: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- privacy: hig-img_privacy: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- progress-indicators: hig-img_progress-indicators: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- pull-down-buttons: hig-img_pull-down-buttons: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- rating-indicators: hig-img_rating-indicators: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- ratings-and-reviews: hig-img_ratings-and-reviews: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- remotes: hig-img_remotes: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- researchkit: hig-img_researchkit: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- right-to-left: hig-img_right-to-left: assistido: 12 de 12 folhas abertas, todos os códigos conferidos
+- scroll-views: hig-img_scroll-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_scroll-views__041: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- search-fields: hig-img_search-fields: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- searching: hig-img_searching: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- segmented-controls: hig-img_segmented-controls: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- settings: hig-img_settings: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- sf-symbols: hig-img_sf-symbols: assistido: 5 de 5 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__042: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__043: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__044: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__045: assistido: 3 de 3 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__046: assistido: 3 de 3 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__047: assistido: 3 de 3 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__048: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__049: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__050: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__051: assistido: 4 de 4 folhas abertas, todos os códigos conferidos; hig-vid_sf-symbols__052: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- shareplay: hig-img_shareplay: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- shazamkit: hig-img_shazamkit: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- sheets: hig-img_sheets: assistido: 5 de 5 folhas abertas, todos os códigos conferidos; hig-vid_sheets__053: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- sidebars: hig-img_sidebars: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- sign-in-with-apple: hig-img_sign-in-with-apple: assistido: 7 de 7 folhas abertas, todos os códigos conferidos
+- siri: hig-img_siri: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- sliders: hig-img_sliders: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- snippets: hig-img_snippets: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- spatial-layout: hig-img_spatial-layout: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_spatial-layout__054: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_spatial-layout__055: assistido: 1 de 1 folhas abertas, todos os códigos conferidos; hig-vid_spatial-layout__056: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_spatial-layout__057: assistido: 2 de 2 folhas abertas, todos os códigos conferidos; hig-vid_spatial-layout__058: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- split-views: hig-img_split-views: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- status-bars: hig-img_status-bars: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- steppers: hig-img_steppers: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- tab-bars: hig-img_tab-bars: assistido: 3 de 3 folhas abertas, todos os códigos conferidos; hig-vid_tab-bars__059: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- tab-views: hig-img_tab-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- tap-to-pay-on-iphone: hig-img_tap-to-pay-on-iphone: assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+- text-fields: hig-img_text-fields: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- text-views: hig-img_text-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- the-menu-bar: hig-img_the-menu-bar: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- toggles: hig-img_toggles: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- token-fields: hig-img_token-fields: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- toolbars: hig-img_toolbars: assistido: 6 de 6 folhas abertas, todos os códigos conferidos
+- top-shelf: hig-img_top-shelf: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- typography: hig-img_typography: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+- undo-and-redo: hig-img_undo-and-redo: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- virtual-keyboards: hig-img_virtual-keyboards: assistido: 5 de 5 folhas abertas, todos os códigos conferidos; hig-vid_virtual-keyboards__060: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- voiceover: hig-img_voiceover: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- wallet: hig-img_wallet: assistido: 14 de 14 folhas abertas, todos os códigos conferidos
+- watch-faces: hig-img_watch-faces: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- web-views: hig-img_web-views: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+- widgets: hig-img_widgets: assistido: 10 de 10 folhas abertas, todos os códigos conferidos
+- windows: hig-img_windows: assistido: 3 de 3 folhas abertas, todos os códigos conferidos
+- workouts: hig-img_workouts: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+- writing: hig-img_writing: assistido: 1 de 1 folhas abertas, todos os códigos conferidos

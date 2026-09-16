@@ -1,0 +1,70 @@
+[
+ {
+  "label": "onda13-001",
+  "items": [
+   {
+    "video_id": "wwdc2017_809",
+    "title": "Communication Between Designers and Engineers",
+    "from": 1,
+    "to": 8,
+    "total": 8,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2017_815",
+    "title": "How to Pick a Custom Font",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda13-002",
+  "items": [
+   {
+    "video_id": "wwdc2018_804",
+    "title": "The Life of a Button",
+    "from": 1,
+    "to": 23,
+    "total": 23,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda13-003",
+  "items": [
+   {
+    "video_id": "wwdc2018_806",
+    "title": "Designing Notifications",
+    "from": 1,
+    "to": 13,
+    "total": 26,
+    "transcript": "apple-transcript"
+   }
+  ]
+ },
+ {
+  "label": "onda13-004",
+  "items": [
+   {
+    "video_id": "wwdc2018_806",
+    "title": "Designing Notifications",
+    "from": 14,
+    "to": 26,
+    "total": 26,
+    "transcript": "apple-transcript"
+   },
+   {
+    "video_id": "wwdc2018_811",
+    "title": "Presenting Design Work",
+    "from": 1,
+    "to": 10,
+    "total": 10,
+    "transcript": "apple-transcript"
+   }
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+# HIG, página tap-to-pay-on-iphone: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_tap-to-pay-on-iphone: assistido: 5 de 5 folhas abertas, todos os códigos conferidos
+
+### hig-img_tap-to-pay-on-iphone · folha 0001 · código FE66B
+- img 1121 (clara), seção Tap to Pay on iPhone: fundo em gradiente azul com grade de linhas pontilhadas (retangulares e circulares) sobrepostas, um círculo escuro central com o símbolo de ondas de contactless. Confirma a descrição oficial: ilustração conceitual tintada de azul, funciona como abertura de seção, sem interface real.
+- img 1122 clara, seção Enabling Tap to Pay on iPhone: mockup de tela de app dentro de moldura de iPhone, título "Tap to Pay on iPhone. Now available.", texto curto explicativo, botão azul preenchido "Enable Tap to Pay on iPhone" e link de texto "Learn More" abaixo, com um placeholder de imagem cinza no rodapé. Mostra hierarquia clara: título, corpo, ação primária em botão de bloco cheio, ação secundária em link de texto.
+- img 1123 clara, seção Enabling Tap to Pay on iPhone: mesma moldura de iPhone, título "You're ready to use Tap to Pay on iPhone!", corpo explicando o que pode ser aceito, botão azul "Try a test transaction" e abaixo um link "Maybe Later", placeholder de imagem no rodapé. Reforça o padrão de par botão cheio mais link secundário visto na 1122.
+- img 1124 clara, seção Educating merchants: screenshot de tela de Settings do iOS com barra de navegação "Settings" à esquerda e título central "Tutorials", uma linha de lista com título em negrito "Get started with Tap to Pay on iPhone" e subtítulo cinza explicativo, seta de disclosure à direita. Mostra o padrão de célula de lista padrão do iOS com título, descrição e chevron.
+
+### hig-img_tap-to-pay-on-iphone · folha 0002 · código A5760
+- img 1125 clara, seção Educating merchants: screenshot de folha modal (sheet) com botão fechar (X) circular cinza no canto superior direito, rótulo pequeno em maiúsculas "GET STARTED WITH", título em negrito "Tap to Pay on iPhone", abaixo uma ilustração escura de iPhone mostrando "Hold Here to Pay" com um cartão laranja "Merchant's Name $17.25", seguido de texto instrucional numerado "1. Ask your customer to hold their card horizontally...". Mostra a estrutura de tutorial em sheet: cabeçalho, imagem demonstrativa dentro de moldura de aparelho, passos numerados.
+- img 1126 clara, seção Checking out: tela de checkout com barra de navegação "Back" à esquerda e título "Checkout", uma barra de progresso azul determinada logo abaixo da barra de navegação, texto "Preparing Tap to Pay on iPhone..." e valor grande "$17.25" centralizado. Construção: indicador de progresso linear fino colado à barra de navegação, valor monetário em destaque tipográfico grande.
+- img 1127 clara, seção Checking out: mesma tela de checkout, mesma disposição, mas a barra de progresso aparece cheia (estado indeterminado descrito no texto oficial, embora visualmente pareça uma barra cheia e não animada, coerente com o texto que fala de indicador indeterminado).
+- img 1128 clara, seção Checking out: ilustração isolada de um botão retangular azul de largura total com ícone de ondas contactless à esquerda e o texto "Tap to Pay on iPhone" centralizado, sem moldura de aparelho. Mostra o padrão correto do rótulo do botão, com ícone e texto alinhados horizontalmente dentro de uma pílula colorida.
+
+### hig-img_tap-to-pay-on-iphone · folha 0003 · código 901BE
+- img 1129 clara, seção Checking out: apenas um selo verde circular com marca de checagem branca, isolado sobre fundo branco, sem outro elemento. Serve como marcador de "uso correto" ao lado da imagem seguinte, não é uma tela de app.
+- img 1130 clara, seção Checking out: mesmo botão retangular azul de largura total, mas com o logo da Apple à esquerda em vez do ícone de ondas, texto "Tap to Pay on iPhone" centralizado. Ilustra o uso incorreto (uso do logo da Apple no lugar do símbolo de contactless).
+- img 1131 clara, seção Checking out: selo cinza circular com X branco, isolado, marcador de "uso incorreto" que acompanha a imagem 1130.
+- img 1132 clara, seção Displaying results: tela de checkout dentro de moldura de iPhone, título "Checkout" na barra de navegação, ícone de carregamento giratório cinza ao lado do texto "Authorizing", valor grande "$17.25" abaixo. Mostra o padrão de spinner mais rótulo textual para autorização, diferente da barra de progresso linear das telas de preparo (1126/1127).
+### hig-img_tap-to-pay-on-iphone · folha 0004 · código 207D4
+- img 1133 clara, seção Displaying results: tela de checkout com barra "Checkout" e "Done" no canto direito, selo verde de checagem centralizado, valor "$17.25", abaixo o texto "Select receipt option:" e três blocos retangulares cinza vazios empilhados (placeholders de botões de recibo). Mostra o padrão de resultado positivo: selo verde grande, seguido de opções secundárias em lista de botões neutros.
+- img 1134 clara, seção Displaying results: mesma estrutura de tela, mas com selo vermelho de X circular no lugar do verde; resto idêntico (valor, "Select receipt option:", três blocos cinza). Só a cor e o símbolo do selo mudam entre sucesso e recusa, o layout permanece igual.
+- img 1135 clara, seção Displaying results: tela de checkout com botão "Back" reaparecendo na barra de navegação, selo vermelho de X, texto "Payment not completed", valor "$17.25", seção "Select payment option:" com quatro botões empilhados, o primeiro "Tap to Pay on iPhone" em azul sólido (destacado) e os demais "Pay with X/Y/Z" em cinza. Mostra como o fluxo de recusa reoferece o método de pagamento em destaque para nova tentativa.
+- img 1136 clara, seção Additional interactions: botão retangular azul isolado com texto "Loyalty Card" centralizado, sem ícone, sem moldura de aparelho. Contraste com os botões de pagamento: aqui não há símbolo de ondas, só texto, para diferenciar visualmente a ação de fidelidade da ação de pagamento.
+
+### hig-img_tap-to-pay-on-iphone · folha 0005 · código FDC02
+- img 1137 clara, seção Additional interactions: botão retangular azul isolado com texto "Tap to Pay on iPhone - Loyalty" centralizado, sem ícone. Variante do botão de fidelidade que incorpora o nome do recurso ao rótulo, ainda sem símbolo gráfico, mantendo a mesma forma de pílula azul dos demais botões da página.
+
+## Síntese visual da página tap-to-pay-on-iphone
+- Botões de ação primária usam sempre uma pílula azul de largura total com texto branco centralizado; quando incluem ícone, o símbolo de ondas de contactless fica à esquerda do texto, nunca o logo da Apple (comparação certo/errado em img 1128 vs 1130, com selos verde/vermelho em img 1129 e 1131).
+- Telas de app são sempre mostradas dentro de moldura de iPhone cinza com barra de status "9:41", reforçando contexto real de uso (img 1122, 1123, 1126, 1127, 1132 a 1135).
+- Padrão de progresso em duas etapas: barra linear azul fina colada à barra de navegação durante "Preparing..." (img 1126, 1127) e depois spinner giratório com rótulo "Authorizing" (img 1132), sem barra.
+- Resultado da transação usa selo circular grande (verde com check para sucesso, vermelho com X para recusa) centralizado acima do valor, com opções secundárias como blocos de botão abaixo (img 1133, 1134, 1135).
+- Botões de ação secundária ou de outra natureza (fidelidade) reaproveitam a mesma forma de pílula azul mas variam o texto, sem o símbolo de ondas, para se diferenciar do botão principal de pagamento (img 1136, 1137).

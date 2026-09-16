@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__028 · folha 0001 · código 4689A
+- Quadros: estrutura igual à de 027: duas barras rosa seguidas de um bloco triangular denso de linhas azuis com cauda pontilhada. Em q001 o marcador de tempo está no início da primeira instância; em q002 está no fim dessa instância; em q003 aparece uma repetição inteira do mesmo desenho com o marcador de novo no fim.
+- Construção de interface: o desenho é visualmente quase idêntico ao de 027 (mesma proporção de pulsos e mesma largura de bloco denso), reforçando que a HIG reaproveita a mesma forma gráfica de "pulso duplo + vibração cheia decrescente" para os haptics Up e Down, variando o significado só pelo contexto textual, não pela forma visual.
+- Com a descrição oficial: a alt genérica confere; a imagem mostra que, diferente do que se poderia supor por "Down" ser o oposto de "Up", a forma de onda não é invertida nem visualmente distinta da de Up, é a mesma construção gráfica repetida.

@@ -1,0 +1,10 @@
+# HIG, página always-on: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_always-on: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_always-on · folha 0001 · código 0D14B
+- img 0052 (clara), seção Always On: sketch em azul escuro sobre fundo em degradê azul/roxo, mostrando um retângulo vertical de cantos arredondados (silhueta tipo relógio ou tela de smartphone) preenchido por um padrão de listras diagonais paralelas (hachurado), com um pequeno retângulo sólido a mais no canto superior esquerdo da forma, como uma coroa digital ou botão lateral. Grade circular e retangular pontilhada sobreposta, no mesmo estilo de construção das outras páginas (accessibility, action-button, airplay), aqui tingida de azul. Diverge do alt oficial, que descreve "um Apple Watch contendo uma pessoa correndo": na imagem, não é possível distinguir uma figura humana correndo dentro do retângulo, o que se vê é um preenchimento de linhas diagonais uniformes (hachura), sem contorno reconhecível de uma pessoa.
+
+## Síntese visual da página always-on
+- Como a página tem só uma ilustração, o padrão de construção geométrica (retângulo com cantos arredondados, grade pontilhada circular e retangular, tingimento monocromático em degradê) segue idêntico ao já visto nas outras páginas de ícone único (action-button, accessibility), mudando apenas a cor (azul) e a forma interna, aqui um preenchimento hachurado dentro da silhueta do relógio em vez de um pictograma figurativo nítido.

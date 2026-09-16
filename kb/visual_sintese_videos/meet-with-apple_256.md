@@ -1,0 +1,17 @@
+### O que as imagens mostram
+Base: 7 de 7 folhas de quadros vistas, todos os códigos conferidos.
+- Par de certo e errado para um problema técnico: dois telefones quase idênticos rotulados "Nested glass" e "No nested glass", cada um com uma imagem dentro de um cartão sobre a tela, tornando visível a dupla translucidez que a fala só descreve em palavras (folha 0004, q0034 e q0035).
+- Código real como prova de implementação: um bloco de Swift em editor escuro com sintaxe colorida, rotulado como modificador de view customizado, mostrado em dois quadros consecutivos com deslocamento de enquadramento (folha 0004, q0032).
+- Lista de aprendizados construída item a item, sempre com uma imagem de exemplo diferente ao lado: primeiro o item sobre vidro sobre vidro, depois o de padding e comportamento de layout, depois o de performance (folhas 0004 e 0005, q0034 a q0038).
+- Callouts que marcam onde o efeito foi e onde não foi aplicado na mesma tela: três etiquetas ligadas por linha apontam campo de busca no topo, controles do player e barra de navegação inferior, esta última nomeada como área sem o efeito (folha 0005, q0038).
+- Seta de anotação indicando o deslocamento de padding provocado pelo material, sobre um telefone que mostra o logotipo dentro de um contorno de vidro translúcido (folha 0005, q0037).
+- Decomposição de uma tela em componentes: uma miniatura de artigo recebe callouts com linha conectora para título, assinatura, imagem e parágrafo, materializando a consolidação de views que a fala trata em abstrato (folha 0002, q0017 e q0018).
+- Callouts de navegação em dois telefones lado a lado, apontando o topo e a base da tela, com uma régua vertical pontilhada entre eles que muda de posição entre quadros consecutivos (folha 0003, q0019 e q0020).
+- Mesma imagem de produto sustentando três mensagens diferentes: a composição de duas miniaturas de app permanece fixa enquanto só o texto do slide muda ao longo de três quadros, um por motivador citado (folha 0001, q0006 a q0008).
+- Layout de app de mídia visto em tela real: seções horizontais roláveis com título à esquerda e capas de programa com texto sobreposto, mais barra inferior de quatro itens rotulados (folha 0003, q0021).
+- Formato vertical em tela cheia para vídeo curto, com legenda sobreposta na parte superior da imagem, informação de local e data, controles e barra de progresso na base e ícone de áudio no canto (folha 0003, q0023).
+- Convenção diferente para a TV: menu horizontal no topo com cinco itens, imagem de destaque ocupando a maior parte da tela e texto com botão de ação ancorados na base (folha 0006, q0047).
+- Duas variações quase idênticas da mesma tela de artigo mostradas lado a lado, com a manchete e o corpo legíveis apenas no quadro em zoom (folha 0004, q0031).
+- Sistema de apresentação compartilhado pela série: o slide de título e o quadro de encerramento com o logo da Apple seguem o mesmo template dos outros vídeos do grupo (folhas 0001 e 0007, q0059).
+Proporção visual: todas as folhas de conteúdo trazem slide, captura de app ou código, intercalados com quadros do apresentador sozinho, e apenas a folha 0007 é majoritariamente apresentador e encerramento.
+Divergências ou limites registrados: na folha 0001 as notas hesitam sobre quem está em cena, registrando "a apresentadora (o apresentador)"; na folha 0002 o quarto ícone da fileira de papéis aparece sem legenda claramente visível; e na folha 0006 as notas marcam como suposição que um texto cortado seria parte de um agradecimento.

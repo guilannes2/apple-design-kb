@@ -1,0 +1,4 @@
+### hig-vid_playing-haptics__032 · folha 0001 · código 7BFAB
+- Quadros: aqui o padrão muda de novo: em vez de dois ou três pulsos antes da vibração, há apenas uma barra rosa fina isolada seguida diretamente do leque triangular azul que decai em cauda pontilhada. Em q001 o marcador está no início; em q002 está no fim, após a cauda; em q003 o mesmo desenho (um pulso + leque + cauda) se repete com o marcador de novo no fim.
+- Construção de interface: um único pulso inicial, sem repetição de barras, é o traço gráfico que diferencia esse haptic dos anteriores (que tinham dois ou três pulsos); a HIG usa a contagem de pulsos isolados como o principal sinal visual de identidade entre os diferentes haptics de watchOS.
+- Com a descrição oficial: a alt genérica não distingue quantidade de pulsos; a imagem mostra concretamente que esse haptic tem só um pulso de entrada, informação que só a inspeção visual revela.

@@ -1,0 +1,13 @@
+# HIG, página status-bars: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_status-bars: assistido: 1 de 1 folhas abertas, todos os códigos conferidos
+
+### hig-img_status-bars · folha 0001 · código 8D8F9
+- img 1104 (clara), seção Status bars: ilustração de abertura em gradiente laranja para vermelho, mostrando os elementos típicos de uma status bar de iPhone ampliados: a hora "9:41" à esquerda, e à direita três ícones (barras de sinal celular, símbolo de Wi-Fi, ícone de bateria cheia). Cada elemento tem uma linha vertical fina descendo até um rótulo explicativo: "9:41 AM PST / Cupertino" sob a hora, "Cellular / Full Bars" sob o sinal, "Wi-fi / Full Strength" sob o ícone de Wi-Fi (a linha do Wi-Fi é a mais longa, cruzando por baixo do rótulo de celular) e "Battery / 100%" sob o ícone de bateria. É uma peça pedagógica que nomeia cada ícone da status bar, não uma captura de tela real.
+- img 1105 (clara), seção Best practices, legenda "The Photos app with the status bar visible": screenshot real de iPhone mostrando o app Fotos com uma foto de palmeiras Joshua Tree contra um céu azul ocupando a tela. No topo, sobre a foto, a status bar permanece visível com "9:41" à esquerda e os ícones de sinal, Wi-Fi e bateria à direita; abaixo dela, uma barra de navegação translúcida mostra um botão de voltar (seta) à esquerda, a data e hora da foto ("February 17, 2025 / 1:46PM") ao centro, e um botão de mais opções (três pontos) à direita.
+- img 1106 (clara), seção Best practices, legenda "The Photos app with the status bar hidden": mesma foto de palmeiras e mesmo enquadramento, mas agora sem nenhuma barra sobreposta, nem status bar, nem barra de navegação. A imagem da paisagem ocupa o quadro inteiro sem nenhuma informação de sistema visível, tornando explícita a comparação lado a lado com a imagem anterior.
+
+## Síntese visual da página status-bars
+- A página abre nomeando cada ícone padrão da status bar (relógio, sinal celular, Wi-Fi, bateria) com linhas de chamada, uma convenção didática que aparece em várias páginas do HIG (img 1104).
+- A recomendação de ocultar a status bar em mídia em tela cheia é demonstrada por um par de screenshots quase idênticos do mesmo app e da mesma imagem, variando apenas a presença ou ausência da status bar e da barra de navegação sobre a foto, sem usar os selos de X/check vistos em outras páginas (img 1105, img 1106).

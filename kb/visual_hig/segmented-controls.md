@@ -1,0 +1,20 @@
+# HIG, página segmented-controls: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_segmented-controls: assistido: 2 de 2 folhas abertas, todos os códigos conferidos
+
+### hig-img_segmented-controls · folha 0001 · código 5A000
+- img 0995 (clara), seção Segmented controls: ilustração estilizada em vermelho de um controle segmentado com três segmentos rotulados "Label" (o primeiro selecionado, em fundo claro), com setas de medida horizontal acima marcando a largura total e uma marca vertical à direita indicando a altura; uma seta pequena aponta para cima logo abaixo do primeiro segmento, como se indicasse o ponto de toque. Funciona como diagrama de especificação de proporções do componente, no mesmo estilo do campo de busca (img 0983) e outras aberturas de seção.
+- img 0996 (clara), seção Segmented controls, legenda "Single choice": captura parcial de um controle segmentado com quatro ícones de alinhamento de texto (esquerda, centro, direita, justificado); o segundo ícone (alinhamento central) está destacado em azul sólido com o glifo em branco, os demais permanecem em cinza sobre fundo branco. Uma linha divisória vertical fina separa o terceiro segmento do quarto, sugerindo um agrupamento ligeiramente diferente para o último ícone.
+- img 0997 (clara), seção Segmented controls, legenda "Multiple choices": controle segmentado com quatro opções de formatação de texto (B, I, U, S); três primeiras (negrito, itálico, sublinhado) aparecem preenchidas em azul com o glifo branco, indicando seleção simultânea, enquanto a quarta (tachado) permanece em fundo branco não selecionada. Mostra visualmente que em macOS mais de um segmento pode ficar ativo ao mesmo tempo.
+- img 0998 (clara), seção Best practices: captura de tela do app Saúde (iOS) na aba Activity, com um controle segmentado de cinco opções (D, W, M, 6M, Y) logo abaixo do cabeçalho; o segmento "D" está selecionado (fundo branco elevado sobre fundo cinza), controlando o período mostrado nos gráficos de Move e Exercise abaixo.
+
+### hig-img_segmented-controls · folha 0002 · código F6566
+- img 0999 (clara), seção iOS, iPadOS: captura de tela do sheet "New Event" do app Calendário no iPhone, com um controle segmentado de dois segmentos ("Event" selecionado em branco elevado, "Reminder" não selecionado) logo abaixo do cabeçalho com botões de fechar (X) e confirmar (check vermelho); abaixo do controle aparecem os campos de all-day, Starts, Ends e Travel Time específicos do modo Event.
+- img 1000 (clara), seção macOS: captura de tela do app Calendário no Mac, com chamadas de texto identificando dois componentes: "Segmented control" apontando para um controle de dois segmentos na barra lateral ("New" selecionado em vermelho, "Replied" não selecionado) usado para filtrar convites; e "Tab view" apontando para um conjunto de quatro abas (Day, Week, Month, Year) no canto superior direito da janela principal, com "Month" selecionado mostrando o calendário anual de 2025 em grade de doze meses.
+
+## Síntese visual da página segmented-controls
+- A ilustração de abertura (img 0995) e o diagrama de medidas seguem o mesmo padrão de anotação das outras páginas do HIG: setas horizontais/verticais indicando largura e altura do componente, cor de destaque ligada ao logo de seis cores.
+- Estado de seleção é sempre mostrado por preenchimento sólido azul (ou vermelho, no caso do macOS) com glifo/texto em branco sobre o segmento ativo, contra fundo branco ou cinza claro nos segmentos inativos; não há uso de bordas ou sublinhados para indicar seleção.
+- A diferença entre escolha única (img 0996, um segmento ativo por vez) e múltipla escolha (img 0997, vários segmentos ativos simultaneamente) é mostrada lado a lado com o mesmo estilo visual de controle, mudando apenas a quantidade de segmentos preenchidos em azul.
+- Exemplos de uso real (imgs 0998, 0999, 1000) sempre inserem o controle segmentado dentro de uma tela de aplicativo real e completa (Saúde, Calendário), em vez de isolado, e no caso do macOS (img 1000) usam chamadas de texto para diferenciar explicitamente um controle segmentado de um componente parecido mas distinto, a tab view.

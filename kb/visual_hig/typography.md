@@ -1,0 +1,33 @@
+# HIG, página typography: o que as ilustrações e vídeos mostram
+
+Status visual:
+- hig-img_typography: assistido: 4 de 4 folhas abertas, todos os códigos conferidos
+
+### hig-img_typography · folha 0001 · código 57C7A
+- img 1192 (clara), seção Typography: um A minúsculo pequeno à esquerda e um A maiúsculo grande à direita, em marrom escuro sobre fundo amarelo mostarda. A ilustração está sobreposta por linhas de grade retangulares e um círculo grande centrado no A grande, com linhas tracejadas verticais e horizontais marcando alinhamentos e proporções entre as duas letras, coerente com a legenda oficial de "hierarquia via tipografia". A cor amarela cobre a imagem inteira, não é um detalhe pontual.
+- img 1193 (clara), seção Ensuring legibility: screenshot de jogo em iPhone (paisagem) mostrando um robozinho e três canteiros de plantas (Coffeeberry, Poppy, Yucca) sobre fundo lilás/rosa gradiente; nomes das plantas aparecem em texto pequeno sem fundo visível, e um cartão "Plants Recorded 0/3" e dois ícones (engrenagem, mala) no canto superior direito. Confirma a descrição oficial de texto pequeno demais e nomes sem fundo.
+- img 1194 (clara), seção Ensuring legibility: mesma cena de jogo, mesmo ângulo e mesmas três plantas, mas agora os nomes das plantas aparecem dentro de cápsulas (pílulas) com fundo cinza translúcido, em texto maior; o cartão "Plants Recorded 0/3" também com texto maior. É a versão corrigida da img 1193, lado a lado mostrando o antes e depois do mesmo layout.
+- img 1195 (clara), seção Using system fonts: a frase "The quick brown fox jumps over the lazy dog." em preto sobre fundo branco, com duas linhas-guia horizontais azul-claras acima e abaixo do texto marcando a caixa alta e a linha de base, na fonte San Francisco Pro.
+
+### hig-img_typography · folha 0002 · código 075A9
+- img 1196 (clara), seção Using system fonts: a mesma frase pangrama em fonte serifada (New York), também com duas linhas-guia horizontais azuis marcando altura de caixa e linha de base, para comparação direta com a SF Pro da folha anterior.
+- img 1197 (clara), seção Using system fonts: tabela/grade com a palavra "Text" repetida em 2 linhas por 9 colunas: linha "Upright" e linha "Italics", colunas de peso indo de Ultralight a Black (Ultralight, Thin, Light, Regular, Medium, Semibold, Bold, Heavy, Black). Grade tipográfica pura, sem imagens de UI, mostrando a progressão de peso e o itálico correspondente lado a lado.
+- img 1198 (clara), seção Using system fonts: screenshot de iPhone da caixa de entrada do Mail, com quatro rótulos externos ("Large title", "Title", "Body text", "Subtitle") ligados por linhas retas a elementos específicos da tela: "Large title" aponta para "Inbox", "Title" aponta para o nome do remetente ("Leticia Ibarra"), "Body text" aponta para o preview do corpo do e-mail, "Subtitle" aponta para o assunto ("Invite edits"). É um diagrama anotado sobre uma screenshot real, não apenas uma screenshot simples.
+- img 1199 (clara), seção Supporting Dynamic Type: screenshot de uma mensagem de Mail em iPhone em tamanho de fonte padrão: cabeçalho com foto/iniciais do remetente à esquerda, nome e data na linha de cima, destinatário e clipe de anexo na linha de baixo, assunto em negrito ("New hiking trail"), corpo com quatro linhas de texto e o endereço "Muir Woods National Monument" ao final, junto com ícones de lixeira, pasta, resposta e composição no rodapé.
+
+### hig-img_typography · folha 0003 · código AB651
+- img 1200 (clara), seção Supporting Dynamic Type: mesma tela de Mail da img 1199, mas com o tamanho de fonte de acessibilidade máximo: agora o nome do remetente ocupa duas linhas ("Orkun Kucuk-sevim"), o destinatário e a data ficam em linhas separadas, o assunto "New hiking trail" quebra em duas linhas grandes, e do corpo do e-mail só cabem "Hello Danny," e o início de "We found a new trail when we were exploring" antes de a tela cortar; os ícones de rodapé (lixeira, pasta, resposta) ficam sobrepostos ao texto por falta de espaço. Mostra concretamente o efeito do Dynamic Type extremo empurrando conteúdo para fora da tela.
+- img 1201 (clara), seção visionOS: renderização 3D de uma sala (sofá cinza, mesa de centro, escrivaninha de madeira com iPad, quadro com planta na parede) com uma janela translúcida arredondada flutuando à frente mostrando a palavra "hello" em serifa branca, texto plano (2D), lido de frente, nítido.
+- img 1202 (clara), seção visionOS: apenas um ícone de check (v) branco dentro de um círculo verde, centralizado em fundo branco, sem nenhum outro elemento. Marca de uso correto isolada, sem estar sobreposta a nenhuma imagem de exemplo nesta folha.
+- img 1203 (clara), seção visionOS: mesma cena 3D da sala da img 1201, mesma janela translúcida, mas agora a palavra "hello" aparece com profundidade 3D visível (as letras têm espessura e projetam sombra/volume, ficando visualmente mais confusas e sobrepostas entre si) na mesma posição da versão 2D.
+
+### hig-img_typography · folha 0004 · código 0C2B7
+- img 1204 (clara), seção visionOS: apenas um ícone de X branco dentro de um círculo cinza, centralizado em fundo branco, sem nenhuma outra imagem ao lado (esta folha só traz este quadrante preenchido). Marca de uso incorreto isolada, complementando o par correto/incorreto das imagens 1201 a 1203 desta mesma seção.
+
+## Síntese visual da página typography
+- A Apple usa uma mesma frase pangrama ("The quick brown fox...") com linhas-guia horizontais azul-claras marcando caixa alta e linha de base para comparar SF Pro e New York lado a lado (img 1195, img 1196).
+- Tabelas de peso tipográfico são organizadas em grade dupla (upright/italic nas linhas, peso nas colunas) usando a mesma palavra repetida, sem qualquer UI de app, só tipografia pura (img 1197).
+- Hierarquia de texto em telas reais é ensinada com rótulos externos e linhas apontando para elementos específicos de uma screenshot real de app (Mail), nomeando o texto style de cada elemento (img 1198).
+- Pares de antes/depois no mesmo layout de jogo mostram como aumentar o tamanho do texto e adicionar fundo (pílula) resolve legibilidade, mantendo composição, ângulo de câmera e paleta idênticos entre as duas imagens (img 1193 e img 1194).
+- Dynamic Type é demonstrado com a mesma tela de e-mail em dois extremos de tamanho de fonte, mostrando como o layout se reorganiza (nome quebra linha, corpo é cortado, ícones se sobrepõem) em vez de apenas descrever o comportamento (img 1199 e img 1200).
+- Em visionOS, o certo e o errado do texto (2D vs 3D) usam a mesma cena 3D de sala e a mesma janela translúcida, variando só a profundidade do texto "hello", e são reforçados por marcas separadas de check verde e X cinza em telas isoladas (img 1201, img 1202, img 1203, img 1204).

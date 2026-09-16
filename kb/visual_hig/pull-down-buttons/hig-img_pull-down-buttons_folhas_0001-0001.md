@@ -1,0 +1,10 @@
+### hig-img_pull-down-buttons · folha 0001 · código 98C4F
+
+- img 0915 (clara), seção Pull-down buttons: ilustração estilizada sobre degradê laranja para vermelho, mesmo padrão visual do pop-up button (retângulo tracejado com itens "Item" empilhados, um deles destacado num bloco branco sólido com cursor de texto e um chevron simples apontando para baixo em vez do controle de seta dupla), com setas de medida marcando largura e altura do menu. A diferença chave em relação ao ícone de pop-up button é o controle à direita do item selecionado: aqui é só um chevron para baixo (não seta dupla), reforçando que o pull-down button abre uma lista sem indicar "seleção atual" da mesma forma.
+- img 0916 (clara), seção iOS, iPadOS: screenshot real do app Notes no iPhone, aberto na nota "Nature Walks" com ilustrações desenhadas à mão de folhas de plantas e anotações manuscritas. A barra superior traz um botão de voltar, um ícone de compartilhar e um botão "More" (três pontos) na borda direita. Mostra o estado fechado do botão More.
+- img 0917 (clara), seção iOS, iPadOS: mesma nota "Nature Walks", agora com o botão More expandido: um menu em cartão branco com sombra mostra, no topo, três ações rápidas em ícones lado a lado (Scan, Pin Note, Lock) e abaixo uma lista vertical de itens de menu com ícone à esquerda (Find in Note, Move Note, Recent Notes com seta de submenu, Math Results com texto secundário "Suggest Results", Lines and Grids, Attachment View com seta de submenu) e, separado por uma linha, "Delete" em vermelho no final. O menu cobre parte do conteúdo da nota abaixo dele.
+
+## Síntese visual da página pull-down-buttons
+
+- O pull-down button se diferencia do pop-up button na própria ilustração conceitual pelo tipo de indicador (chevron simples versus seta dupla), sinalizando que ele expõe uma lista de ações e não uma seleção de valor único.
+- O botão "More" real, em uso, mistura dois formatos de item no mesmo menu: uma linha de ícones lado a lado para ações rápidas favoritas no topo, e uma lista vertical padrão com ícone à esquerda para o restante, terminando com uma ação destrutiva ("Delete") isolada por um separador e em vermelho (img 0917).

@@ -1,0 +1,238 @@
+[
+ {
+  "label": "int-vid-b2-01",
+  "videos": [
+   {
+    "video_id": "wwdc2023_10197",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10072",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10115",
+    "group_file": "13_wwdc2023.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-02",
+  "videos": [
+   {
+    "video_id": "wwdc2023_10073",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10075",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10309",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10258",
+    "group_file": "13_wwdc2023.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-03",
+  "videos": [
+   {
+    "video_id": "wwdc2023_10194",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10193",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10229",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10271",
+    "group_file": "13_wwdc2023.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-04",
+  "videos": [
+   {
+    "video_id": "wwdc2023_10026",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10257",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10138",
+    "group_file": "13_wwdc2023.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-05",
+  "videos": [
+   {
+    "video_id": "wwdc2023_10076",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2023_10078",
+    "group_file": "13_wwdc2023.md"
+   },
+   {
+    "video_id": "wwdc2024_10147",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10112",
+    "group_file": "14_wwdc2024.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-06",
+  "videos": [
+   {
+    "video_id": "wwdc2024_10116",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10085",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10145",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10086",
+    "group_file": "14_wwdc2024.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-07",
+  "videos": [
+   {
+    "video_id": "wwdc2024_10087",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10098",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10176",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10094",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10188",
+    "group_file": "14_wwdc2024.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-08",
+  "videos": [
+   {
+    "video_id": "wwdc2024_10096",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10152",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2024_10151",
+    "group_file": "14_wwdc2024.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-09",
+  "videos": [
+   {
+    "video_id": "wwdc2024_10140",
+    "group_file": "14_wwdc2024.md"
+   },
+   {
+    "video_id": "wwdc2026_322",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_252",
+    "group_file": "17_wwdc2026.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-10",
+  "videos": [
+   {
+    "video_id": "wwdc2026_227",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_315",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_292",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_290",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_314",
+    "group_file": "17_wwdc2026.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-11",
+  "videos": [
+   {
+    "video_id": "wwdc2026_269",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_234",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_321",
+    "group_file": "17_wwdc2026.md"
+   }
+  ]
+ },
+ {
+  "label": "int-vid-b2-12",
+  "videos": [
+   {
+    "video_id": "wwdc2026_250",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_251",
+    "group_file": "17_wwdc2026.md"
+   },
+   {
+    "video_id": "wwdc2026_8012",
+    "group_file": "17_wwdc2026.md"
+   }
+  ]
+ }
+]

@@ -1,0 +1,5 @@
+### hig-img_designing-for-ipados · folha 0001 · código EC714
+- img 0435 (clara), seção Designing for iPadOS: mesmo tratamento visual da folha de iOS, retângulo de cantos arredondados em degradê verde com grade pontilhada e círculo guia central. Dentro, em traço verde escuro, o desenho estilizado de um iPad: um retângulo horizontal de cantos arredondados (moldura do aparelho) com uma barra curta horizontal próxima à borda inferior, representando o indicador de home. O contorno do iPad também está inscrito dentro do círculo guia da grade, com o centro do aparelho coincidindo com o cruzamento das linhas. A proporção do retângulo do iPad é mais próxima do quadrado que a do iPhone da folha anterior, refletindo a diferença real de formato entre os dois aparelhos. Sem texto sobreposto além do rótulo técnico.
+
+## Síntese visual da página designing-for-ipados
+- Repete o mesmo padrão de construção da folha de iOS: ícone do aparelho inscrito num círculo guia sobre grade retangular pontilhada, com a diferença de proporção (mais largo, menos alongado) refletindo a forma real do iPad frente ao iPhone (img 0435).
