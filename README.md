@@ -254,21 +254,6 @@ Para cada vídeo e cada página com imagem, um agente escreveu a síntese do que
 
 As sínteses entraram nos cartões, e cada cartão passou a dizer quantas folhas foram vistas. Catorze agentes extraíram os padrões recorrentes das 333 sínteses, um consolidou tudo no capítulo "O que só as imagens mostram" e um verificador conferiu os 60 itens, corrigindo 20 deles.
 
-### 8. Correções de honestidade ao longo do caminho
-
-Três erros meus foram encontrados e corrigidos, e o relatório registra cada um. Nove vídeos estavam sem cartão próprio ou com cartão vazio, porque a checagem de cobertura procurava o id em qualquer lugar do arquivo em vez de exigir um título próprio. As durações registradas na coleta estavam associadas ao vídeo vizinho, e foram refeitas medindo os arquivos, que conferem com o servidor da Apple. E a seção de limites da essência ainda dizia que as imagens não tinham sido vistas depois que já tinham.
-
-### 9. Limpeza
-
-Ao fim, 22 GB de vídeo e 1,1 GB de folhas e ilustrações foram apagados. Ficaram o texto, as notas do que foi visto, as sínteses, os registros e as verificações.
-
-## O que a base não faz
-
-- Não é uma leitura quadro a quadro literal. A amostragem é por mudança de cena, com um quadro a cada 12 segundos no mínimo. Um efeito rápido demais pode não aparecer entre dois quadros, e onde isso aconteceu a nota diz.
-- Treze vídeos não têm arquivo nem transcrição no site e ficaram apenas listados.
-- Movimento contínuo aparece como diferença entre quadros parados, e as notas escrevem assim.
-- O conteúdo da Apple está parafraseado. Citações literais têm no máximo 15 palavras. Os textos integrais e a mídia não fazem parte deste repositório.
-
 ## Estrutura
 
 <img src="docs/assets/mapa_base.png" alt="Mapa da base: essência ao centro, HIG e vídeos ao lado, sínteses, notas e skill abaixo" width="100%">
