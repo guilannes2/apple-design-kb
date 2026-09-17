@@ -29,7 +29,7 @@ SKILL=~/Downloads/apple-design-kb/skills/apple-design
 4. Aplique o sistema. `sistema.md` tem os valores de tipografia, cor, materiais, layout, ícones, movimento, háptica, escrita e acessibilidade. São os únicos números que você pode usar sem pesquisar.
 5. Escreva como parte do design. Botões com verbo específico, mensagens de erro perto do problema e sem culpa, estados vazios com o próximo passo. Tudo em `sistema.md`, seção de escrita.
 6. Revise com o checklist. Responda às 38 perguntas de `checklist.md`. Qualquer "não" é bloqueio, não observação.
-7. Entregue com a tabela de conformidade. Toda entrega termina com uma tabela de três colunas: decisão, fonte, situação. Situação é "conforme", "adaptação" ou "inferência".
+7. Entregue com a tabela de conformidade. Toda entrega termina com uma tabela de três colunas: decisão, fonte, situação. "Conforme" é a decisão que a fonte citada sustenta do jeito que está escrita. "Adaptação" é o equivalente mais próximo numa plataforma que não é da Apple. "Inferência" é o que você derivou dos princípios sem que uma fonte diga aquilo, e inclui todo desvio de um exemplo da própria Apple. A fonte citada tem que dizer o que a linha afirma. Se ela diz outra coisa, ou o contrário, a linha é inferência e explica a diferença.
 
 ## Protocolo de pesquisa
 
@@ -48,6 +48,7 @@ Use as ferramentas de busca e leitura da web que a sua sessão oferece. Cite a U
 - Sessão: `vid wwdc2025_219`, e a folha quando a afirmação vier dos quadros: `vid wwdc2025_219 folha 0007`.
 - Ilustração: `hig layout img 0686`.
 - Pesquisa feita na hora: a URL completa e a data.
+- Quando uma frase leva duas fontes, cada uma tem que sustentar a frase sozinha. Se só uma sustenta, cite só essa.
 
 ## Arquivos desta pasta
 
@@ -74,5 +75,6 @@ Use as ferramentas de busca e leitura da web que a sua sessão oferece. Cite a U
 
 - A base parafraseia a Apple. Citação literal tem no máximo 15 palavras.
 - Um número dito numa fala não é diretriz. Os cartões marcam a origem, e você repete a marca.
+- Um número vale só para a plataforma e o contexto em que o cartão o dá. Um valor de iPadOS não passa para o iPhone, nem o de um componente para outro.
 - Quando a base registra dois valores para a mesma coisa, apresente os dois com a origem de cada um.
 - Os quadros foram lidos por amostragem, um a cada mudança de cena e pelo menos um a cada 12 segundos. Quando a nota diz que não deu para ver, é isso que você diz.

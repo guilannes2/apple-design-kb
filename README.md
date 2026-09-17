@@ -1,8 +1,31 @@
 # Apple Design KB
 
+<img src="docs/assets/capa.png" alt="Apple Design KB" width="100%">
+
+> **In English:** a knowledge base on how Apple thinks, designs and builds interfaces, distilled from Apple's own published material: the 173 pages of the Human Interface Guidelines and the 188 design sessions at developer.apple.com/design, including what appears on screen in those videos and in the illustrations. It ships with a skill that locks a language model inside Apple's design system: nothing from outside gets in, nothing is invented, no Apple rule gets broken. The base is in Portuguese; every card links to its Apple source.
+
 Uma base de conhecimento sobre como a Apple pensa, desenha e constrói interfaces, destilada da própria Apple: as 173 páginas das Human Interface Guidelines e os 188 vídeos de design publicados em developer.apple.com/design, incluindo o que aparece na tela desses vídeos e nas ilustrações das diretrizes. Vem com uma skill que tranca o modelo de linguagem dentro desse design system: nada de fora entra, nada é inventado, e nenhuma regra da Apple é quebrada.
 
 A base está em português. Ela existe para ser usada por pessoas e por agentes de IA que precisem desenhar, revisar ou construir uma interface no padrão da Apple, com a fonte de cada afirmação indicada.
+
+<p>
+<img src="docs/assets/badge_videos.svg" height="72" alt="175 vídeos assistidos por inteiro">
+<img src="docs/assets/badge_horas.svg" height="72" alt="63,3 horas de vídeo em 26.869 quadros">
+<img src="docs/assets/badge_folhas.svg" height="72" alt="3.624 folhas conferidas">
+<img src="docs/assets/badge_erros.svg" height="72" alt="0 códigos errados">
+<img src="docs/assets/badge_sinteses.svg" height="72" alt="333 sínteses visuais">
+</p>
+
+## Fontes
+
+Tudo aqui foi destilado de material que a Apple publica em aberto:
+
+- Apple Design, a página de entrada: https://developer.apple.com/design/
+- Human Interface Guidelines, as 173 páginas: https://developer.apple.com/design/human-interface-guidelines/
+- As sessões de design em vídeo, com transcrição oficial: https://developer.apple.com/videos/design/
+- Apple Design Resources, os kits de interface citados nas sessões: https://developer.apple.com/design/resources/
+
+Cada cartão em `kb/hig/` e `kb/videos/` traz a URL exata da página ou da sessão de origem na linha "Fonte". A lista completa, com id, título, URL e duração de cada vídeo, está em `catalogo_videos.json`, e a das páginas em `catalogo_hig.json`.
 
 ## Para que serve
 
@@ -12,6 +35,67 @@ Você instala a skill no modelo de linguagem com que trabalha e passa a construi
 2. Proibido inventar. Sem resposta na base, o modelo pesquisa nas páginas da própria Apple e cita a URL. Sem resultado, ele diz que a Apple não publica regra sobre aquilo e marca a proposta como inferência.
 3. Nunca quebrar uma regra da Apple. Antes de entregar, toda tela passa por um checklist de 38 perguntas e por uma lista de 37 anti-padrões que a Apple condena. O modelo não implementa pedido que viola uma regra: mostra a regra, cita a fonte e oferece a alternativa da Apple.
 4. Toda decisão tem fonte. Cada componente, valor e comportamento vem com a página das diretrizes ou a sessão que o sustenta, e a entrega termina com uma tabela de conformidade.
+
+## A skill em ação
+
+O pedido foi este, literal:
+
+> Use a skill apple-design. Estou fazendo um app de receitas para iPhone em SwiftUI. Coloque um menu hambúrguer no canto superior esquerdo com as seções Receitas, Favoritos, Lista de compras e Perfil, e deixe a navegação escondida ali para a tela ficar limpa. Me entregue o código da navegação.
+
+Quem respondeu foi um agente do Claude Code com a skill instalada, que recebeu como pedido só esse texto. Ele rodou no ambiente de Claude Code do autor, com as instruções globais dele carregadas, então outra instalação pode responder de forma diferente. O GIF abaixo é uma renderização da resposta em formato de terminal, sem cortes. O único ajuste foi trocar o caminho local do arquivo Swift pelo caminho dele neste repositório. A resposta completa está em [`docs/exemplo/resposta.md`](docs/exemplo/resposta.md) e o código em [`docs/exemplo/RootView.swift`](docs/exemplo/RootView.swift).
+
+<img src="docs/assets/demo_skill.gif" alt="Renderização da resposta da skill, que recusa o menu hambúrguer e entrega a tab bar" width="100%">
+
+A skill não implementou o menu. Ela apontou o anti-padrão 1 da lista, citou as três sessões da base em que a Apple trata do hambúrguer e resolveu o que o pedido queria de fato, a tela limpa, com a tab bar que flutua sobre o conteúdo e se recolhe ao rolar. "Lista de compras" virou "Compras" pela regra do rótulo de uma palavra, e a própria resposta marcou essa escolha como inferência, porque a página pede palavra única e não nomeia esse caso.
+
+### O que saiu dessa conversa
+
+<p align="center"><img src="docs/assets/exemplo_panela.png" alt="Ilustração da tela de receitas no iPhone com tab bar flutuante de quatro abas" width="360"></p>
+
+A tela acima é uma ilustração gerada por IA do resultado esperado, feita a partir da descrição do código. Não é uma captura do código rodando, nem uma captura da Apple ou de um app publicado.
+
+```swift
+struct RootView: View {
+    var body: some View {
+        TabView {
+            Tab("Receitas", systemImage: "book.fill") { RecipesTab() }
+            Tab("Favoritos", systemImage: "heart.fill") { FavoritesTab() }
+            Tab("Compras", systemImage: "cart.fill") { ShoppingListTab() }
+            Tab("Perfil", systemImage: "person.crop.circle.fill") { ProfileTab() }
+        }
+        .tabBarMinimizeBehavior(.onScrollDown)
+    }
+}
+```
+
+O arquivo completo tem 191 linhas e passa no `swiftc -typecheck` contra o SDK do iOS 26.5. Esse resultado foi conferido de novo fora do agente, com o mesmo compilador, SDK e target.
+
+Toda entrega termina com a tabela de conformidade. Esta é a da resposta, sem alteração:
+
+| Decisão | Fonte | Situação |
+|---|---|---|
+| Recusar o menu hambúrguer | `vid wwdc2021_10126`; `vid wwdc2017_802`; `vid wwdc2025_359` | conforme |
+| Tab bar com as 4 seções de nível superior | `hig tab-bars` | conforme |
+| Tab bar sempre visível, nunca desabilitada | `hig tab-bars` | conforme |
+| `NavigationStack` por aba, estado preservado | `hig tab-bars` | conforme |
+| `tabBarMinimizeBehavior(.onScrollDown)` para a tela limpa | `hig tab-bars`; `vid wwdc2025_323` | conforme |
+| Ação "Nova receita" na toolbar, fora da tab bar | `hig tab-bars`; `vid wwdc2025_359` | conforme |
+| Título de navegação como resposta a "onde estou" | `vid wwdc2025_359` | conforme |
+| Rótulos de uma palavra, símbolos preenchidos | `hig tab-bars` | conforme |
+| `ContentUnavailableView` nas seções vazias | `hig tab-bars`; `vid wwdc2025_359` | conforme |
+| Cores semânticas do sistema, nada fixo no código | `vid wwdc2025_359` | conforme |
+| "Compras" como rótulo curto de "Lista de compras" | `hig tab-bars` pede palavra única, não nomeia este caso | inferência |
+
+### O que a nossa checagem achou nessa resposta
+
+A resposta passou pelo mesmo tratamento do resto da base: dois agentes céticos tentaram refutar cada afirmação contra os cartões e contra o arquivo Swift. De 45 afirmações, 33 se sustentaram. Quatro dos problemas foram conferidos de novo direto nos arquivos e ficam registrados aqui, porque a resposta acima está publicada sem correção:
+
+- Em "o piso de conforto é cinco abas ou menos", o número está mal aplicado. A página de tab bars dá esse número para a tab bar customizável do iPadOS, não para o iPhone. Quatro abas não contrariam a base, mas o número não vale para este caso.
+- A minimização da tab bar ao rolar aparece com duas fontes, `hig tab-bars` e `vid wwdc2025_323`. Só a sessão sustenta a frase. A página das diretrizes descreve a minimização apenas para tab bar com acessório anexado.
+- O estado vazio com próximo passo está citado em `vid wwdc2025_359`. A fonte certa na base é `hig writing`.
+- A resposta fala em oito nomes de SF Symbols conferidos. O arquivo tem sete.
+
+Dois desses achados viraram regra na skill depois dessa rodada: um número vale só para a plataforma e o contexto em que a fonte o dá, e numa citação dupla cada fonte tem que sustentar a frase sozinha.
 
 ## Instalar
 
@@ -41,6 +125,24 @@ ChatGPT, Gemini, Claude no navegador ou qualquer modelo sem acesso a arquivos. C
 
 Treze princípios de primeira ordem. Propósito antes de tudo. O conteúdo em primeiro lugar, com a interface e a marca cedendo. Familiaridade e consistência, com o componente do sistema como padrão e o customizado como exceção justificada. Clareza e simplicidade, que não são minimalismo. Agência, perdão e controle nas mãos da pessoa. Feedback imediato e causal. Responsabilidade com privacidade e dados mínimos. Flexibilidade e inclusão desde o primeiro rascunho. O corpo, o contexto e o dispositivo como régua. Craft, ou seja, nada é aleatório. Deleite como soma, não como decoração. Moderação, porque interrupção, cor, efeito e som são créditos escassos. Honestidade de estado e de linguagem.
 
+### Os treze princípios, em cartões
+
+<p>
+<img src="docs/assets/principios/01.png" width="24%" alt="Princípio 1 de 13">
+<img src="docs/assets/principios/02.png" width="24%" alt="Princípio 2 de 13">
+<img src="docs/assets/principios/03.png" width="24%" alt="Princípio 3 de 13">
+<img src="docs/assets/principios/04.png" width="24%" alt="Princípio 4 de 13">
+<img src="docs/assets/principios/05.png" width="24%" alt="Princípio 5 de 13">
+<img src="docs/assets/principios/06.png" width="24%" alt="Princípio 6 de 13">
+<img src="docs/assets/principios/07.png" width="24%" alt="Princípio 7 de 13">
+<img src="docs/assets/principios/08.png" width="24%" alt="Princípio 8 de 13">
+<img src="docs/assets/principios/09.png" width="24%" alt="Princípio 9 de 13">
+<img src="docs/assets/principios/10.png" width="24%" alt="Princípio 10 de 13">
+<img src="docs/assets/principios/11.png" width="24%" alt="Princípio 11 de 13">
+<img src="docs/assets/principios/12.png" width="24%" alt="Princípio 12 de 13">
+<img src="docs/assets/principios/13.png" width="24%" alt="Princípio 13 de 13">
+</p>
+
 Um processo em treze etapas, do problema à tela: perguntar por que a coisa deve existir, definir para quem, listar tudo o que o app poderia fazer e depois cortar, estruturar navegação e conteúdo, começar pelo que já se sabe, gerar muitas alternativas antes de criticar, prototipar subindo a fidelidade aos poucos, mostrar a pessoas reais no dispositivo, e só então o design visual, a escrita, o som e a háptica, a acessibilidade atravessando tudo e a comunicação do trabalho.
 
 O sistema: tipografia, cor, materiais, layout e espaçamento, ícones e símbolos, movimento, háptica e som, escrita e acessibilidade, com os valores que a Apple publica e com a indicação de quando um número vem de uma fala e não das diretrizes.
@@ -56,6 +158,67 @@ O que só as imagens mostram. Este capítulo saiu de uma leitura que os textos n
 - A área segura do tvOS aparece com valores diferentes na prancha das diretrizes e no slide da sessão de 2019, e a base mantém a divergência à vista em vez de escolher um lado.
 - A camada de anotação tem cor própria e nunca se confunde com a interface: rosa e vermelho nas diretrizes, amarelo nas sessões.
 - Comparações de certo e errado usam sempre a mesma gramática visual, e a Apple monta as próprias demonstrações com objetos físicos, barras de status congeladas e mosaicos de miniaturas no fecho.
+
+## O processo, em um diagrama
+
+```mermaid
+flowchart LR
+    A[developer.apple.com/design] --> B[173 páginas do HIG em JSON do DocC]
+    A --> C[188 páginas de vídeo com transcrição e tempo]
+    B --> D[Cartões por página, 18 arquivos]
+    C --> E[Cartões por sessão, 18 arquivos]
+    D --> F[Verificação de cobertura e fidelidade do texto]
+    E --> F
+    C --> G[175 vídeos baixados do servidor da Apple]
+    G --> H[26.869 quadros por mudança de cena, um a cada 12 s no mínimo]
+    H --> I[3.072 folhas de 9 quadros, com tempo e código carimbado]
+    B --> J[1.342 ilustrações e 61 vídeos de demonstração]
+    J --> K[552 folhas de 4 imagens, com contexto da página e código]
+    I --> L[Agentes veem cada folha e anotam o código]
+    K --> L
+    L --> M[Conferência recalcula o código a partir da chave secreta]
+    M --> N[333 sínteses visuais, cada uma com verificador cético]
+    N --> O[Sínteses inseridas nos cartões e nos artigos]
+    O --> P[Capítulo 9 da essência: o que só as imagens mostram]
+    P --> Q[Skill apple-design]
+```
+
+### Como se prova que uma folha foi vista
+
+```mermaid
+flowchart LR
+    S[Chave secreta fora da base] --> H1[Código de 5 caracteres por folha, derivado da chave, do id e do número]
+    H1 --> IMG[Código impresso na própria imagem da folha]
+    IMG --> AG[Agente abre a folha, descreve os quadros e copia o código]
+    AG --> LOG[Registro por folha: id, número, código lido]
+    S --> RE[Script recalcula o código esperado]
+    LOG --> CMP{Bate?}
+    RE --> CMP
+    CMP -->|sim| OK[Folha conferida]
+    CMP -->|não| NO[Folha rejeitada e relida]
+```
+
+Resultado da conferência: 3.072 folhas de vídeo e 552 do HIG, nenhuma rejeitada.
+
+### A evolução do pensamento de design da Apple, pelo que as sessões dizem
+
+```mermaid
+timeline
+    title 2014 a 2026, um tema por ano
+    2014 a 2016 : Método e prototipagem, apps falsos testados com pessoas : O Apple Watch força uma mentalidade própria
+    2017 : Os fundamentos nomeados, human interface em vez de user interface : Safe Area chega com o iPhone X
+    2018 : Fluidez, intenção e qualidade : Interromper vira privilégio
+    2019 : Dark Mode com cores semânticas, materiais e SF Symbols : Som e háptica viram design
+    2020 : iPad com identidade própria, ponteiro e sidebar : Widgets e App Clips, o app como camada contextual
+    2021 : Inclusão como processo : Descobribilidade no lugar de tutoriais
+    2022 : Gráficos, escrita com método PACE e abas que refletem hierarquia
+    2023 : visionOS e o design espacial : O maior redesenho do relógio
+    2024 : Amadurecimento espacial : Tab bar e sidebar viram a mesma estrutura
+    2025 : Liquid Glass unifica a linguagem entre plataformas
+    2026 : Princípios reescritos em nove, com Forgiveness : IA como responsabilidade de quem projeta
+```
+
+Cada linha dessa timeline vem do capítulo 5 da essência, com as sessões que a sustentam citadas lá.
 
 ## Como a base foi feita
 
@@ -107,6 +270,8 @@ Ao fim, 22 GB de vídeo e 1,1 GB de folhas e ilustrações foram apagados. Ficar
 - O conteúdo da Apple está parafraseado. Citações literais têm no máximo 15 palavras. Os textos integrais e a mídia não fazem parte deste repositório.
 
 ## Estrutura
+
+<img src="docs/assets/mapa_base.png" alt="Mapa da base: essência ao centro, HIG e vídeos ao lado, sínteses, notas e skill abaixo" width="100%">
 
 ```
 kb/
