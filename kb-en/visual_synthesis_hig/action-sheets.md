@@ -1,0 +1,10 @@
+### What the illustrations show
+Basis: 1 of 1 illustration sheet viewed, code checked; the page has no video.
+- The opening diagram isolates a light card with a bold title, a short description below and three stacked pill buttons, with a dashed outline; a horizontal double arrow above measures the total width and a vertical mark on the right measures the height of the card, so the image treats the component as a block of proportions, not as an app screen (img 0025).
+- The internal hierarchy of the card is title, then description, then the stack of three actions, all with the same pill shape (img 0025).
+- In Mail on iPhone, the first screenshot shows the composition state, with an X close button, a blue circular send button with an upward arrow, and the message fields (img 0026).
+- The second screenshot repeats exactly the same screen and only changes the overlay: a floating white card right below the status bar, covering part of the top and leaving the email visible behind it, with two stacked pill buttons (img 0027).
+- In that action sheet, the two stacked buttons are "Delete Draft" in red and "Save Draft" in black (img 0027).
+- The before-and-after pair with the same background makes it clear, by direct comparison, that this is a two-step flow triggered by the person's action, and not two independent screens (img 0026, img 0027).
+- On watchOS, the action sheet occupies the screen over a dark blue to purple gradient, with an X close button in the upper left corner, title and description centered in white, and two large stacked pill buttons, the action in green and Cancel in a purple to magenta gradient, that is, buttons colored by function instead of neutral (img 0028).
+Recorded divergences: img 0025 diverges from the official description, which speaks of buttons at the bottom of an iPhone, while the image shows an isolated card with width and height annotations, with no iPhone and no position on the screen; img 0028 shows real text and labels and distinct colors per button, where the official description speaks generically of content that represents text and two stacked buttons.

@@ -1,0 +1,10 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets opened, all codes checked; the page has no video.
+- The opening is an annotated diagram: three concentric, partially filled rings, with arrows indicating the direction of progress in each one and labels connected by guide lines, Move with percentage and calories on the left, Stand with hours on the right and Exercise with minutes below (img 0029).
+- The order of the colors never changes between the images: red or pink on the outer ring, green on the middle one and cyan on the inner one, both in the diagram and in the watch and iPhone screenshots (img 0029, img 0030, img 0034).
+- On the Apple Watch workout screen, on a black background, the green running icon appears at the top, the time and a large yellow stopwatch, with the list of Move, Exercise and Stand values on the left and the three rings on the right reflecting those partial values (img 0030).
+- The colors of the rings are specified as isolated swatches, each one a rounded square of solid color with the RGB value beside it: reddish pink 250, 17, 79; lime green 166, 255, 0; cyan 0, 255, 246 (img 0031, img 0032, img 0033).
+- In the actual screenshots the rings always appear on a black background, and on iPhone they sit inside an "Activity Rings" card with the values listed beside them, not overlaid on the rings (img 0030, img 0034, img 0035).
+- The difference between having or not having a paired Apple Watch is isolated by a pair of Summary screens from the Fitness app with the same header, the same date and the same memoji avatar in the corner, changing only the card (img 0034, img 0035).
+- With the watch paired, the card shows the three complete rings and the three metrics with the goal reached (img 0034); without it, it shows a single, partially filled pink ring, and the Exercise and Stand metrics give way to steps and distance (img 0035).
+- The percentage written beside each ring only appears in the conceptual diagram; in the app screens the values come as pairs of current value and goal, with a unit on iPhone (img 0029 compared with img 0030 and img 0034).

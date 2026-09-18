@@ -1,0 +1,10 @@
+### What the illustrations show
+Basis: 3 of 3 illustration sheets opened (img 0813 to 0823), all codes checked; no video.
+- The opening art leaves the symbol's own geometric construction visible: a question mark inside two concentric circles, crossed by dotted rectangular and radial guides radiating from the center, over an orange gradient (img 0813).
+- The tip has a fixed anatomy across all variants: a rounded-corner card, bold title, description below, close X in the top right corner and a triangular arrow pointing to the related element, in the example a filled blue star (img 0814, 0815, 0816, 0821, 0822).
+- In the popover, the card floats over the content and the body text behind it appears dimmed, without being displaced (img 0814).
+- In the annotation, the card enters the page flow: there is a block of text above and another below, and the surrounding content is pushed rather than covered (img 0815).
+- Wrong and right pair for the symbol inside the tip: a blue outline-only star next to the title gets the gray X marker in a gray circle; a solid blue star, in the same structure, gets the green circle with a white check. The sheet is a 2x2 grid with the marker next to each variant (img 0817 to 0820).
+- Against redundancy, two nearly identical versions of the same annotation tip pointing to the star on the screen: one repeats the star next to the title, the other stays text-only and avoids repeating the symbol (img 0821 and 0822).
+- The macOS tooltip is built differently from the iPhone tip: a light gray rectangular box, no arrow, no bold title, a single line of text right below the pointer, resting over the back button of a Finder window with traffic lights, title "Documents" and a Favorites sidebar (img 0823).
+Recorded divergences: in the notes, the Annotation and Hint frames (img 0815 and 0816) have the same composition, with no perceptible constructed difference beyond the card's position; the distinction the official text makes between the two types is not legible in the image.

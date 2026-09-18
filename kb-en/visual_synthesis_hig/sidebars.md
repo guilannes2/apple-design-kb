@@ -1,0 +1,11 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets viewed, all codes checked; the page has no video.
+- The construction illustration draws the top of a sidebar as a component: a section header with a collapse chevron, a button to toggle the sidebar in the top right corner, and three item rows with a folder icon on the left, a label in the middle and a star on the right (img 1047).
+- Over this illustration, vertical dashed guide lines align the folder icons and the star icons across the three rows, and a vertical two-headed arrow on the right annotates the height or spacing of an item row; the alignment guides and the item-spacing measurement are what the image adds (img 1047).
+- The first item appears highlighted in solid red, indicating selection, in an illustration entirely in gradient tones of red and pink (img 1047).
+- Incorrect use, marked with a gray X: on an iPad, the flower image at the top of the content area stops exactly at the sidebar's edge, with no transition at all (img 1048 with img 1049).
+- Correct use, marked with a green check: the same screen, with the same items, title and text, but the image continues blurred and mirrored behind the sidebar items all the way to the window's edge; the only difference between the pair is in the area behind the sidebar, which shows the background extension effect as blurred continuity, not a cutoff (img 1050 with img 1051).
+- The iPad sidebar in this pair carries the collapse-sidebar icon, the back arrow and three items, each with an icon (img 1048, img 1050).
+- On visionOS, the Music app uses a translucent glass panel over the blurred environment, with a narrow strip of icons only on the left, then the sidebar with the "Library" header and its items, and below it an expandable "Playlists" group with an arrow and subitems, of which the selected one appears highlighted (img 1052).
+- Next to this sidebar, a secondary panel carries a playlists header, a playlist count, its own search field and a grid of playlist thumbnails (img 1052).
+Recorded divergences: the notes record that img 1047 adds alignment guides and a spacing measurement that the official description does not detail, and that img 1052 shows a narrow strip of icons only to the left of the sidebar that the official description does not mention.

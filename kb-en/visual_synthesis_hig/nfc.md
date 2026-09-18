@@ -1,0 +1,5 @@
+### What the illustrations show
+Basis: 1 of 1 illustration sheet opened, all codes checked; the page has no video.
+- The opening, tinted blue over the geometric grid and the guide circle, shows three concentric arcs growing to the right, symmetrical and occupying a good part of the frame, which matches the official description of increasingly larger curved lines; it's the same wave motif from the nearby-interactions page (img 0806), here without the person or sensor circle (img 0807).
+- The in-app reading is a sheet with the title "Ready to Scan", a blue circular icon with a stylized smartphone (with a slight reflection on the left edge, suggesting glass), an instruction sentence, "Hold your device near the NFC tag.", and a light gray "Cancel" button spanning the full width at the bottom (img 0808).
+- Background reading doesn't show any app screen: the first contact is a standard notification banner at the top of the Home Screen, with a black wave icon on the left, title "Item Detected", an action to open in the app and the time, overlapping and covering part of the first row of icons (img 0809).

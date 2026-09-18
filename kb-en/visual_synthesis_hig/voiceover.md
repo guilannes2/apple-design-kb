@@ -1,0 +1,6 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets opened, all codes checked; the page has no video.
+- The opener combines the accessibility figure inside an open navy blue circle with a speaker with sound waves to the left, in dark blue over a lighter blue gradient in the upper left corner, with a dashed grid and a guide circle concentric to the human symbol (img 1224).
+- The wrong grouping example is an iPhone screen with back and more options at the top, a placeholder paragraph of text, two side-by-side photos (mangoes and artichokes), each with a caption below, and another paragraph; a thin black rectangle surrounds both photos and both captions as a single group, accompanied by a white X in a gray circle (img 1225, 1226).
+- The right example repeats exactly the same screen and the same content, but the rectangle surrounds only the mango photo with its caption, while the artichoke photo and its caption sit outside any border; accompanied by a white check in a green circle (img 1227, 1228).
+- The pair isolates a single variable, where the grouping border is drawn, and the right and wrong markers appear alone in their own frames, right after each example, never drawn over the screenshot (img 1225 to 1228).

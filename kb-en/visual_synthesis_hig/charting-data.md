@@ -1,0 +1,6 @@
+### What the illustrations show
+Basis: 1 illustration sheet (img 0231 to 0233) viewed, code checked; the page has no video.
+- The opening is a sketch of a bar chart: four vertical bars that rise and then fall, resting on a baseline, in dark red outline over an orange gradient, with a dashed grid and a construction guide circle (img 0231).
+- In Stocks, the AAPL detail screen shows price and change, a period selector with "1M" marked and a single filled green line chart for that period, with a horizontal axis of days (23, 30, 7, 14, 21) and a vertical price axis from 277 to 312 (img 0232).
+- In Health, the Activity screen opens with the colored ring and three numeric metrics (Move, Exercise, Stand) and then stacks three vertical bar charts, one per metric, each with its own color (red, green and cyan), its own vertical scale and the same hour-of-day axis; a block of "About Activity" text closes the screen (img 0233).
+- The two screenshots show two approaches to presenting data: a single detailed line chart, with a selectable period (img 0232), against three smaller, parallel bar charts, each with its own scale, that summarize different metrics for the same day on the same screen (img 0233).

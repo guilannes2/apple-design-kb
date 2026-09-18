@@ -1,0 +1,11 @@
+### What the illustrations show
+Basis: 3 illustration sheets viewed (9 images, all in light appearance), codes checked; no videos.
+- The opening, in a pink-to-purple gradient with a rectangular and circular grid, shows in solid dark purple a thick ring with four small triangular arrows pointing outward (up, down, left, right) and a filled disc at the center, a shape that evokes locking focus (img 0481).
+- On iPadOS, in a grid of six photos in two rows and three columns, the focused photo receives a thick, continuous blue halo that follows the rectangle of the cell, with straight corners and hugging the edge of the photo (img 0482).
+- In the same grid, the halo variant has rounded corners and sits slightly away from the edge of the photo, with visible breathing room; the shape changes between the two versions, the blue color remains (img 0482 and img 0483).
+- In the highlighted list appearance, among seven items with an empty star and "Title", the second one gets a rounded light gray background, the star goes from outline to filled and the icon and text turn red, the app's accent color, all without halo or elevation; the rest stay black on white, with no highlight (img 0484).
+- On tvOS, the states are shown with the same pill-shaped button, at the same point on the same beach photo, varying one thing at a time: unfocused, the pill is translucent gray, lets the sand texture show through faintly, has black text and is the smallest in the series (img 0485).
+- Focused, the pill turns opaque white, with no transparency, and becomes larger, with large black text (img 0486).
+- Highlighted and selected also use an opaque white pill with black text, at a size visually similar to the focused button (img 0487 and img 0488).
+- Unavailable returns to the translucent gray background and uses grayish text with much lower contrast, the dimmest button in the sequence (img 0489).
+Recorded divergences: the official description says the highlighted button is the same size as the unfocused button, but in the image it appears to be the size of the focused button, with the caveat of the margin of error from reading it at thumbnail size (img 0487); the difference in shadow between states mentioned in the description is not distinguishable at the resolution viewed (img 0488).

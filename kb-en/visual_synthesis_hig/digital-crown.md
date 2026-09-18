@@ -1,0 +1,6 @@
+### What the illustrations show
+Basis: 1 illustration sheet viewed (3 images, all in light appearance), code checked; no videos.
+- The opening, in a purple and magenta gradient with dotted grid and guide circle, draws the crown seen from the side as an oval shape with horizontal grooves for the knurling and, on the left, a thick curved arrow pointing up and to the left that suggests the turn; crown and arrow are contained within the central guide circle (img 0461).
+- On the Apple Vision Pro, a real close-up profile photograph shows the index finger over the small, knurled circular button on the side, between the temple's fabric strap and the visor, with no screen or interface visible (img 0462).
+- On the Apple Watch, the real photograph of the watch with the sleep app active (blue bar chart of stages) gets a red outline around the crown, and the side button just below is left unhighlighted, isolating exactly which control is the Digital Crown (img 0463).
+- The page combines a schematic opening icon with real product photos on two devices: on the Vision Pro the crown is indicated by the finger resting on it, and on the Apple Watch by a red outline drawn over the photo (img 0461, img 0462 and img 0463).

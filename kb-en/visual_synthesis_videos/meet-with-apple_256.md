@@ -1,0 +1,17 @@
+### What the images show
+Basis: 7 of 7 frame sheets viewed, all codes checked.
+- Right-and-wrong pair for a technical problem: two nearly identical phones labeled "Nested glass" and "No nested glass", each with an image inside a card over the screen, making visible the double translucency that the talk only describes in words (sheet 0004, q0034 and q0035).
+- Real code as proof of implementation: a block of Swift in a dark editor with colored syntax, labeled as a custom view modifier, shown in two consecutive frames with a framing shift (sheet 0004, q0032).
+- List of learnings built item by item, always with a different example image alongside: first the item about glass on glass, then the one about padding and layout behavior, then the one about performance (sheets 0004 and 0005, q0034 to q0038).
+- Callouts marking where the effect was and was not applied on the same screen: three labels connected by a line point to the search field at the top, the player controls and the bottom navigation bar, the latter named as the area without the effect (sheet 0005, q0038).
+- Annotation arrow indicating the padding shift caused by the material, over a phone showing the logo inside a translucent glass outline (sheet 0005, q0037).
+- Decomposition of a screen into components: an article thumbnail receives callouts with a connecting line for title, byline, image and paragraph, materializing the view consolidation that the talk treats in the abstract (sheet 0002, q0017 and q0018).
+- Navigation callouts on two phones side by side, pointing to the top and bottom of the screen, with a dotted vertical ruler between them that changes position between consecutive frames (sheet 0003, q0019 and q0020).
+- The same product image supporting three different messages: the composition of two app thumbnails stays fixed while only the slide text changes across three frames, one per motivator cited (sheet 0001, q0006 to q0008).
+- Media app layout seen on a real screen: scrollable horizontal sections with a title on the left and program covers with overlaid text, plus a bottom bar with four labeled items (sheet 0003, q0021).
+- Full-screen vertical format for short video, with a caption overlaid on the upper part of the image, location and date information, controls and progress bar at the bottom and an audio icon in the corner (sheet 0003, q0023).
+- Different convention for TV: horizontal menu at the top with five items, a featured image taking up most of the screen and text with an action button anchored at the bottom (sheet 0006, q0047).
+- Two nearly identical variations of the same article screen shown side by side, with the headline and body legible only in the zoomed-in frame (sheet 0004, q0031).
+- Presentation system shared by the series: the title slide and the closing frame with the Apple logo follow the same template as the other videos in the group (sheets 0001 and 0007, q0059).
+Visual proportion: all the content sheets feature a slide, app screenshot or code, interspersed with frames of the presenter alone, and only sheet 0007 is mostly presenter and closing.
+Recorded divergences or limits: in sheet 0001 the notes hesitate about who is on screen, recording "the presenter, feminine (the presenter, masculine)"; in sheet 0002 the fourth icon in the row of papers appears with no clearly visible caption; and in sheet 0006 the notes mark as an assumption that a cut-off text would be part of an acknowledgment.

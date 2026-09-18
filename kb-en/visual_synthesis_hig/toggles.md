@@ -1,0 +1,14 @@
+### What the illustrations show
+Basis: 4 of 4 illustration sheets opened, all codes checked; the page has no video.
+- The opening illustration shows the switch's pair of states with the dotted label "Label": on in dark red with the white knob on the right and ruler arrows measuring width and height, and off in white with a thin red outline and a small empty circle on the right (img 1147).
+- On iOS, the switch appears inside list rows in a card, with the label "Title" on the left and a thin divider line between rows; off is a light gray track with the knob on the left, on is standard green with the white knob on the right (img 1148).
+- The change of the default color is shown by repeating exactly the same card structure and changing only the color of the on state to a custom purple, in a separate image (img 1149 compared with img 1148).
+- The button that behaves like a toggle is shown in two frames of the Phone app: with the segmented control on "Missed", the circular filter button to the right of the bar is solid blue and the list shows only missed calls in red (img 1150); with "All" selected, the button loses the fill, is left with only a light gray outline, and the list shows all calls (img 1151).
+- In these Phone frames, the filter button's state is communicated by a background fill behind the symbol, without a switch track (img 1150, img 1151).
+- The checkbox's three states appear isolated, each in its own captioned image: on is a rounded-corner square in blue with a white checkmark (img 1153), off is just a very subtle light gray outline (img 1154), and mixed is the blue square with a white horizontal dash in place of the checkmark (img 1155).
+- In a list of seven checkboxes in a light gray card, the first item is in the mixed state and the following ones vary between empty and checked, showing the states side by side in a flat list (img 1152).
+- The group of radio buttons has five rows in a card, and only the third circle is filled in blue with a central white dot, while the others are light gray empty circles (img 1156).
+- The radio button states repeat the isolated pattern with a caption: selected is a blue circle with a central white dot and deselected is an empty circle with a very subtle gray outline (img 1157, img 1158).
+- Checkbox and radio button share the same vocabulary: blue fill with a distinct internal white mark (checkmark, dash or dot) to indicate state, instead of just changing color (img 1153, img 1155, img 1157).
+- In radio buttons arranged horizontally, the three blocks occupy the same width even with labels of different sizes ("A long text label", "Short label"), with the middle option selected (img 1159).
+Recorded divergences: in the checkbox list (img 1152) there is no visible hierarchical indentation, although the article's text addresses hierarchy expressed through alignment and indentation.

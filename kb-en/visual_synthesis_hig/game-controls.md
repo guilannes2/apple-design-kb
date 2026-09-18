@@ -1,0 +1,12 @@
+### What the illustrations show
+Basis: 3 illustration sheets viewed (10 images, all in light appearance), codes checked; no videos.
+- The opening draws a directional cross in solid dark purple outline, inscribed in the guide circle of the construction grid, over a gradient from pink to purple (img 0513).
+- The pressed state of a virtual button appears in line art: the right hand holds the iPhone in landscape and the thumb presses the button with X, which becomes darker, filled and with a thicker outline than the triangle and square buttons beside it, with an extra line around it suggesting glow; a larger circular button occupies the bottom left corner (img 0515).
+- The virtual buttons in this illustration reuse the language of physical controls, with triangle, square and X symbols in a column (img 0515).
+- The mapping from input to action is drawn as two gray circles linked by an arrow: the controller button with the square symbol leads to the in-game action represented by a hand making a grabbing gesture, each side with its own text label (img 0516).
+- The same virtual thumbstick, in the same scene and framing, changes with use: in motion it becomes opaque white and clearly visible, with a small curved arrow indicating direction; at rest it turns translucent dark gray, with no highlighted outline or arrow (img 0517 and img 0518).
+- Simple tap and touch and hold are differentiated on the same gray button with a flame icon: the first has a complete ring around it, the second a partial ring, like an incomplete circular progress indicator (img 0519).
+- The screen split is done over a single game image cut in half by colored frames: left half with a red border for movement controls, right half with a cyan border for camera controls (img 0520).
+- The diagram of the physical controller, in light gray outline seen from the front, labels the shoulder buttons, triggers and thumbsticks in left and right pairs (the left one higher, the right one lower), plus the small menu button at the top center and the directional cross; the four action buttons on the right, in a diamond, are left unlabeled (img 0521).
+- The SF Symbols app on the Mac appears with the Gaming category selected in the sidebar, 234 symbols, in a grid of icons with the technical name under each one (img 0522).
+Recorded divergences: the official description of img 0514 talks about a diagram with the ideal positioning of touch controls, but the image viewed is entirely blurred and no marking, arrow or positioning zone is legible.

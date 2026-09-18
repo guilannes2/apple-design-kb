@@ -1,0 +1,18 @@
+### What the images show
+Basis: 8 of 8 frame sheets viewed, all codes checked.
+- Proof of simplicity in two side-by-side editor panels, "with Runway" versus "without Runway", the panel without the design system visibly longer in number of lines, with the "Code complete" label appearing only over the left panel (sheet 0004, q0032 to q0034).
+- An isolated, enlarged line of code as an example of an adopted native API, shown alone on screen before the comparison (sheet 0004).
+- Concrete tool from the information architecture audit: tree diagram with rectangular nodes colored by category, organized in hierarchical columns, with yellow nodes highlighted at the top and flow labels such as create profile, follow creator and product poll (sheet 0003, q0021 to q0026).
+- Metrics in large typography with a short caption below: build time and app size in a before-and-after format linked by a double arrow, and search usage reduced to a single multiplier, with no pair of values (sheet 0007, q0059 to q0061).
+- Translucent controls positioned over the photo, small circles with a central icon marking points of interest on the product image, and a translucent side navigation bar anchored to the left without covering the photographic content (sheet 0006, q0046, q0048 and q0049).
+- State transition between frames: from the photo with zoom markers to the visual search results screen, with a back-and-close header and a grid of thumbnails with variable proportions, some spanning two columns (sheet 0006, q0046 to q0047).
+- Vertical action bar on the right edge of the full-screen content, stacked translucent icons with a numeric counter below each one, a pattern that reappears on several screens of the app (sheets 0001, 0005 and 0006, q0004 and q0041).
+- Anatomy of the post screen: header with avatar and name, dominant image, action column to the right of the photo, horizontal carousel of related products in square thumbnails and a caption block in the footer (sheet 0005, q0041).
+- Brand identity expressed within system components: circular design system badge with a percentage indicator and a palette of square swatches next to a screen with a three-item tab bar (sheet 0003, q0019).
+- Bullets of the three lessons appearing progressively in the opening and returning later with the third item highlighted, marking the point in the talk (sheet 0001, q0007 to q0009; sheet 0005).
+- Large text with no interface as a pacing device: three stacked words describing the old app, the rebuild timeline in large text, two stacked gains and a closing sentence about rebuilding the right way (sheets 0002, 0003 and 0004).
+- Volume shown through device repetition: six phones side by side on stage at one point, around ten at another, each with a different screen of the app (sheet 0006, q0051; sheet 0007).
+- Difference between frames suggesting animation: the same phone appears tilted in perspective and then straight-on, indicating device rotation on screen (sheet 0006, q0052 to q0053).
+- Incremental composition of the context slide: between two consecutive frames the set of news clippings grows from three to four cards, with the new image inserted among the existing ones (sheet 0002, q0010 to q0011).
+Visual proportion: slides and app screenshots predominate, with the presenter in close-up interspersed, and sheet 0006 is almost entirely made up of full-screen app screens with no visible stage.
+Recorded divergences or limits: in the information architecture diagram the notes record illegible text labels at the distance of the first framing (sheet 0003), and in sheet 0005 the text of the notification cards appears partially covered by the presenter.

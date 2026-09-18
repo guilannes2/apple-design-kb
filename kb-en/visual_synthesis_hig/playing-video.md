@@ -1,0 +1,11 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets opened (img 0852 to 0859), codes checked; no video.
+- The cover is a play button, a dark red circle with a white triangle, over an orange gradient, crossed by a horizontal, vertical and diagonal dashed grid that forms an X and a circle concentric to the icon (img 0852).
+- The diagrams repeat the frame of an iPhone lying on its side, with a gray outline in img 0853, and a three-color code that the caption names: light blue for the AVKit safe area, lilac purple for the video and pink for the embedded padding (img 0853, 0855, 0857, 0858, 0859); the video rectangle has a centered camera icon (img 0853, 0858).
+- The caption that names the three colors only appears on the second sheet, after the colors have already been used without explanation in the first illustrations (img 0857 in relation to 0853 and 0855).
+- 4:3 video without padding: the purple rectangle is wider than the blue screen and extends equally past the device's left and right edges, with no pink strip at all (img 0853).
+- The same 4:3 video with embedded padding gains two narrow pink vertical strips attached to the sides of the purple rectangle, extended to the device's edges (img 0855).
+- Right and wrong are not shown by varying the scene, but with separate badges next to the equivalent illustration: a green circle with a white check for the version without padding and a gray circle with a white X for the version with padding (img 0854 and 0856, paired with 0853 and 0855); per the notes, the page's caption associates the correct badge with the full-screen 4:3 video (img 0854).
+- 21:9 video without padding: a thin light blue strip crosses the width of the screen at the top as the safe area, and a dark blue outlined rectangle with the camera in the center occupies almost the entire screen, from top to bottom, taller than the safe area (img 0858).
+- 21:9 video with padding: two horizontal pink letterbox strips above and below the video rectangle, between it and the device's edges (img 0859).
+- Rule common to both sheets: the video extends past the safe area equally at the relevant edges, the sides in 4:3 and top and bottom in 21:9, and the padding always appears as a thin pink strip attached exactly at those edges (img 0853, 0855, 0858, 0859).

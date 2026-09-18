@@ -1,0 +1,10 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets opened (img 1333 to 1337), codes checked; no video.
+- The cover is a running figure in red silhouette on an orange background, with rectangular and circular construction guides, including a circle centered on the figure's torso (img 1333).
+- The workout controls screen on Apple Watch is all black, with the time and the "Paused" state in green at the top and four large buttons in a 2x2 grid, each with its own color and icon for its function: End red with an X, Resume olive yellow with a circular arrow, New green with a plus sign, Segment gray with a circle and the number 1 (img 1334).
+- The metrics screen stacks five lines of data vertically, with the green walking icon in the top left corner and the time on the right; the elapsed time, in yellow, is the largest line on the screen, above active calories, heart rate, average pace and distance (img 1335).
+- The quick-reading hierarchy in the metrics comes only from font size and a colored context icon next to the value, like the red heart for heart rate, with no background color to highlight it (img 1335).
+- A metric with no data appears filled with dashes, keeping the average pace label in place (img 1335).
+- The media screen shows the no-playback state: a large gray rectangle with a smartphone icon and the text "Not Playing", three controls for back, play and forward below, and an iPhone icon next to the time at the top (img 1336).
+- The three screens in the flow use the same black background and the same time in the top corner as a common anchor, varying only the central content between button grid, metrics stack and playback controls; dot page indicators signal three screens, at the bottom on the controls screen and on the right side on the metrics screen (img 1334, 1335, 1336).
+- Correct use is marked by an isolated badge, a white checkmark in a green circle, with no other element on the sheet; the example image it accompanies is not on this sheet (img 1337).

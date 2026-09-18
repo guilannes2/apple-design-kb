@@ -1,0 +1,340 @@
+# Visual index
+
+Videos with notes: 175. Watched in full: 175.
+
+- meet-with-apple_208 (Showcase: Learn how apps are integrating the new design and Liquid Glass): watched: 81 of 81 sheets opened, all codes checked
+- meet-with-apple_254 (Liquid Glass showcase: LTK): watched: 8 of 8 sheets opened, all codes checked
+- meet-with-apple_255 (Liquid Glass showcase: Slack): watched: 10 of 10 sheets opened, all codes checked
+- meet-with-apple_256 (Liquid Glass showcase: CNN): watched: 7 of 7 sheets opened, all codes checked
+- meet-with-apple_257 (Liquid Glass showcase: Tide Guide): watched: 9 of 9 sheets opened, all codes checked
+- meet-with-apple_270 (Design with SwiftUI): watched: 17 of 17 sheets opened, all codes checked
+- meet-with-apple_274 (AllTrails: Momentum without a rewrite): watched: 11 of 11 sheets opened, all codes checked
+- tech-talks_10884 (Meet Apple Watch Series 7): watched: 10 of 10 sheets opened, all codes checked
+- tech-talks_111427 (Discover the Apple Design Resources): watched: 8 of 8 sheets opened, all codes checked
+- tech-talks_111461 (Prepare your app for iPhone Duo): watched: 9 of 9 sheets opened, all codes checked
+- tech-talks_111462 (Raise the bar with iPhone Duo): watched: 20 of 20 sheets opened, all codes checked
+- tech-talks_111463 (Strike a pose with adaptive layouts on iPhone Duo): watched: 15 of 15 sheets opened, all codes checked
+- tech-talks_111466 (Design for iPhone Duo): watched: 13 of 13 sheets opened, all codes checked
+- tech-talks_801 (Designing for iPhone X): watched: 9 of 9 sheets opened, all codes checked
+- tech-talks_802 (Designing for Apple Watch Series 4): watched: 7 of 7 sheets opened, all codes checked
+- tech-talks_803 (Designing for Subscription Success): watched: 6 of 6 sheets opened, all codes checked
+- wwdc2014_223 (Prototyping: Fake It Till You Make It): watched: 39 of 39 sheets opened, all codes checked
+- wwdc2014_602 (Ingredients of Great Games): watched: 34 of 34 sheets opened, all codes checked
+- wwdc2015_802 (Designing for Apple Watch): watched: 40 of 40 sheets opened, all codes checked
+- wwdc2015_805 (Apple Watch Design Tips and Tricks): watched: 37 of 37 sheets opened, all codes checked
+- wwdc2016_805 (Iterative UI Design): watched: 31 of 31 sheets opened, all codes checked
+- wwdc2017_802 (Essential Design Principles): watched: 44 of 44 sheets opened, all codes checked
+- wwdc2017_803 (Designing Sound): watched: 28 of 28 sheets opened, all codes checked
+- wwdc2017_809 (Communication Between Designers and Engineers): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2017_811 (Design Tips for Great Games): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2017_812 (Size Classes and Core Components): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2017_813 (Writing Great Alerts): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2017_815 (How to Pick a Custom Font): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2017_816 (Love at First Launch): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2017_817 (Rich Notifications): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2017_818 (60-Second Prototyping): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2017_819 (Designing for a Global Audience): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2017_820 (Express Yourself!): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2017_821 (Get Started with Display P3): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2017_822 (App Icon Design): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2017_823 (Designing Glyphs): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2018_801 (The Qualities of Great Design): watched: 36 of 36 sheets opened, all codes checked
+- wwdc2018_802 (Intentional Design): watched: 28 of 28 sheets opened, all codes checked
+- wwdc2018_803 (Designing Fluid Interfaces): watched: 43 of 43 sheets opened, all codes checked
+- wwdc2018_804 (The Life of a Button): watched: 23 of 23 sheets opened, all codes checked
+- wwdc2018_806 (Designing Notifications): watched: 26 of 26 sheets opened, all codes checked
+- wwdc2018_811 (Presenting Design Work): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2019_104 (Apple Design Awards): watched: 52 of 52 sheets opened, all codes checked
+- wwdc2019_206 (Introducing SF Symbols): watched: 28 of 28 sheets opened, all codes checked
+- wwdc2019_211 (Mastering the Living Room With tvOS): watched: 40 of 40 sheets opened, all codes checked
+- wwdc2019_223 (Expanding the Sensory Experience with Core Haptics): watched: 36 of 36 sheets opened, all codes checked
+- wwdc2019_239 (Great Developer Habits): watched: 26 of 26 sheets opened, all codes checked
+- wwdc2019_244 (Visual Design and Accessibility): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2019_520 (Introducing Core Haptics): watched: 18 of 18 sheets opened, all codes checked
+- wwdc2019_802 (Designing Award Winning Apps and Games): watched: 40 of 40 sheets opened, all codes checked
+- wwdc2019_803 (Designing Great ML Experiences): watched: 42 of 42 sheets opened, all codes checked
+- wwdc2019_805 (Building Great Shortcuts): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2019_806 (Designing Great Shortcuts): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2019_808 (What's New in iOS Design): watched: 23 of 23 sheets opened, all codes checked
+- wwdc2019_809 (Designing iPad Apps for Mac): watched: 25 of 25 sheets opened, all codes checked
+- wwdc2019_810 (Designing Audio-Haptic Experiences): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2020_10019 (App accessibility for Switch Control): watched: 13 of 13 sheets opened, all codes checked
+- wwdc2020_10020 (Make your app visually accessible): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2020_10071 (Evaluate and optimize voice interaction for your app): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2020_10086 (Design for intelligence: Apps, evolved): watched: 6 of 6 sheets opened, all codes checked
+- wwdc2020_10087 (Design for intelligence: Make friends with "The System"): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2020_10088 (Design for intelligence: Discover new opportunities): watched: 5 of 5 sheets opened, all codes checked
+- wwdc2020_10093 (Build for the iPadOS pointer): watched: 18 of 18 sheets opened, all codes checked
+- wwdc2020_10103 (Design great widgets): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2020_10104 (Adopt the new look of macOS): watched: 21 of 21 sheets opened, all codes checked
+- wwdc2020_10145 (Design for Game Center): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2020_10162 (Design for location privacy): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2020_10171 (What's new in watchOS design): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2020_10172 (Design great App Clips): watched: 20 of 20 sheets opened, all codes checked
+- wwdc2020_10175 (The details of UI typography): watched: 22 of 22 sheets opened, all codes checked
+- wwdc2020_10200 (Design for intelligence: Meet people where they are): watched: 6 of 6 sheets opened, all codes checked
+- wwdc2020_10205 (Design with iOS pickers, menus and actions): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2020_10206 (Designed for iPad): watched: 27 of 27 sheets opened, all codes checked
+- wwdc2020_10207 (SF Symbols 2): watched: 18 of 18 sheets opened, all codes checked
+- wwdc2020_10640 (Design for the iPadOS pointer): watched: 35 of 35 sheets opened, all codes checked
+- wwdc2020_20022 (The winners of the 2020 Apple Design Awards): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2021_10029 (Design for Safari 15): watched: 27 of 27 sheets opened, all codes checked
+- wwdc2021_10081 (Tap into virtual and physical game controllers): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2021_10097 (What’s new in SF Symbols): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2021_10126 (Discoverable design): watched: 27 of 27 sheets opened, all codes checked
+- wwdc2021_10184 (Design for Group Activities): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2021_10245 (Design for spatial interaction): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2021_10250 (Create custom symbols): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2021_10275 (The practice of inclusive design): watched: 29 of 29 sheets opened, all codes checked
+- wwdc2021_10278 (Practice audio haptic design): watched: 13 of 13 sheets opened, all codes checked
+- wwdc2021_10283 (Design great actions for Shortcuts, Siri, and Suggestions): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2021_10288 (Explore the SF Symbols 3 app): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2021_10304 (The process of inclusive design): watched: 26 of 26 sheets opened, all codes checked
+- wwdc2021_10308 (Accessibility by design: An Apple Watch for everyone): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2021_10317 (Out of this world... on to Mars): watched: 22 of 22 sheets opened, all codes checked
+- wwdc2021_10349 (SF Symbols in SwiftUI): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2021_110142 (Accessibility by design: An Apple Watch for everyone (ASL)): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2021_113 (WWDC21 Apple Design Awards (ASL)): watched: 36 of 36 sheets opened, all codes checked
+- wwdc2022_10001 (Explore navigation design for iOS): watched: 18 of 18 sheets opened, all codes checked
+- wwdc2022_10009 (What’s new in iPad app design): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2022_10015 (Design for Collaboration with Messages): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2022_10034 (Design for Arabic): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2022_10037 (Writing for interfaces): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2022_10131 (Qualities of great AR experiences): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2022_10139 (Make a great SharePlay experience): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2022_10157 (What's new in SF Symbols 4): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2022_10158 (Adopt Variable Color in SF Symbols): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2022_10169 (Design App Shortcuts): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2022_103 (Apple Design Awards): watched: 41 of 41 sheets opened, all codes checked
+- wwdc2022_110340 (Design an effective chart): watched: 20 of 20 sheets opened, all codes checked
+- wwdc2022_110342 (Design app experiences with charts): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2022_110381 (Meet the expanded San Francisco font family): watched: 13 of 13 sheets opened, all codes checked
+- wwdc2022_110441 (Design for Arabic · صمّم بالعربي): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2022_113 (Apple Design Awards (ASL)): watched: 35 of 35 sheets opened, all codes checked
+- wwdc2023_10026 (Meet watchOS 10): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2023_10072 (Principles of spatial design): watched: 22 of 22 sheets opened, all codes checked
+- wwdc2023_10073 (Design for spatial input): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2023_10075 (Design spatial SharePlay experiences): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2023_10076 (Design for spatial user interfaces): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2023_10078 (Design considerations for vision and motion): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2023_10115 (Design with SwiftUI): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2023_10138 (Design and build apps for watchOS 10): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2023_10193 (Design Shortcuts for Spotlight): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2023_10194 (Design dynamic Live Activities): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2023_10197 (What’s new in SF Symbols 5): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2023_10229 (Make features discoverable with TipKit): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2023_10257 (Create animated symbols): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2023_10258 (Animate symbols in your app): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2023_10271 (Explore immersive sound design): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2023_10309 (Design widgets for the Smart Stack on Apple Watch): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2024_10085 (Design advanced games for Apple platforms): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2024_10086 (Design great visionOS apps): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2024_10087 (Create custom environments for your immersive apps in visionOS): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2024_10094 (Explore game input in visionOS): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2024_10096 (Design interactive experiences for visionOS): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2024_10098 (Design Live Activities for Apple Watch): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2024_10112 (Say hello to the next generation of CarPlay design system): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2024_10116 (Explore multiview video playback in visionOS): watched: 9 of 9 sheets opened, all codes checked
+- wwdc2024_10140 (Add personality to your app through UX writing): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2024_10145 (Enhance your UI animations and transitions): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2024_10147 (Elevate your tab and sidebar experience in iPadOS): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2024_10151 (Create custom visual effects with SwiftUI): watched: 20 of 20 sheets opened, all codes checked
+- wwdc2024_10152 (Create custom hover effects in visionOS): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2024_10176 (Design App Intents for system experiences): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2024_10188 (What’s new in SF Symbols 6): watched: 12 of 12 sheets opened, all codes checked
+- wwdc2025_208 (Elevate the design of your iPad app): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2025_219 (Meet Liquid Glass): watched: 20 of 20 sheets opened, all codes checked
+- wwdc2025_220 (Say hello to the new look of app icons): watched: 10 of 10 sheets opened, all codes checked
+- wwdc2025_247 (What’s new in Xcode 26): watched: 29 of 29 sheets opened, all codes checked
+- wwdc2025_248 (Explore prompt design & safety for on-device foundation models): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2025_255 (Design widgets for visionOS): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2025_273 (Meet SwiftUI spatial layout): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2025_274 (Better together: SwiftUI and RealityKit): watched: 21 of 21 sheets opened, all codes checked
+- wwdc2025_281 (Design interactive snippets): watched: 6 of 6 sheets opened, all codes checked
+- wwdc2025_284 (Build a UIKit app with the new design): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2025_290 (Set the scene with SwiftUI in visionOS): watched: 19 of 19 sheets opened, all codes checked
+- wwdc2025_303 (Design hover interactions for visionOS): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2025_304 (Explore video experiences for visionOS): watched: 22 of 22 sheets opened, all codes checked
+- wwdc2025_305 (Optimize your custom environments for visionOS): watched: 28 of 28 sheets opened, all codes checked
+- wwdc2025_316 (Principles of inclusive app design): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2025_317 (What’s new in visionOS 26): watched: 30 of 30 sheets opened, all codes checked
+- wwdc2025_323 (Build a SwiftUI app with the new design): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2025_337 (What’s new in SF Symbols 7): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2025_356 (Get to know the new design system): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2025_359 (Design foundations from idea to interface): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2025_361 (Create icons with Icon Composer): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2025_404 (Make a big impact with small writing changes): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2026_227 (Create UI prototypes using agents in Xcode): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2026_234 (Design immersive environments for visionOS apps and the spatial web): watched: 16 of 16 sheets opened, all codes checked
+- wwdc2026_250 (Principles of great design): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2026_251 (Communicate your brand identity on iOS): watched: 13 of 13 sheets opened, all codes checked
+- wwdc2026_252 (Design no-code games with Reality Composer Pro 3): watched: 17 of 17 sheets opened, all codes checked
+- wwdc2026_269 (What’s new in SwiftUI): watched: 20 of 20 sheets opened, all codes checked
+- wwdc2026_290 (Craft clear names for features and labels in your app): watched: 11 of 11 sheets opened, all codes checked
+- wwdc2026_292 (Design intuitive search experiences): watched: 14 of 14 sheets opened, all codes checked
+- wwdc2026_314 (Learn CSS Grid Lanes): watched: 8 of 8 sheets opened, all codes checked
+- wwdc2026_315 (Rediscover the HTML select element): watched: 7 of 7 sheets opened, all codes checked
+- wwdc2026_321 (Dive into lazy stacks and scrolling with SwiftUI): watched: 15 of 15 sheets opened, all codes checked
+- wwdc2026_322 (Compose advanced graphics effects with SwiftUI): watched: 13 of 13 sheets opened, all codes checked
+- wwdc2026_8012 (Icon Composer for Beginners Group Lab): watched: 43 of 43 sheets opened, all codes checked
+
+HIG pages with notes: 158.
+
+- accessibility: hig-img_accessibility: watched: 6 of 6 sheets opened, all codes checked; hig-vid_accessibility__000: watched: 2 of 2 sheets opened, all codes checked; hig-vid_accessibility__001: watched: 2 of 2 sheets opened, all codes checked
+- action-button: hig-img_action-button: watched: 1 of 1 sheets opened, all codes checked
+- action-sheets: hig-img_action-sheets: watched: 1 of 1 sheets opened, all codes checked
+- activity-rings: hig-img_activity-rings: watched: 2 of 2 sheets opened, all codes checked
+- activity-views: hig-img_activity-views: watched: 1 of 1 sheets opened, all codes checked
+- airplay: hig-img_airplay: watched: 2 of 2 sheets opened, all codes checked
+- alerts: hig-img_alerts: watched: 2 of 2 sheets opened, all codes checked; hig-vid_alerts__002: watched: 1 of 1 sheets opened, all codes checked; hig-vid_alerts__003: watched: 3 of 3 sheets opened, all codes checked
+- always-on: hig-img_always-on: watched: 1 of 1 sheets opened, all codes checked
+- app-clips: hig-img_app-clips: watched: 6 of 6 sheets opened, all codes checked
+- app-icons: hig-img_app-icons: watched: 6 of 6 sheets opened, all codes checked; hig-vid_app-icons__004: watched: 2 of 2 sheets opened, all codes checked
+- app-shortcuts: hig-img_app-shortcuts: watched: 1 of 1 sheets opened, all codes checked
+- apple-pay: hig-img_apple-pay: watched: 14 of 14 sheets opened, all codes checked
+- apple-pencil-and-scribble: hig-img_apple-pencil-and-scribble: watched: 4 of 4 sheets opened, all codes checked
+- augmented-reality: hig-img_augmented-reality: watched: 6 of 6 sheets opened, all codes checked; hig-vid_augmented-reality__005: watched: 1 of 1 sheets opened, all codes checked
+- boxes: hig-img_boxes: watched: 1 of 1 sheets opened, all codes checked
+- branding: hig-img_branding: watched: 2 of 2 sheets opened, all codes checked
+- buttons: hig-img_buttons: watched: 3 of 3 sheets opened, all codes checked; hig-vid_buttons__006: watched: 1 of 1 sheets opened, all codes checked; hig-vid_buttons__007: watched: 1 of 1 sheets opened, all codes checked
+- camera-control: hig-img_camera-control: watched: 4 of 4 sheets opened, all codes checked
+- carekit: hig-img_carekit: watched: 4 of 4 sheets opened, all codes checked
+- carplay: hig-img_carplay: watched: 1 of 1 sheets opened, all codes checked
+- charting-data: hig-img_charting-data: watched: 1 of 1 sheets opened, all codes checked
+- charts: hig-img_charts: watched: 3 of 3 sheets opened, all codes checked
+- collaboration-and-sharing: hig-img_collaboration-and-sharing: watched: 2 of 2 sheets opened, all codes checked
+- collections: hig-img_collections: watched: 1 of 1 sheets opened, all codes checked
+- color-wells: hig-img_color-wells: watched: 1 of 1 sheets opened, all codes checked
+- color: hig-img_color: watched: 42 of 42 sheets opened, all codes checked
+- column-views: hig-img_column-views: watched: 1 of 1 sheets opened, all codes checked
+- combo-boxes: hig-img_combo-boxes: watched: 1 of 1 sheets opened, all codes checked
+- complications: hig-img_complications: watched: 14 of 14 sheets opened, all codes checked
+- context-menus: hig-img_context-menus: watched: 1 of 1 sheets opened, all codes checked
+- controls: hig-img_controls: watched: 3 of 3 sheets opened, all codes checked
+- dark-mode: hig-img_dark-mode: watched: 4 of 4 sheets opened, all codes checked
+- design-principles: hig-img_design-principles: watched: 2 of 2 sheets opened, all codes checked
+- designing-for-games: hig-img_designing-for-games: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-ios: hig-img_designing-for-ios: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-ipados: hig-img_designing-for-ipados: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-iphone-duo: hig-img_designing-for-iphone-duo: watched: 5 of 5 sheets opened, all codes checked
+- designing-for-macos: hig-img_designing-for-macos: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-tvos: hig-img_designing-for-tvos: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-visionos: hig-img_designing-for-visionos: watched: 1 of 1 sheets opened, all codes checked
+- designing-for-watchos: hig-img_designing-for-watchos: watched: 1 of 1 sheets opened, all codes checked
+- digit-entry-views: hig-img_digit-entry-views: watched: 1 of 1 sheets opened, all codes checked
+- digital-crown: hig-img_digital-crown: watched: 1 of 1 sheets opened, all codes checked
+- disclosure-controls: hig-img_disclosure-controls: watched: 2 of 2 sheets opened, all codes checked
+- dock-menus: hig-img_dock-menus: watched: 1 of 1 sheets opened, all codes checked
+- drag-and-drop: hig-img_drag-and-drop: watched: 1 of 1 sheets opened, all codes checked; hig-vid_drag-and-drop__008: watched: 2 of 2 sheets opened, all codes checked
+- edit-menus: hig-img_edit-menus: watched: 1 of 1 sheets opened, all codes checked
+- entering-data: hig-img_entering-data: watched: 1 of 1 sheets opened, all codes checked
+- eyes: hig-img_eyes: watched: 2 of 2 sheets opened, all codes checked; hig-vid_eyes__009: watched: 3 of 3 sheets opened, all codes checked
+- feedback: hig-img_feedback: watched: 1 of 1 sheets opened, all codes checked
+- file-management: hig-img_file-management: watched: 1 of 1 sheets opened, all codes checked
+- focus-and-selection: hig-img_focus-and-selection: watched: 3 of 3 sheets opened, all codes checked
+- game-center: hig-img_game-center: watched: 6 of 6 sheets opened, all codes checked
+- game-controls: hig-img_game-controls: watched: 3 of 3 sheets opened, all codes checked
+- gauges: hig-img_gauges: watched: 1 of 1 sheets opened, all codes checked
+- generative-ai: hig-img_generative-ai: watched: 1 of 1 sheets opened, all codes checked
+- gestures: hig-img_gestures: watched: 2 of 2 sheets opened, all codes checked; hig-vid_gestures__010: watched: 1 of 1 sheets opened, all codes checked; hig-vid_gestures__011: watched: 2 of 2 sheets opened, all codes checked
+- going-full-screen: hig-img_going-full-screen: watched: 1 of 1 sheets opened, all codes checked
+- gyro-and-accelerometer: hig-img_gyro-and-accelerometer: watched: 1 of 1 sheets opened, all codes checked
+- healthkit: hig-img_healthkit: watched: 2 of 2 sheets opened, all codes checked
+- home-screen-quick-actions: hig-img_home-screen-quick-actions: watched: 1 of 1 sheets opened, all codes checked
+- homekit: hig-img_homekit: watched: 4 of 4 sheets opened, all codes checked
+- icloud: hig-img_icloud: watched: 1 of 1 sheets opened, all codes checked
+- icons: hig-img_icons: watched: 29 of 29 sheets opened, all codes checked
+- id-verifier: hig-img_id-verifier: watched: 1 of 1 sheets opened, all codes checked
+- image-views: hig-img_image-views: watched: 1 of 1 sheets opened, all codes checked
+- image-wells: hig-img_image-wells: watched: 1 of 1 sheets opened, all codes checked
+- images: hig-img_images: watched: 1 of 1 sheets opened, all codes checked; hig-vid_images__012: watched: 4 of 4 sheets opened, all codes checked
+- imessage-apps-and-stickers: hig-img_imessage-apps-and-stickers: watched: 1 of 1 sheets opened, all codes checked
+- immersive-experiences: hig-img_immersive-experiences: watched: 2 of 2 sheets opened, all codes checked; hig-vid_immersive-experiences__013: watched: 3 of 3 sheets opened, all codes checked
+- in-app-purchase: hig-img_in-app-purchase: watched: 6 of 6 sheets opened, all codes checked
+- inclusion: hig-img_inclusion: watched: 1 of 1 sheets opened, all codes checked
+- keyboards: hig-img_keyboards: watched: 2 of 2 sheets opened, all codes checked; hig-vid_keyboards__014: watched: 2 of 2 sheets opened, all codes checked
+- labels: hig-img_labels: watched: 1 of 1 sheets opened, all codes checked
+- launching: hig-img_launching: watched: 1 of 1 sheets opened, all codes checked
+- layout: hig-img_layout: watched: 5 of 5 sheets opened, all codes checked
+- lists-and-tables: hig-img_lists-and-tables: watched: 1 of 1 sheets opened, all codes checked
+- live-activities: hig-img_live-activities: watched: 7 of 7 sheets opened, all codes checked
+- live-photos: hig-img_live-photos: watched: 1 of 1 sheets opened, all codes checked
+- live-viewing-apps: hig-img_live-viewing-apps: watched: 1 of 1 sheets opened, all codes checked
+- loading: hig-img_loading: watched: 1 of 1 sheets opened, all codes checked
+- lockups: hig-img_lockups: watched: 2 of 2 sheets opened, all codes checked
+- mac-catalyst: hig-img_mac-catalyst: watched: 1 of 1 sheets opened, all codes checked
+- machine-learning: hig-img_machine-learning: watched: 3 of 3 sheets opened, all codes checked
+- managing-accounts: hig-img_managing-accounts: watched: 1 of 1 sheets opened, all codes checked
+- managing-notifications: hig-img_managing-notifications: watched: 1 of 1 sheets opened, all codes checked
+- maps: hig-img_maps: watched: 5 of 5 sheets opened, all codes checked
+- materials: hig-img_materials: watched: 7 of 7 sheets opened, all codes checked; hig-vid_materials__015: watched: 4 of 4 sheets opened, all codes checked
+- menus: hig-img_menus: watched: 3 of 3 sheets opened, all codes checked
+- modality: hig-img_modality: watched: 1 of 1 sheets opened, all codes checked
+- motion: hig-img_motion: watched: 1 of 1 sheets opened, all codes checked
+- multitasking: hig-img_multitasking: watched: 2 of 2 sheets opened, all codes checked; hig-vid_multitasking__016: watched: 2 of 2 sheets opened, all codes checked
+- nearby-interactions: hig-img_nearby-interactions: watched: 1 of 1 sheets opened, all codes checked
+- nfc: hig-img_nfc: watched: 1 of 1 sheets opened, all codes checked
+- notifications: hig-img_notifications: watched: 1 of 1 sheets opened, all codes checked
+- offering-help: hig-img_offering-help: watched: 3 of 3 sheets opened, all codes checked
+- onboarding: hig-img_onboarding: watched: 1 of 1 sheets opened, all codes checked
+- ornaments: hig-img_ornaments: watched: 1 of 1 sheets opened, all codes checked
+- outline-views: hig-img_outline-views: watched: 1 of 1 sheets opened, all codes checked
+- page-controls: hig-img_page-controls: watched: 2 of 2 sheets opened, all codes checked
+- panels: hig-img_panels: watched: 1 of 1 sheets opened, all codes checked
+- path-controls: hig-img_path-controls: watched: 1 of 1 sheets opened, all codes checked
+- photo-editing: hig-img_photo-editing: watched: 1 of 1 sheets opened, all codes checked
+- pickers: hig-img_pickers: watched: 3 of 3 sheets opened, all codes checked
+- playing-audio: hig-img_playing-audio: watched: 1 of 1 sheets opened, all codes checked
+- playing-haptics: hig-img_playing-haptics: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__017: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__018: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__019: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__020: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__021: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__022: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__023: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__024: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__025: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__026: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__027: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__028: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__029: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__030: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__031: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__032: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__033: watched: 1 of 1 sheets opened, all codes checked; hig-vid_playing-haptics__034: watched: 1 of 1 sheets opened, all codes checked
+- playing-video: hig-img_playing-video: watched: 2 of 2 sheets opened, all codes checked
+- pointing-devices: hig-img_pointing-devices: watched: 6 of 6 sheets opened, all codes checked; hig-vid_pointing-devices__035: watched: 1 of 1 sheets opened, all codes checked; hig-vid_pointing-devices__036: watched: 1 of 1 sheets opened, all codes checked; hig-vid_pointing-devices__037: watched: 1 of 1 sheets opened, all codes checked; hig-vid_pointing-devices__038: watched: 1 of 1 sheets opened, all codes checked; hig-vid_pointing-devices__039: watched: 1 of 1 sheets opened, all codes checked; hig-vid_pointing-devices__040: watched: 4 of 4 sheets opened, all codes checked
+- pop-up-buttons: hig-img_pop-up-buttons: watched: 1 of 1 sheets opened, all codes checked
+- popovers: hig-img_popovers: watched: 1 of 1 sheets opened, all codes checked
+- printing: hig-img_printing: watched: 1 of 1 sheets opened, all codes checked
+- privacy: hig-img_privacy: watched: 4 of 4 sheets opened, all codes checked
+- progress-indicators: hig-img_progress-indicators: watched: 3 of 3 sheets opened, all codes checked
+- pull-down-buttons: hig-img_pull-down-buttons: watched: 1 of 1 sheets opened, all codes checked
+- rating-indicators: hig-img_rating-indicators: watched: 1 of 1 sheets opened, all codes checked
+- ratings-and-reviews: hig-img_ratings-and-reviews: watched: 1 of 1 sheets opened, all codes checked
+- remotes: hig-img_remotes: watched: 1 of 1 sheets opened, all codes checked
+- researchkit: hig-img_researchkit: watched: 3 of 3 sheets opened, all codes checked
+- right-to-left: hig-img_right-to-left: watched: 12 of 12 sheets opened, all codes checked
+- scroll-views: hig-img_scroll-views: watched: 1 of 1 sheets opened, all codes checked; hig-vid_scroll-views__041: watched: 2 of 2 sheets opened, all codes checked
+- search-fields: hig-img_search-fields: watched: 3 of 3 sheets opened, all codes checked
+- searching: hig-img_searching: watched: 1 of 1 sheets opened, all codes checked
+- segmented-controls: hig-img_segmented-controls: watched: 2 of 2 sheets opened, all codes checked
+- settings: hig-img_settings: watched: 1 of 1 sheets opened, all codes checked
+- sf-symbols: hig-img_sf-symbols: watched: 5 of 5 sheets opened, all codes checked; hig-vid_sf-symbols__042: watched: 1 of 1 sheets opened, all codes checked; hig-vid_sf-symbols__043: watched: 1 of 1 sheets opened, all codes checked; hig-vid_sf-symbols__044: watched: 2 of 2 sheets opened, all codes checked; hig-vid_sf-symbols__045: watched: 3 of 3 sheets opened, all codes checked; hig-vid_sf-symbols__046: watched: 3 of 3 sheets opened, all codes checked; hig-vid_sf-symbols__047: watched: 3 of 3 sheets opened, all codes checked; hig-vid_sf-symbols__048: watched: 2 of 2 sheets opened, all codes checked; hig-vid_sf-symbols__049: watched: 2 of 2 sheets opened, all codes checked; hig-vid_sf-symbols__050: watched: 1 of 1 sheets opened, all codes checked; hig-vid_sf-symbols__051: watched: 4 of 4 sheets opened, all codes checked; hig-vid_sf-symbols__052: watched: 2 of 2 sheets opened, all codes checked
+- shareplay: hig-img_shareplay: watched: 2 of 2 sheets opened, all codes checked
+- shazamkit: hig-img_shazamkit: watched: 1 of 1 sheets opened, all codes checked
+- sheets: hig-img_sheets: watched: 5 of 5 sheets opened, all codes checked; hig-vid_sheets__053: watched: 1 of 1 sheets opened, all codes checked
+- sidebars: hig-img_sidebars: watched: 2 of 2 sheets opened, all codes checked
+- sign-in-with-apple: hig-img_sign-in-with-apple: watched: 7 of 7 sheets opened, all codes checked
+- siri: hig-img_siri: watched: 1 of 1 sheets opened, all codes checked
+- sliders: hig-img_sliders: watched: 2 of 2 sheets opened, all codes checked
+- snippets: hig-img_snippets: watched: 2 of 2 sheets opened, all codes checked
+- spatial-layout: hig-img_spatial-layout: watched: 1 of 1 sheets opened, all codes checked; hig-vid_spatial-layout__054: watched: 1 of 1 sheets opened, all codes checked; hig-vid_spatial-layout__055: watched: 1 of 1 sheets opened, all codes checked; hig-vid_spatial-layout__056: watched: 2 of 2 sheets opened, all codes checked; hig-vid_spatial-layout__057: watched: 2 of 2 sheets opened, all codes checked; hig-vid_spatial-layout__058: watched: 2 of 2 sheets opened, all codes checked
+- split-views: hig-img_split-views: watched: 2 of 2 sheets opened, all codes checked
+- status-bars: hig-img_status-bars: watched: 1 of 1 sheets opened, all codes checked
+- steppers: hig-img_steppers: watched: 1 of 1 sheets opened, all codes checked
+- tab-bars: hig-img_tab-bars: watched: 3 of 3 sheets opened, all codes checked; hig-vid_tab-bars__059: watched: 2 of 2 sheets opened, all codes checked
+- tab-views: hig-img_tab-views: watched: 1 of 1 sheets opened, all codes checked
+- tap-to-pay-on-iphone: hig-img_tap-to-pay-on-iphone: watched: 5 of 5 sheets opened, all codes checked
+- text-fields: hig-img_text-fields: watched: 2 of 2 sheets opened, all codes checked
+- text-views: hig-img_text-views: watched: 1 of 1 sheets opened, all codes checked
+- the-menu-bar: hig-img_the-menu-bar: watched: 1 of 1 sheets opened, all codes checked
+- toggles: hig-img_toggles: watched: 4 of 4 sheets opened, all codes checked
+- token-fields: hig-img_token-fields: watched: 1 of 1 sheets opened, all codes checked
+- toolbars: hig-img_toolbars: watched: 6 of 6 sheets opened, all codes checked
+- top-shelf: hig-img_top-shelf: watched: 2 of 2 sheets opened, all codes checked
+- typography: hig-img_typography: watched: 4 of 4 sheets opened, all codes checked
+- undo-and-redo: hig-img_undo-and-redo: watched: 1 of 1 sheets opened, all codes checked
+- virtual-keyboards: hig-img_virtual-keyboards: watched: 5 of 5 sheets opened, all codes checked; hig-vid_virtual-keyboards__060: watched: 2 of 2 sheets opened, all codes checked
+- voiceover: hig-img_voiceover: watched: 2 of 2 sheets opened, all codes checked
+- wallet: hig-img_wallet: watched: 14 of 14 sheets opened, all codes checked
+- watch-faces: hig-img_watch-faces: watched: 1 of 1 sheets opened, all codes checked
+- web-views: hig-img_web-views: watched: 1 of 1 sheets opened, all codes checked
+- widgets: hig-img_widgets: watched: 10 of 10 sheets opened, all codes checked
+- windows: hig-img_windows: watched: 3 of 3 sheets opened, all codes checked
+- workouts: hig-img_workouts: watched: 2 of 2 sheets opened, all codes checked
+- writing: hig-img_writing: watched: 1 of 1 sheets opened, all codes checked

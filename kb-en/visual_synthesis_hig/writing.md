@@ -1,0 +1,7 @@
+### What the illustrations show
+Basis: 1 illustration sheet (img 1338 to 1341) viewed, code checked; the page has no video.
+- The opening is monochromatic yellow: a clipboard with rounded corners crossed diagonally by a pencil, overlaid on rectangular grid lines and a central guide circle, in the same grid logic as the openings of other pages (img 1338).
+- The serious fall message on Apple Watch is built with a dark blue and purple gradient background, time at the top with an X to close, a short, declarative centered sentence, no emoji, and two stacked buttons: "EMERGENCY SOS", with a red circle on the left, above "I'm OK", in a purple and pink gradient; the emergency action comes before the dismiss action (img 1339).
+- The light achievement message uses a colorful activity ring in the top left corner, time and "now" at the top, a short title followed by a sentence with a concrete number (35 days) and an exclamation point, over a blurred colorful background in pink, purple and green (img 1340).
+- Compared, the two screens show that tone does not come from words alone: background color, temperature and composition change together, dark and cold with an emergency button in the serious situation, vibrant with an achievement ring in the celebration (img 1339 and img 1340).
+- The settings label appears as a card on a black background, short title on the left and a green switch turned on, on the right, with a supporting sentence in light gray below that describes only what happens with the feature turned on, without explaining the off state (img 1341).

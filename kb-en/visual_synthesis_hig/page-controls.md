@@ -1,0 +1,10 @@
+### What the illustrations show
+Basis: 2 of 2 illustration sheets viewed, all codes checked; the page has no video.
+- The opening diagram places the page control at the base of a rounded-corner window, with the active page as a solid black dot and the others in lighter red; a double vertical arrow covers almost the entire height of the window and another, short one sits next to the control, suggesting the measurement of the component's position and height relative to the window (img 0827).
+- Incorrect use, marked with a gray X: in the Weather app's bar, the central pill swaps the dots for a sequence of gray weather-condition icons that differ from each other, between a circular map button on the left and a list button on the right (img 0828 with img 0829).
+- Correct use, marked with a green check: the same bar, but the pill shows only the location icon at the start followed by simple dots, with the current page in black and the others in light gray, limiting the control to two types of indicator (img 0830 with img 0831).
+- In both Weather examples the page control lives inside a pill flanked by circular buttons, and the difference between right and wrong is only in the pill's content (img 0828, img 0830).
+- On iOS and iPadOS, a light gray pill with nine dots shows the size gradation: the five central ones at standard size, the second and second-to-last smaller, and the first and last smaller still, with the central dot filled in black as the current page (img 0832).
+- On vertical watchOS, a column of small dots sits on the right side of the screen, in the Digital Crown's position, with the current dot in white and the others in dark gray (img 0833).
+- On horizontal watchOS, five dots sit in a row at the bottom of the screen, with the current one in white and the others in dark gray, showing that the same pattern changes axis depending on the paging direction (img 0834).
+- In all variations the current indicator is distinguished by solid fill in contrast with the others, black on light in the light versions and white on black on watchOS (img 0827, img 0830, img 0832, img 0833, img 0834).
